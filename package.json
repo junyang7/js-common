@@ -1,0 +1,11 @@
+{
+  "name": "js-common",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "crypto-js": "^4.2.0",
+    "jsencrypt": "^3.3.2",
+    "uuid": "^11.1.0"
+  }
+}

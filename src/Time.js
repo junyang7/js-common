@@ -49,4 +49,10 @@ export default class Time {
         return sec + "秒前";
     }
 
+    static get() {
+
+        return new Date();
+
+    }
+
 }

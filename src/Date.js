@@ -1,13 +1,13 @@
 import Time from "./Time.js";
 
-export default class Datetime {
+export default class Date {
 
     static get() {
         return this.getByTime(Time.get())
     }
 
     static getByTime(t) {
-        return Time.format(t, "Y-m-d H:i:s")
+        return Time.format(t, "Y-m-d")
     }
 
     static getByUnix(unix) {
@@ -22,8 +22,12 @@ export default class Datetime {
         return this.getByTime(Time.getByUnixMicro(unixMicro))
     }
 
+    static getByDatetime(datetime) {
+        return datetime.slice(0, 10);
+    }
+
     static getByFormat(f) {
-        if (["Y-m-d H:i:s",].includes(f)) {
+        if (["Y-m-d", "Ymd", "Y/m/d",].includes(f)) {
             const p = Time.parse(Time.get())
             return f.replace(/[YmdHisf]/g, match => p[match]);
         }
@@ -31,7 +35,7 @@ export default class Datetime {
     }
 
     static getByTimeAndFormat(t, f) {
-        if (["Y-m-d H:i:s",].includes(f)) {
+        if (["Y-m-d", "Ymd", "Y/m/d",].includes(f)) {
             const p = Time.parse(t)
             return f.replace(/[YmdHisf]/g, match => p[match]);
         }

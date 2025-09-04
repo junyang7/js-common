@@ -1,7 +1,9 @@
 import Aes from "./src/Aes.js";
 import Axios from "./src/Axios.js";
 import Base64Format from "./src/Base64Format.js";
+import Date from "./src/Date.js";
 import Datetime from "./src/Datetime.js";
+import DatetimeMilli from "./src/DatetimeMilli.js";
 import Debug from "./src/Debug.js";
 import Hash from "./src/Hash.js";
 import Helper from "./src/Helper.js";
@@ -17,7 +19,9 @@ export default {
     Aes,
     Axios,
     Base64Format,
+    Date,
     Datetime,
+    DatetimeMilli,
     Debug,
     Hash,
     Helper,
@@ -34,7 +38,9 @@ export {
     Aes,
     Axios,
     Base64Format,
+    Date,
     Datetime,
+    DatetimeMilli,
     Debug,
     Hash,
     Helper,

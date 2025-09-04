@@ -54,4 +54,75 @@ export default class Time {
 
     }
 
+    static getByUnix(unix) {
+
+        return new Date(unix * 1000);
+
+    }
+
+    static getByUnixMilli(unixMilli) {
+
+        return new Date(unixMilli);
+
+    }
+
+    static getByUnixMicro(unixMicro) {
+
+        return new Date(unixMicro / 1000);
+
+    }
+
+    static getByFormatAndString(f, s) {
+
+        // 暂时限定这几种，后边用到了再加
+        if (["Y-m-d", "Y-m-d H:i:s", "Y-m-d H:i:s.f", "Y/m/d",].includes(f)) {
+            return new Date(s);
+        }
+
+        throw Error("不支持的格式");
+
+    }
+
+    static getByDate(date) {
+
+        return new Date(date);
+
+    }
+
+    static getByDatetime(datetime) {
+
+        return new Date(datetime);
+
+    }
+
+    static getByDatetimeMilli(datetimeMilli) {
+
+        return new Date(datetimeMilli);
+
+    }
+
+    static parse(t) {
+
+        return {
+            Y: t.getFullYear(),
+            m: String(t.getMonth() + 1).padStart(2, "0"),
+            d: String(t.getDate()).padStart(2, "0"),
+            H: String(t.getHours()).padStart(2, "0"),
+            i: String(t.getMinutes()).padStart(2, "0"),
+            s: String(t.getSeconds()).padStart(2, "0"),
+            f: String(t.getMilliseconds()).padStart(3, "0"),
+        };
+
+    }
+
+    static format(t, f) {
+
+        if (["Y-m-d", "Y-m-d H:i:s", "Y-m-d H:i:s.f", "Y/m/d",].includes(f)) {
+            const p = this.parse(t);
+            return f.replace(/[YmdHisf]/g, match => p[match]);
+        }
+        throw Error("不支持的格式");
+
+    }
+
 }

@@ -16,22 +16,20 @@ export default class Time {
         const min = Math.floor(sec / 60);
         const hour = Math.floor(min / 60);
         const day = Math.floor(hour / 24);
-        const nowDate = new Date(now);
-        const oldDate = new Date(old);
-        const yearDiff = nowDate.getFullYear() - oldDate.getFullYear();
-        const monthDiff = yearDiff * 12 + (nowDate.getMonth() - oldDate.getMonth());
-        const weekDiff = Math.floor(day / 7);
+        const week = Math.floor(day / 7);
+        const month = Math.floor(day / 30);
+        const year = Math.floor(day / 365);
 
-        if (yearDiff >= 1) {
-            return yearDiff + "年前";
+        if (year >= 1) {
+            return year + "年前";
         }
 
-        if (monthDiff >= 1) {
-            return monthDiff + "月前";
+        if (month >= 1) {
+            return month + "月前";
         }
 
-        if (weekDiff >= 1) {
-            return weekDiff + "周前";
+        if (week >= 1) {
+            return week + "周前";
         }
 
         if (day >= 1) {
@@ -47,6 +45,7 @@ export default class Time {
         }
 
         return sec + "秒前";
+
     }
 
     static get() {

@@ -2,6 +2,10 @@ import UnixMilli from "./UnixMilli.js";
 
 export default class Time {
 
+    static async sleep(millisecond) {
+        return new Promise(resolve => setTimeout(resolve, millisecond));
+    }
+
     static humanByDatetime(datetime) {
 
         const now = UnixMilli.get();

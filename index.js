@@ -1,5 +1,4 @@
 import Aes from "./src/Aes.js";
-import Axios from "./src/Axios.js";
 import Base64Format from "./src/Base64Format.js";
 import Date from "./src/Date.js";
 import Datetime from "./src/Datetime.js";
@@ -15,12 +14,12 @@ import Time from "./src/Time.js";
 import Unix from "./src/Unix.js";
 import UnixMilli from "./src/UnixMilli.js";
 import Uuid from "./src/Uuid.js";
+import _Axios from "./src/_Axios.js";
 import _Coordinate from "./src/_Coordinate.js";
 import _Object from "./src/_Object.js";
 
 const jc = {
     Aes,
-    Axios,
     Base64Format,
     Date,
     Datetime,
@@ -36,6 +35,7 @@ const jc = {
     Unix,
     UnixMilli,
     Uuid,
+    _Axios,
     _Coordinate,
     _Object,
 };

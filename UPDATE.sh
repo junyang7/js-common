@@ -9,24 +9,37 @@ PKG_FILE="./package.json"
 # === 生成 index.js ===
 modules=$(ls "$SRC_DIR"/*.js | LC_ALL=C sort | xargs -n1 basename | sed 's/\.js$//')
 
+# 生成 import 语句
 imports=""
 for m in $modules; do
     imports+="import $m from \"./src/$m.js\";\n"
 done
 
-default_exports="export default {\n"
+# 生成 jc 对象
+jc_object="const jc = {\n"
 for m in $modules; do
-    default_exports+="    $m,\n"
+    jc_object+="    $m,\n"
 done
-default_exports+="};\n"
+jc_object+="};"
 
-named_exports="export {\n"
-for m in $modules; do
-    named_exports+="    $m,\n"
-done
-named_exports+="};\n"
+# 全局变量注入和 Vue 插件
+middle_code="if (typeof window !== \"undefined\") {
+    window.jc = jc;
+}
+if (typeof window === \"undefined\" && typeof global !== \"undefined\") {
+    global.jc = jc;
+}
+jc.install = function (Vue) {
+    if (!Vue.prototype.\$jc) {
+        Vue.prototype.\$jc = jc;
+    }
+};"
 
-echo -e "$imports\n$default_exports\n$named_exports" > "$OUT_FILE"
+# 导出语句
+exports="export default jc;\nexport {jc};"
+
+# 写入文件（注意空行的控制）
+echo -e "${imports}\n${jc_object}\n\n${middle_code}\n\n${exports}" > "$OUT_FILE"
 echo "✅ Generated $OUT_FILE"
 
 # === 更新 package.json version 字段 ===

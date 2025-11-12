@@ -5,6 +5,7 @@ import Date from "./src/Date.js";
 import Datetime from "./src/Datetime.js";
 import DatetimeMilli from "./src/DatetimeMilli.js";
 import Debug from "./src/Debug.js";
+import Duration from "./src/Duration.js";
 import Hash from "./src/Hash.js";
 import Helper from "./src/Helper.js";
 import IndexedDB from "./src/IndexedDB.js";
@@ -23,6 +24,7 @@ const jc = {
     Datetime,
     DatetimeMilli,
     Debug,
+    Duration,
     Hash,
     Helper,
     IndexedDB,

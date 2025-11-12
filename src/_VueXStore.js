@@ -8,7 +8,7 @@ if (!(Vue._installedPlugins || []).includes(Vuex)) {
 export default class _VueXStore {
     static #instance;
 
-    static getInstance(state) {
+    static init(state) {
         if (this.#instance == null) {
             this.#instance = new Vuex.Store({
                 state: state,
@@ -135,7 +135,26 @@ export default class _VueXStore {
                 ],
             });
         }
-        return this.#instance;
+    }
+
+    static unshift(path, value) {
+        this.#instance.dispatch('unshift', {path, value});
+    }
+
+    static push(path, value) {
+        this.#instance.dispatch('push', {path, value});
+    }
+
+    static del(path) {
+        this.#instance.dispatch('del', {path});
+    }
+
+    static set(path, value) {
+        this.#instance.dispatch('set', {path, value});
+    }
+
+    static get(path) {
+        return this.#instance.getters.get(path);
     }
 
 }

@@ -15,7 +15,7 @@ import Unix from "./src/Unix.js";
 import UnixMilli from "./src/UnixMilli.js";
 import Uuid from "./src/Uuid.js";
 
-export default {
+const jc = {
     Aes,
     Axios,
     Base64Format,
@@ -34,22 +34,17 @@ export default {
     Uuid,
 };
 
-export {
-    Aes,
-    Axios,
-    Base64Format,
-    Date,
-    Datetime,
-    DatetimeMilli,
-    Debug,
-    Hash,
-    Helper,
-    IndexedDB,
-    Rsa,
-    Sql,
-    Time,
-    Unix,
-    UnixMilli,
-    Uuid,
+if (typeof window !== "undefined") {
+    window.jc = jc;
+}
+if (typeof window === "undefined" && typeof global !== "undefined") {
+    global.jc = jc;
+}
+jc.install = function (Vue) {
+    if (!Vue.prototype.$jc) {
+        Vue.prototype.$jc = jc;
+    }
 };
 
+export default jc;
+export {jc};

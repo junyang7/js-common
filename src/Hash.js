@@ -6,27 +6,27 @@ export default class Hash {
         return CryptoJS.MD5(data).toString();
     }
 
-    Sha1(data) {
+    static sha1(data) {
         return CryptoJS.SHA1(data).toString();
     }
 
-    Sha256(data) {
+    static sha256(data) {
         return CryptoJS.SHA256(data).toString();
     }
 
-    Sha512(data) {
+    static sha512(data) {
         return CryptoJS.SHA512(data).toString();
     }
 
-    HmacSha1(data, key) {
+    static hmacSha1(data, key) {
         return CryptoJS.HmacSHA1(data, key).toString();
     }
 
-    HmacSha256(data, key) {
+    static hmacSha256(data, key) {
         return CryptoJS.HmacSHA256(data, key).toString();
     }
 
-    HmacSha512(data, key) {
+    static hmacSha512(data, key) {
         return CryptoJS.HmacSHA512(data, key).toString();
     }
 

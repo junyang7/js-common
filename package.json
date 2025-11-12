@@ -1,6 +1,6 @@
 {
     "name": "js-common",
-    "version": "0.0.1+202511122125",
+    "version": "0.0.1+202511122257",
     "main": "index.js",
     "type": "module",
     "dependencies": {
@@ -8,6 +8,10 @@
         "crypto-js": "^4.2.0",
         "jsencrypt": "^3.3.2",
         "qs": "^6.14.0",
-        "uuid": "^11.1.0"
+        "uuid": "^11.1.0",
+        "vuex": "3.6.2"
+    },
+    "peerDependencies": {
+        "vue": "^2.6.14"
     }
 }

@@ -15,6 +15,7 @@ import Time from "./src/Time.js";
 import Unix from "./src/Unix.js";
 import UnixMilli from "./src/UnixMilli.js";
 import Uuid from "./src/Uuid.js";
+import _Object from "./src/_Object.js";
 
 const jc = {
     Aes,
@@ -34,6 +35,7 @@ const jc = {
     Unix,
     UnixMilli,
     Uuid,
+    _Object,
 };
 
 if (typeof window !== "undefined") {

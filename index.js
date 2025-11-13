@@ -18,6 +18,7 @@ import _Avoid from "./src/_Avoid.js";
 import _Axios from "./src/_Axios.js";
 import _Coordinate from "./src/_Coordinate.js";
 import _Object from "./src/_Object.js";
+import _VueEvent from "./src/_VueEvent.js";
 import _VueXStore from "./src/_VueXStore.js";
 import _Zone from "./src/_Zone.js";
 
@@ -42,6 +43,7 @@ const jc = {
     _Axios,
     _Coordinate,
     _Object,
+    _VueEvent,
     _VueXStore,
     _Zone,
 };

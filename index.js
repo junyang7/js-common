@@ -18,6 +18,7 @@ import _Axios from "./src/_Axios.js";
 import _Coordinate from "./src/_Coordinate.js";
 import _Object from "./src/_Object.js";
 import _VueXStore from "./src/_VueXStore.js";
+import _Zone from "./src/_Zone.js";
 
 const jc = {
     Aes,
@@ -40,6 +41,7 @@ const jc = {
     _Coordinate,
     _Object,
     _VueXStore,
+    _Zone,
 };
 
 if (typeof window !== "undefined") {

@@ -14,6 +14,7 @@ import Time from "./src/Time.js";
 import Unix from "./src/Unix.js";
 import UnixMilli from "./src/UnixMilli.js";
 import Uuid from "./src/Uuid.js";
+import _Avoid from "./src/_Avoid.js";
 import _Axios from "./src/_Axios.js";
 import _Coordinate from "./src/_Coordinate.js";
 import _Object from "./src/_Object.js";
@@ -37,6 +38,7 @@ const jc = {
     Unix,
     UnixMilli,
     Uuid,
+    _Avoid,
     _Axios,
     _Coordinate,
     _Object,

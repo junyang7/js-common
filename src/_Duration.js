@@ -1,4 +1,4 @@
-export default class Duration {
+export default class _Duration {
 
     static format(second) {
         let o = {

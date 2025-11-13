@@ -1,4 +1,4 @@
-export default class Debug {
+export default class _Debug {
 
     static #debug = process.env.VUE_APP_DEBUG === "true";
 

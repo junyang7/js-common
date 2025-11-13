@@ -1,4 +1,4 @@
-export default class Sql {
+export default class _Sql {
 
     static TYPE_LIST = [
         "TINYINT", "SMALLINT", "MEDIUMINT", "INT", "BIGINT",

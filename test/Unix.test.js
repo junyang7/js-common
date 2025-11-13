@@ -1,3 +1,3 @@
-import Unix from "../src/Unix.js";
+import _Unix from "../src/_Unix.js";
 
-console.log(Unix.get())
+console.log(_Unix.get())

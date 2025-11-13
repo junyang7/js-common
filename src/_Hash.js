@@ -1,6 +1,6 @@
 import CryptoJS from "crypto-js";
 
-export default class Hash {
+export default class _Hash {
 
     static md5(data) {
         return CryptoJS.MD5(data).toString();

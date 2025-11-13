@@ -1,3 +1,3 @@
-import Date from "../src/Date.js";
+import _Date from "../src/_Date.js";
 
-console.log(Date.get())
+console.log(_Date.get())

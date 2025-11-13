@@ -1,4 +1,4 @@
-export default class UnixMilli {
+export default class _UnixMilli {
 
     static get() {
         return Date.now();

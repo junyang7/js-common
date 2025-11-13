@@ -1,3 +1,3 @@
-import Time from "../src/Time.js";
+import _Time from "../src/_Time.js";
 
-console.log(Time.get())
+console.log(_Time.get())

@@ -1,4 +1,4 @@
-export default class Base64Format {
+export default class _Base64Format {
 
     static encode(data) {
         return data.replace(/\+/g, "-").replace(/\//g, "_").replace(/(=*$)/g, "");

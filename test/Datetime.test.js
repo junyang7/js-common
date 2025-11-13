@@ -1,3 +1,3 @@
-import Datetime from "../src/Datetime.js";
+import _Datetime from "../src/_Datetime.js";
 
-console.log(Datetime.get())
+console.log(_Datetime.get())

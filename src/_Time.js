@@ -1,6 +1,6 @@
-import UnixMilli from "./UnixMilli.js";
+import _UnixMilli from "./_UnixMilli.js";
 
-export default class Time {
+export default class _Time {
 
     static async sleep(millisecond) {
         return new Promise(resolve => setTimeout(resolve, millisecond));
@@ -8,8 +8,8 @@ export default class Time {
 
     static humanByDatetime(datetime) {
 
-        const now = UnixMilli.get();
-        const old = UnixMilli.getByDatetime(datetime);
+        const now = _UnixMilli.get();
+        const old = _UnixMilli.getByDatetime(datetime);
 
         const diff = now - old;
         if (diff < 0) {

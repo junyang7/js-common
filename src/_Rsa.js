@@ -1,6 +1,6 @@
 import {JSEncrypt} from "jsencrypt";
 
-export default class Rsa {
+export default class _Rsa {
 
     static encode(data, pub) {
         let encrypt = new JSEncrypt();

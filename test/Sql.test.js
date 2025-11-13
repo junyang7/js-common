@@ -1,4 +1,4 @@
-import Sql from "../src/Sql.js";
+import _Sql from "../src/_Sql.js";
 
 {
     let a = "CREATE TABLE `orders` (\n" +
@@ -2654,6 +2654,6 @@ import Sql from "../src/Sql.js";
             "new": "主订单表"
         }
     };
-    let b = Sql.buildDiffSql(a);
+    let b = _Sql.buildDiffSql(a);
     console.log(b);
 }

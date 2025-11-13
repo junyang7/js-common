@@ -1,6 +1,6 @@
 import CryptoJS from "crypto-js";
 
-export default class Aes {
+export default class _Aes {
 
     static encode(data, k32, i16) {
         return Crypto.AES.encrypt(data, CryptoJS.enc.Utf8.parse(k32), {

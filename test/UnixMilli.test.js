@@ -1,3 +1,3 @@
-import UnixMilli from "../src/UnixMilli.js";
+import _UnixMilli from "../src/_UnixMilli.js";
 
-console.log(UnixMilli.get())
+console.log(_UnixMilli.get())

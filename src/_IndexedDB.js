@@ -1,4 +1,4 @@
-export default class IndexedDB {
+export default class _IndexedDB {
 
     static #db = null;
     static #dbName = "ziji.fun";

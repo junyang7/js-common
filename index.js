@@ -1,4 +1,5 @@
 import _Aes from "./src/_Aes.js";
+import _Array from "./src/_Array.js";
 import _Avoid from "./src/_Avoid.js";
 import _Axios from "./src/_Axios.js";
 import _Base64Format from "./src/_Base64Format.js";
@@ -24,6 +25,7 @@ import _Zone from "./src/_Zone.js";
 
 const jc = {
     _Aes,
+    _Array,
     _Avoid,
     _Axios,
     _Base64Format,

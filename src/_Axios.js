@@ -1,5 +1,6 @@
 import axios from "axios";
 import qs from "qs";
+import _IndexedDB from "./_IndexedDB.js";
 
 axios.defaults.withCredentials = true;
 
@@ -20,10 +21,10 @@ export default class _Axios {
         if (!request.headers) {
             request.headers = {};
         }
-        request.headers["authorization"] = await jc.IndexedDB.get("authorization");
+        request.headers["authorization"] = await _IndexedDB.get("authorization");
         return new Promise((resolve, reject) => {
             this.request(request).then(async res => {
-                await jc.IndexedDB.set("authorization", res.headers["authorization"] || "");
+                await _IndexedDB.set("authorization", res.headers["authorization"] || "");
                 if (!res.hasOwnProperty("data")) {
                     reject(res);
                     return;

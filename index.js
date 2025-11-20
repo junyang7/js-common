@@ -8,6 +8,7 @@ import _Date from "./src/_Date.js";
 import _Datetime from "./src/_Datetime.js";
 import _DatetimeMilli from "./src/_DatetimeMilli.js";
 import _Debug from "./src/_Debug.js";
+import _Distance from "./src/_Distance.js";
 import _Duration from "./src/_Duration.js";
 import _Hash from "./src/_Hash.js";
 import _Helper from "./src/_Helper.js";
@@ -34,6 +35,7 @@ const jc = {
     _Datetime,
     _DatetimeMilli,
     _Debug,
+    _Distance,
     _Duration,
     _Hash,
     _Helper,

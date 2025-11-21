@@ -22,6 +22,7 @@ import _UnixMilli from "./src/_UnixMilli.js";
 import _Uuid from "./src/_Uuid.js";
 import _VueEvent from "./src/_VueEvent.js";
 import _VueXStore from "./src/_VueXStore.js";
+import _Window from "./src/_Window.js";
 import _Zone from "./src/_Zone.js";
 
 const jc = {
@@ -49,6 +50,7 @@ const jc = {
     _Uuid,
     _VueEvent,
     _VueXStore,
+    _Window,
     _Zone,
 };
 

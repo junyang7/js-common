@@ -16,6 +16,7 @@ import _IndexedDB from "./src/_IndexedDB.js";
 import _Object from "./src/_Object.js";
 import _Rsa from "./src/_Rsa.js";
 import _Sql from "./src/_Sql.js";
+import _Store from "./src/_Store.js";
 import _Time from "./src/_Time.js";
 import _Unix from "./src/_Unix.js";
 import _UnixMilli from "./src/_UnixMilli.js";
@@ -44,6 +45,7 @@ const jc = {
     _Object,
     _Rsa,
     _Sql,
+    _Store,
     _Time,
     _Unix,
     _UnixMilli,

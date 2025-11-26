@@ -4,16 +4,6 @@ export default class _Avoid {
         return [
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a49fb33613b7455e982280143eec4202",
-                "district": "顺义区",
-                "location": "陈马路与赵陈路交叉口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.786948,40.200042",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "1238e04679cb44eaadb12a9946a57efb",
                 "district": "通州区",
                 "location": "运河西大街与玉桥西路交叉口北",
@@ -30,26 +20,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.671586,39.891744",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "8472ecb37fc14cc39412b6f1f3a26203",
-                "district": "昌平区",
-                "location": "顺沙路北京大学（新燕园校区）南门",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.165732,40.171889",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "da240c4b679043fba9eebb2c365d847c",
-                "district": "房山区",
-                "location": "涞宝路沃德酒店南50米",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.692479,39.594695",
                 "zone": ""
             },
             {
@@ -154,16 +124,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5098645e521b42909307d73f47677b10",
-                "district": "密云区",
-                "location": "新南路与新农村路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.884912,40.383065",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "332c8de5c5884509b31de6b4493c5a60",
                 "district": "顺义区",
                 "location": "南焦路与顺于路交叉口",
@@ -180,16 +140,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "路南",
                 "coordinate": "116.504674,39.777478",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "06559abe09e848738b5969193d3ccd74",
-                "district": "",
-                "location": "京塘线（103国道）与东六环西侧路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.703539,39.868267",
                 "zone": ""
             },
             {
@@ -220,16 +170,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "115.984647,40.458304",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2ff9fc73c16b4769a0795623ed6d3b3f",
-                "district": "大兴区",
-                "location": "融兴北二街与瑞合东二路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.513092,39.730750",
                 "zone": ""
             },
             {
@@ -304,16 +244,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e107c62cf08940e195a57b78c2168ac2",
-                "district": "顺义区",
-                "location": "顺沙路与北高路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.512475,40.166348",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "939208c4059344e39dca78d81b0b3769",
                 "district": "通州区",
                 "location": "梨园南街与净水西路交叉口东",
@@ -374,16 +304,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c9143f252e4641758e7001f6e5c3c139",
-                "district": "",
-                "location": "东六环隧道土桥B匝道",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.700167,39.862293",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "1eecdc917c39469f899ab4f37d25ab45",
                 "district": "朝阳区",
                 "location": "四路居南路口北人行过街",
@@ -410,36 +330,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.495382,39.745336",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "27d6ce329f7641e9bd191e037c954757",
-                "district": "",
-                "location": "东六环系列摄像头2",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.704171,39.944463",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "761fc9ca2d9f4cb1848121d6396bc93c",
-                "district": "",
-                "location": "东六环系列摄像头",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.674679,39.831622",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5ca402e55c8344849243b0f6198657ee",
-                "district": "通州区",
-                "location": "东六环内环（京哈高速入六环）匝道K48",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.677629,39.834815",
                 "zone": ""
             },
             {
@@ -824,16 +714,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "665feb9305814cd2a6d004456f362b85",
-                "district": "大兴区",
-                "location": "融兴北三街与亦柏路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.520535,39.737815",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "db556bf6511046028d1194172b09f68b",
                 "district": "朝阳区",
                 "location": "南影路与南皋路交叉口",
@@ -850,16 +730,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.314074,39.830803",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c235a0735951424e850cf513f78e51d6",
-                "district": "房山区",
-                "location": "良常路与窦公路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.146566,39.668485",
                 "zone": ""
             },
             {
@@ -940,16 +810,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.457166,40.008322",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "d47746d817024c1697fbcea58a6283c1",
-                "district": "昌平区",
-                "location": "满白路与顺沙路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.213267,40.170930",
                 "zone": ""
             },
             {
@@ -1114,36 +974,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4d0f9abf7bdd435eb82b8bfa137ab5da",
-                "district": "通州区",
-                "location": "东六环外环（张家湾北站）匝道k45+974",
-                "direction": "",
-                "note": "【试用期】",
-                "coordinate": "116.696037,39.854556",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b2800285ba274de2a8e1833249cb7b88",
-                "district": "通州区",
-                "location": "东六环外环（六环入京哈高速）匝道K48+574",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.677114,39.833820",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c9082fd0dee7409a8cf029eef3206cf3",
-                "district": "通州区",
-                "location": "东六环外环（京哈高速入六环）匝道K47+474",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.685711,39.842423",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "c237a0b6e3af4bdba2d783bfc6cb8eb6",
                 "district": "通州区",
                 "location": "砖厂东路与京塘线（103国道）交叉口西",
@@ -1264,16 +1094,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1a84083e32a440a8953aee64181deaa8",
-                "district": "大兴区",
-                "location": "大兴机场出场高架15号龙门架",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.411071,39.554361",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "e127c2da2e724a1d837497645418c193",
                 "district": "朝阳区",
                 "location": "弘燕南二路与西大望南路交叉口",
@@ -1380,16 +1200,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.487206,39.759023",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7c035a52d80d4211a15ec89a6d8ec68a",
-                "district": "顺义城区",
-                "location": "顺白路与府前西街路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.640739,40.129688",
                 "zone": ""
             },
             {
@@ -1564,16 +1374,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c486dc6d8bb24f0bae0b0d0271ddd634",
-                "district": "门头沟区",
-                "location": "金沙街与石龙路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.126343,39.913005",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "a437ab915798400dbf9b109085529454",
                 "district": "丰台区",
                 "location": "智成南街与丰驰路交叉口",
@@ -1674,26 +1474,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e106f7d2d485431dabb531633710d03a",
-                "district": "昌平区",
-                "location": "白马路与工业区东侧路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.487410,40.186173",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "fcfd356a84104703942dacc2625a5d73",
-                "district": "平谷区",
-                "location": "打铁庄路南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.010692,40.057990",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "062de3ce41ef4727bd8aabdbd5c9de84",
                 "district": "通州区",
                 "location": "东六环内环（潞苑北街）匝道K35 174",
@@ -1780,16 +1560,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.713806,39.938884",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7ef77d30a40243abbeb6473e82f13bfa",
-                "district": "延庆区",
-                "location": "京礼高速营城子桥南",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.950738,40.356989",
                 "zone": ""
             },
             {
@@ -1924,16 +1694,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "740bd9c105374587b1efad0ab74fdd3c",
-                "district": "平谷区",
-                "location": "峪坨路西桥路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.997616,40.186742",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "30ced566cdff478abc6b6fcb30346702",
                 "district": "丰台区",
                 "location": "育仁南路与四合庄路交叉口",
@@ -1964,16 +1724,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6ad75d6c4278435c87904deb126d3ec8",
-                "district": "房山区",
-                "location": "公韩路陶营路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.198035,39.589673",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "4b53b235dc7b4dcdb36d3123da42107f",
                 "district": "房山区",
                 "location": "多宝路与昊天大街交叉口",
@@ -2000,16 +1750,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.148529,39.731096",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2ca38f740ce6426caad0abe01d341b39",
-                "district": "顺义城区",
-                "location": "通顺路与顺沙路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.657173,40.137215",
                 "zone": ""
             },
             {
@@ -2074,32 +1814,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "35493d74e41c4f6aa8378205f5a3f3df",
-                "district": "房山区",
-                "location": "京深路9**部队口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.092799,39.666859",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "cc4c9dbff015488588881b445669451a",
                 "district": "景山区",
                 "location": "古城西街南口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.177286,39.907530",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6d9669228ebe4da18bc81907264c65b1",
-                "district": "昌平区",
-                "location": "顺沙路与满白路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.216328,40.169555",
                 "zone": ""
             },
             {
@@ -2254,42 +1974,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "98f08fdde4884814a90617162b8d0fed",
-                "district": "平谷区",
-                "location": "密三路与环马北街交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.008342,40.065042",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "057ee782365744508c5ac89f38c64d4d",
-                "district": "昌平区",
-                "location": "顺沙路与航空博物馆交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.355015,40.171868",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "22ad90ff46e5427cb9582936b2a67057",
                 "district": "",
                 "location": "顺沙路与南百路口北",
                 "direction": "南北双向",
                 "note": "",
                 "coordinate": "116.323476,40.170400",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2a6b6c4d701e49db869181fb28345a83",
-                "district": "大兴区",
-                "location": "融兴北二街与瑞合西二路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.495567,39.726234",
                 "zone": ""
             },
             {
@@ -2434,16 +2124,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "fe85fa12b97441f38642978a678fc705",
-                "district": "昌平区",
-                "location": "顺沙路与航空博物馆交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.355611,40.171992",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "ffde417a26d440539d0cdb4195e04e76",
                 "district": "朝阳区",
                 "location": "花家地街花家地东路口",
@@ -2484,52 +2164,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "26c3d897e05840ec9a506968de1dd21c",
-                "district": "昌平区",
-                "location": "顺沙路与小汤山双兴苑小区路口",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.383937,40.175657",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "6d4d618e98804ac1b7217bfeed06172a",
                 "district": "开发区",
                 "location": "科创五街与经海三路",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.536475,39.805084",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6791272d1a6e459b9734e80c407dfbf4",
-                "district": "门头沟区",
-                "location": "杨坨路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.106628,40.005001",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6485950cf0c34f6ca2ab22f7d4d12487",
-                "district": "房山区",
-                "location": "阎河路原子能所",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.051395,39.743558",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6ad3be7965514b4293c474f2bdaf879a",
-                "district": "房山区",
-                "location": "阎河路北坊村口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.055317,39.738048",
                 "zone": ""
             },
             {
@@ -2584,26 +2224,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b9339677bdb048b2bae58b67e333b124",
-                "district": "顺义区",
-                "location": "顺兴街与军营北街交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.634504,40.108176",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "8bdb7895b97641d5b8302c1b49d85afb",
-                "district": "顺义区",
-                "location": "民富街与顺和路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.669190,40.113785",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "33c9a6a40ead467bb540b142657520cb",
                 "district": "西城区",
                 "location": "金融大街武定候街路口北",
@@ -2634,82 +2254,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "d79ef6c8f1dd4e81838ac609de0e3dda",
-                "district": "门头沟区",
-                "location": "京蔚高速AK37+080",
-                "direction": "东向西",
-                "note": "出京",
-                "coordinate": "115.719313,39.978122",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4b3f5353db5940bbbfb672ffd7f1211f",
-                "district": "昌平县城",
-                "location": "南环路北京风景南门西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.290272,40.212757",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c343f5dcf79743a8bb5eb7284b2d9272",
-                "district": "顺义城区",
-                "location": "西外环与顺于路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.628698,40.129020",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "842ad15b9b5a438ebd891750763ab687",
-                "district": "顺义城区",
-                "location": "西外环与顺沙路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.628976,40.139152",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "38c35da05ccd4452be7b238bf2912403",
                 "district": "朝阳区",
                 "location": "姚家园北路口",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.517076,39.944976",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "81553f45c5084e3d991bfad57500eb9d",
-                "district": "平谷区",
-                "location": "平旺街与台城路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.146247,40.178964",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "299af048133b42d3ad0b5c994c599b71",
-                "district": "平谷区",
-                "location": "鲁各庄北二街路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.076147,40.155207",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2c35ef73b0ea4baa89ce895bdd978513",
-                "district": "顺义城区",
-                "location": "新顺南大街与建新西街路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.651486,40.121834",
                 "zone": ""
             },
             {
@@ -2774,26 +2324,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6c5a967504b643f6853e654b68179c00",
-                "district": "顺义城区",
-                "location": "坤安路与马场东路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.666956,40.164487",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "30eead7817f840d9b5417a363042feb4",
-                "district": "门头沟区",
-                "location": "西苑路口东侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.138392,39.907374",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "dd44d173dd714d21a8eb1daac0d706c0",
                 "district": "通州区",
                 "location": "漷大路与石东路交叉口南",
@@ -2824,16 +2354,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "9b0681beaaa94cbf82131cac8e79942c",
-                "district": "顺义城区",
-                "location": "潮白河大桥西龙门",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.669947,40.147208",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "5b20da7817ad4622bd1d9ee839a624d5",
                 "district": "通州区",
                 "location": "厂通路与潞城中路交口东",
@@ -2850,16 +2370,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "含左转",
                 "coordinate": "116.621025,39.803212",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e0a394b3a95a4ccaaed9a8bf7411ac14",
-                "district": "顺义城区",
-                "location": "通顺路与顺沙路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.657234,40.136217",
                 "zone": ""
             },
             {
@@ -2884,16 +2394,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "f3285f2a2bfc484ea413ecf244e7edf9",
-                "district": "怀柔区",
-                "location": "京承高速43.2公里进京主路",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.671368,40.270195",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "1a966fdb06ec4a649be3c5e918e62c15",
                 "district": "通州区",
                 "location": "龙塘路龙苏路桥西",
@@ -2914,16 +2414,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a47cad0b1ce544fe91cf55c797c41ce2",
-                "district": "昌平区",
-                "location": "顺沙路与安四路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.408211,40.177090",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "2becef22f9694ee7ba177fcb264d02ae",
                 "district": "房山区",
                 "location": "长于大街与长阳路交叉口",
@@ -2934,62 +2424,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2fe64a4138c54e25b4abd19372bef76c",
-                "district": "平谷区",
-                "location": "京平高速侯家庄桥",
-                "direction": "西向东",
-                "note": "出京",
-                "coordinate": "117.061030,40.083571",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "674e90c26624451982cf3d6606cba9eb",
                 "district": "通州区",
                 "location": "西北环路与徐平路交叉口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.696832,39.992172",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "9601c25b3da44af38470cc9e3ce39639",
-                "district": "顺义城区",
-                "location": "西外环与顺沙路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.629485,40.138590",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b7f34786e61b4d0ca2afee383bcb419c",
-                "district": "顺义城区",
-                "location": "西外环与顺沙路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.629981,40.139112",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3d04bb91edd6411496f0355b1aabffa3",
-                "district": "顺义城区",
-                "location": "坤安路与马场东路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.667278,40.164718",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "d2660a2b0b324271b9828b119a46c699",
-                "district": "顺义城区",
-                "location": "坤安路与马场东路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.666582,40.164710",
                 "zone": ""
             },
             {
@@ -3064,82 +2504,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1eda9726e1434e90b832dd92a2278cd0",
-                "district": "大兴区",
-                "location": "长西路与安孙路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.628182,39.683170",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "da68dff8662b4a5fabd613316ab727db",
                 "district": "丰台区",
                 "location": "樊羊路与康平街交叉口南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.312943,39.835024",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "abf88993b7c048839b5410234e20bfac",
-                "district": "顺义城区",
-                "location": "坤安路与马场东路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.666849,40.164918",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "70c90ff3ad5649108e73e50a21a558f7",
-                "district": "顺义城区",
-                "location": "右堤路与裕龙一街路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.675175,40.124042",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3e81d23299e74360b992a3c0f8278341",
-                "district": "顺义城区",
-                "location": "通顺路与双兴北街路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.657284,40.140451",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5b5605c31b524dd7bce430d2082bb458",
-                "district": "顺义城区",
-                "location": "西外环与顺于路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.627637,40.128890",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e178398502574234b0ac32257a36ecf3",
-                "district": "顺义城区",
-                "location": "西外环与顺于路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.628101,40.129417",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "31db6cc73a464a3086e2321f2f5d1068",
-                "district": "顺义城区",
-                "location": "西外环与顺于路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.628318,40.128497",
                 "zone": ""
             },
             {
@@ -3214,42 +2584,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "8cdccbf803b74d19a2a6e05137b24ff4",
-                "district": "大兴区",
-                "location": "融兴北三街与瑞合西二路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.494033,39.728921",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1f0fbc418cd047188b010c441734f61e",
-                "district": "顺义区",
-                "location": "昌金路与中干渠路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.830051,40.205273",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b2a2b4c8e95c4a228ced5eef39adb3a6",
                 "district": "通州区",
                 "location": "新堤路与郎老路交叉口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.818907,39.786192",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "fc6639b9a638490ab53dd52cd5eee2c6",
-                "district": "顺义城区",
-                "location": "顺沙路西辛南北区路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.643049,40.137434",
                 "zone": ""
             },
             {
@@ -3364,16 +2704,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "31a0071646524f22bc635372e8ef6ad8",
-                "district": "门头沟区",
-                "location": "京蔚高速斋堂出入口与京拉线交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.709043,39.977872",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "cc5d719bc4f340c5b2a1df0db8dc7b3e",
                 "district": "丰台区",
                 "location": "康泉南路与王佐镇政府东侧路西",
@@ -3464,16 +2794,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "df86cc908ecf440f8c76618720060238",
-                "district": "密云区",
-                "location": "果园西路与果园北街交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.826366,40.375301",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "f203076dea5b4fe2aa59471e941c0298",
                 "district": "朝阳区",
                 "location": "望京街与望京东路口",
@@ -3560,16 +2880,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.840728,39.807739",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6c33fbbca23e4d008f6fd1652d7e3d68",
-                "district": "顺义区",
-                "location": "顺平路与机场东路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.630073,40.117372",
                 "zone": ""
             },
             {
@@ -3684,16 +2994,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "ad2f4910c353412aba01c789224ae7c2",
-                "district": "顺义城区",
-                "location": "外环路（西环）与顺平路交口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.629456,40.117952",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "a8117a5dc6e140a782bbbad0c616613e",
                 "district": "海淀区",
                 "location": "小营桥",
@@ -3794,16 +3094,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "486ebf47ec6f46a4b699aebd8bf63b88",
-                "district": "顺义城区",
-                "location": "顺白路与府前西街路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.641252,40.130038",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "d951f27d52da4c71ae7f18251c88777b",
                 "district": "开发区",
                 "location": "荣京西街与地盛中路",
@@ -3854,32 +3144,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7df76551baf1498787ad344b3c5024d2",
-                "district": "大兴区",
-                "location": "融兴南二街与瑞合西一路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.504171,39.718097",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "7616b6ea0baf4ab6bbf6e3b468dffe15",
                 "district": "开发区",
                 "location": "科创街与经海六路交叉口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.559207,39.799508",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a43046b71edc4e0393d1c0aad625111f",
-                "district": "房山区",
-                "location": "良常路小营路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.148406,39.695197",
                 "zone": ""
             },
             {
@@ -4044,16 +3314,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "025af6db9c2849a4915a44456744600c",
-                "district": "大兴区",
-                "location": "融兴北三街与瑞合路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.502330,39.733480",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "8f5dbfb123f6482ab494d3da3e50bbf5",
                 "district": "通州区",
                 "location": "武兴路与小崔路交叉口西",
@@ -4104,16 +3364,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b9237e8ee91d4c4385f3f789a862cb57",
-                "district": "顺义城区",
-                "location": "府前中街与光明街交口西侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.654605,40.129931",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "4242ae115bce45c08ba4fc28d473eac6",
                 "district": "开发区",
                 "location": "荣华南路与运成街",
@@ -4140,26 +3390,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.206416,40.125469",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "ec3034df6fef42c1a20e64f209f2bfea",
-                "district": "大兴区",
-                "location": "融兴北三街与瑞合路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.503537,39.733109",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a42739a86ea248c7b591148ef05223bc",
-                "district": "大兴区",
-                "location": "融兴南三街与瑞合路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.506211,39.715503",
                 "zone": ""
             },
             {
@@ -4274,16 +3504,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1de1f9a1f4d2478db66b96400ca3d99b",
-                "district": "顺义区",
-                "location": "新顺街与顺平辅线交口",
-                "direction": "西向东",
-                "note": "（桥下）",
-                "coordinate": "116.650550,40.117191",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "452c66e141994189ad532945c7d982a5",
                 "district": "开发区",
                 "location": "荣华中路与万源街",
@@ -4310,16 +3530,6 @@ export default class _Avoid {
                 "direction": "南北双向",
                 "note": "",
                 "coordinate": "116.790142,39.722970",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7a61c7ed88c14b68ac8e2887e8df7435",
-                "district": "昌平区",
-                "location": "南丰路白浮泉路路口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.273564,40.200597",
                 "zone": ""
             },
             {
@@ -4504,16 +3714,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "22e19b54aee245258e3266280ee7db92",
-                "district": "昌平区",
-                "location": "神牛路与昌流路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.169957,40.182099",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b0073965c5414e95b74eb7acba5cbb57",
                 "district": "朝阳区",
                 "location": "工人体育场南路和工人体育场东路交叉口",
@@ -4594,26 +3794,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6839c6beafe44459b891c8f635f55178",
-                "district": "顺义区",
-                "location": "北小营北街与水色时光西路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.723978,40.208037",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "937547da6dba4a1ba2bc348b561dbeba",
-                "district": "顺义区",
-                "location": "右堤路与裕龙一街路口",
-                "direction": "东南向西北",
-                "note": "",
-                "coordinate": "116.675831,40.124041",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "7453788922b54d7cb69fb3733651d55e",
                 "district": "朝阳区",
                 "location": "姚家园路朝体中心西路南口西",
@@ -4674,32 +3854,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "040b4a10eae0460ab49d932d1e3b8b46",
-                "district": "昌平区",
-                "location": "京藏高速水屯桥下",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.229932,40.200394",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b2677bf746a44c7a8ec87de60a0be26c",
                 "district": "朝阳区",
                 "location": "五环路广顺桥",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.467502,40.015075",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b8b4ac25746442ab87004895e46f3ef8",
-                "district": "门头沟区",
-                "location": "桥园路与平安路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.127329,39.894760",
                 "zone": ""
             },
             {
@@ -4774,16 +3934,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2a38f3c9c0f84357bfe37428739fdb58",
-                "district": "平谷区",
-                "location": "岳各庄南街与泃河西路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.089724,40.128971",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "97b68f9b3c114e3c960e7b71c8c06fc2",
                 "district": "海淀区",
                 "location": "阜永路口",
@@ -4834,16 +3984,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "923916e71ea44ccbb71a045e5e6e8532",
-                "district": "大兴区",
-                "location": "104国道30.1公里处",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.576280,39.657444",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "bb0a812b0659401bb6497afb2b672b53",
                 "district": "",
                 "location": "德胜门桥东主路出口",
@@ -4874,32 +4014,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "199005e92dff45a4bbf5ee3e01445f5a",
-                "district": "顺义区",
-                "location": "顺平路与左堤路交口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.700112,40.125391",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "a52e2b8005e44c9b8942b6719d987268",
                 "district": "开发区",
                 "location": "黄亦路与博兴九路交口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.497256,39.764255",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5547fec19da048a3a459dc0f7f7c2a56",
-                "district": "大兴区",
-                "location": "104国道南大红门桥南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.463638,39.725587",
                 "zone": ""
             },
             {
@@ -4954,16 +4074,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "621faf6edf024b159d2bbbfe88c9221a",
-                "district": "门头沟区",
-                "location": "石龙路与金沙街交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.126962,39.912778",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "8f9ef43273454ab6be1ffe797c5a237d",
                 "district": "通州区",
                 "location": "通怀路与京塘线（103国道）交口",
@@ -4980,16 +4090,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.185448,39.861650",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "181ba21f9b1b4e1994c782b60f260d7a",
-                "district": "昌平区",
-                "location": "京银路与水库西路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.217105,40.270882",
                 "zone": ""
             },
             {
@@ -5014,32 +4114,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "abc3d438cdd44832aa12c8e9a59c075d",
-                "district": "开发区",
-                "location": "黄马路与瑞合路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.501363,39.737021",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "f39277b578a34d2dbe8acaaa6f807e38",
                 "district": "海淀区",
                 "location": "香山南路与福田寺西街交口",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.203801,39.944330",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3ce87307815b44e5bd031c0f2d0a2dfe",
-                "district": "怀柔区",
-                "location": "京承高速46.5公里",
-                "direction": "",
-                "note": "出京",
-                "coordinate": "116.694874,40.272145",
                 "zone": ""
             },
             {
@@ -5084,16 +4164,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c78bfa1da4a2407d8a8e9a7d7582774d",
-                "district": "门头沟区",
-                "location": "石龙路与金沙街交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.126152,39.912727",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "6403ca5c4ccf423d98cd9118792d27fe",
                 "district": "通州区",
                 "location": "张凤路枣林庄北口南",
@@ -5114,16 +4184,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "85ef393fbea44db286d685f6ce8b1cf8",
-                "district": "密云区",
-                "location": "顺密路与单平路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.800432,40.296565",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "6bfdebd2771440aeadea715e1f2c928e",
                 "district": "朝阳区",
                 "location": "北京会议中心东侧路",
@@ -5140,16 +4200,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.618010,39.928506",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "55470a8b62404658bc775d4563f5317d",
-                "district": "开发区",
-                "location": "融兴北三街与瑞合东二路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.512137,39.735187",
                 "zone": ""
             },
             {
@@ -5194,16 +4244,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b340f789b7e341689846a8f6df9b0c01",
-                "district": "开发区",
-                "location": "融兴北一街与瑞合路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.504328,39.726103",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0428614679e24987b3fd6941af082f84",
                 "district": "昌平区",
                 "location": "上庄路与娄土路口南",
@@ -5220,36 +4260,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.341655,39.877347",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7c99f05dedbf4f4a922022832f1aa2c6",
-                "district": "开发区",
-                "location": "融兴街与瑞合路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.505223,39.722633",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "cb804fa305754152b0096cd7ba3337ae",
-                "district": "开发区",
-                "location": "融兴街与瑞合东一路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.509718,39.723379",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "bf085b8248484eb4bdae9b0df24205f5",
-                "district": "开发区",
-                "location": "融兴北一街与瑞合西一路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.501381,39.724967",
                 "zone": ""
             },
             {
@@ -5304,36 +4314,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1d44c5dd1e6f4c47a21223f722e41bc2",
-                "district": "平谷区",
-                "location": "龙安路与跃龙路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.165940,40.135744",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "752dfb489bea40dd88e60dadeeaf406b",
-                "district": "密云区",
-                "location": "G101国道与新南路（西）交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.795813,40.355770",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1603366879cf47b4b175eaa1847f1886",
-                "district": "开发区",
-                "location": "融兴北一街与亦柏路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.522351,39.729124",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0a9e4354c063406c87d3472c503e92c9",
                 "district": "开发区",
                 "location": "博兴八路与泰河二街路口",
@@ -5344,42 +4324,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "fda0c43176e44655a60c39b7d71b5d28",
-                "district": "大兴区",
-                "location": "融兴街与瑞合西二路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.499724,39.720833",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "e322321424b8438f82e3801837bc6780",
                 "district": "开发区",
                 "location": "科创十二街与经惠东路交口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.576764,39.791299",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "8f059855669b40be90093d889f6733b2",
-                "district": "门头沟区",
-                "location": "石担路与政法路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.108610,39.941607",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4da391dae4954aacab56057af5658a57",
-                "district": "昌平区",
-                "location": "G6辅路昌平旧县公交站",
-                "direction": "",
-                "note": "出京",
-                "coordinate": "116.191864,40.226303",
                 "zone": ""
             },
             {
@@ -5544,16 +4494,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e46e50e3e9de48faa36da407635e5955",
-                "district": "顺义城区",
-                "location": "顺沙路东海洪村路段",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.624178,40.139828",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b95e8cacbead4fbc8c97e302bbc6f395",
                 "district": "通州区",
                 "location": "中心西环路与张采路交口北",
@@ -5610,26 +4550,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "主路",
                 "coordinate": "116.461080,39.870672",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7cc95f07f5944ff9a1ac437ddc1ca9b2",
-                "district": "密云区",
-                "location": "行宫街与新北路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.862874,40.388700",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4e09849a5fde487ca67bee1839c5a2d8",
-                "district": "顺义区",
-                "location": "顺兴路与时骏南街北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.634809,40.088426",
                 "zone": ""
             },
             {
@@ -5804,16 +4724,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b7a605dce47c4f2f973b3511bf162ff4",
-                "district": "平谷区",
-                "location": "龙安路与跃龙路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.166297,40.135554",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0fe7d10ff4b045a09aa8e3ed0ccc055f",
                 "district": "海淀区",
                 "location": "远大南街东路口南",
@@ -5910,26 +4820,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.713137,39.923590",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "cf043e3250b8490293434621eea411ea",
-                "district": "大兴区",
-                "location": "京开高速天宫院收费站北",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.325375,39.676469",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c760d0ae406e4b7f9c38b57ae393cb9e",
-                "district": "",
-                "location": "京承高速28.6公里出京主路",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.513849,40.224349",
                 "zone": ""
             },
             {
@@ -6044,16 +4934,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "44d71745548743dfa001580a0131afd8",
-                "district": "房山区",
-                "location": "京周路与云峰寺路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.955219,39.678023",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "a71d569d20a54c12b5b389c2f07cdcdd",
                 "district": "开发区",
                 "location": "科创三街与经海三路交口",
@@ -6100,16 +4980,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.700868,39.793184",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6602f27b000a40219166d53e2c462858",
-                "district": "门头沟区",
-                "location": "苛萝坨路口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.098117,39.884081",
                 "zone": ""
             },
             {
@@ -6224,16 +5094,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1909aee9db0e467ba737018238ebc840",
-                "district": "顺义城区",
-                "location": "顺沙路西辛南北区路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.642286,40.137403",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "d3cecc5b7af744d5831c9e7eac8b5cb1",
                 "district": "海淀区",
                 "location": "建材城西路与建材城中路路口南侧",
@@ -6300,36 +5160,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "辅路",
                 "coordinate": "116.184504,39.875991",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "024258bbe8544208a6fae458c45a9f10",
-                "district": "昌平区",
-                "location": "水南路与规划一路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.059133,40.197557",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7c5bacacf70b4297822ad5629afee176",
-                "district": "昌平区",
-                "location": "南雁路与北葛路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.064396,40.169435",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "cc30d4936fe141daa2cda1aeb8f2bc39",
-                "district": "顺义城区",
-                "location": "上丰街与顺白路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.638295,40.152258",
                 "zone": ""
             },
             {
@@ -6460,16 +5290,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.535126,39.817390",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "840868c1b3af472da0d1e91a42a6a772",
-                "district": "顺义城区",
-                "location": "顺白路与上丰街交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.637809,40.152422",
                 "zone": ""
             },
             {
@@ -6614,16 +5434,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6ee16b3bc2f24913835cdd179bc31089",
-                "district": "密云区",
-                "location": "G101国道密10路公交总站路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.853071,40.399728",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0efe751bd67246f8a8d1278925e7b88e",
                 "district": "朝阳区",
                 "location": "红军营路与北苑中街交口",
@@ -6704,32 +5514,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a18ffdec69f74e5fb0cc6533f699de8a",
-                "district": "怀柔区",
-                "location": "杨雁东一路与京密北三街交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.688902,40.335930",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "fa04c59f3dc7412e90e8b9bd1a889964",
                 "district": "开发区",
                 "location": "凉水河路与博兴三路交口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.523866,39.765435",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "17c62bab592d4e44b1d8f246afee3ce3",
-                "district": "顺义城区",
-                "location": "通顺路与外环路（北环）交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.656348,40.147633",
                 "zone": ""
             },
             {
@@ -7224,16 +6014,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6fe104cf786a4e38bf68bf6da774855b",
-                "district": "密云区",
-                "location": "阳光街与檀东路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.876548,40.375474",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "922030bbd88c413489960d8711198a12",
                 "district": "朝阳区",
                 "location": "科学院南里中街大屯路口右",
@@ -7334,16 +6114,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "784924c10d824e8c8a84e939317fc441",
-                "district": "顺义城区",
-                "location": "新顺南大街与建新西街路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.651186,40.121486",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "e5a3579e5c6a4963bdf43c36e0385209",
                 "district": "开发区",
                 "location": "康定街与宏达南路交口",
@@ -7430,26 +6200,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.548975,39.772769",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "dae91015a26249c8a31a77284e0c91bc",
-                "district": "昌平区",
-                "location": "南丰路与朝辛路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.278337,40.232495",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "93bcbe87580c4cfa85c1a8c76644c502",
-                "district": "顺义区",
-                "location": "通顺路与顺沙路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.657654,40.136801",
                 "zone": ""
             },
             {
@@ -7674,26 +6424,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7df03899655b4027baff25cecad6b90d",
-                "district": "延庆区",
-                "location": "八峪路与东闫路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.109594,40.567589",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c9b9ef85df194c4092d6404f2f45cbbc",
-                "district": "门头沟区",
-                "location": "石担路门头沟检测场口南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.115271,39.925478",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "446a55aadfb3423fb63778323006e434",
                 "district": "朝阳区",
                 "location": "朝阳北路与东十里堡交口",
@@ -7764,16 +6494,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4af573ec021d4f9ab00de9ea71c2ab34",
-                "district": "房山区",
-                "location": "大件路与阎吕路交口北",
-                "direction": "北向南",
-                "note": "（原张庄路口北）",
-                "coordinate": "116.094617,39.727866",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "38d3b46bd8254e03bd2b0903095bac1e",
                 "district": "开发区",
                 "location": "兴海路与三海子东路交口",
@@ -7804,32 +6524,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "51530f502c4046e398360c2243d5115d",
-                "district": "顺义城区",
-                "location": "新顺南大街与站前街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.651231,40.125526",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0e2ba5046843493a98a12ecf1e869d0c",
                 "district": "朝阳区",
                 "location": "安慧北里口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.412736,39.998615",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "37d4fdb8230e42549fd15994b73d1d37",
-                "district": "平区",
-                "location": "昌赤路泰陵村委会南",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.223711,40.321846",
                 "zone": ""
             },
             {
@@ -7914,26 +6614,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "55288d45f6124f44a8578162a78de4c8",
-                "district": "房山区",
-                "location": "张坊大街与府前街交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.717418,39.570836",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5ed43a086daa462e8d92e4eaab3e314f",
-                "district": "顺义城区",
-                "location": "新顺南大街与站前街路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.651102,40.126050",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0b3250834b6c46c89d505b052948a8fc",
                 "district": "顺义区",
                 "location": "天柱东路与天北路路口",
@@ -7954,32 +6634,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1ac9416e89014181951c5e5c9680bdd8",
-                "district": "平谷区",
-                "location": "法院北口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.096110,40.142432",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "0daef6b33061425ca731bc4655b3b0c7",
                 "district": "开发区",
                 "location": "宝善街与三海子东路交口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.481971,39.762188",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7a79319e03f548d1b344b9a4157df971",
-                "district": "顺义城区",
-                "location": "右堤路与顺平辅线路口",
-                "direction": "西北向东南",
-                "note": "",
-                "coordinate": "116.670218,40.128035",
                 "zone": ""
             },
             {
@@ -8000,16 +6660,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "辅路",
                 "coordinate": "116.479922,39.964686",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7b996b4dfaed484db12e2fe6c31cd8be",
-                "district": "顺义区",
-                "location": "右堤路与顺平辅线路口",
-                "direction": "西向向东北",
-                "note": "",
-                "coordinate": "116.669773,40.127168",
                 "zone": ""
             },
             {
@@ -8044,16 +6694,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "08bf43c48de34715b9c2c9b48d3dba56",
-                "district": "顺义城区",
-                "location": "新顺南大街与建新西街路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.650769,40.121806",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "c73575d007e245ff8b15f2df992e4354",
                 "district": "顺义区",
                 "location": "馨园二路与天北路路口",
@@ -8084,16 +6724,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "5a9abe81647e4c0ab7e770cb281f2caa",
-                "district": "顺义城区",
-                "location": "光明街与减河桥路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.656843,40.143328",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "de2eccfb24204777b95d3ae0f8f344f3",
                 "district": "开发区",
                 "location": "兴海一街与四合路交口",
@@ -8110,36 +6740,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.493835,39.798555",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2064898a60b84311b5071acdeeaaf6cb",
-                "district": "顺义城区",
-                "location": "右堤路与顺沙路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.662584,40.138884",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b76a376dd77841d9b6888aac69fd7b18",
-                "district": "房山区",
-                "location": "阎吕路小苑上北口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.059881,39.790881",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e9f29e8a811f416486713a209bda7f10",
-                "district": "顺义城区",
-                "location": "顺白路西马坡村路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.641264,40.164776",
                 "zone": ""
             },
             {
@@ -8210,16 +6810,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.482536,39.749287",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b7f7b219e44e47cc90dc734a9b23a850",
-                "district": "门头沟",
-                "location": "大峪中学口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.095003,39.934397",
                 "zone": ""
             },
             {
@@ -8514,16 +7104,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "0b76d70a208e481293d7c78f06c45177",
-                "district": "顺义城区",
-                "location": "顺平辅线与左堤辅线交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.679069,40.132688",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "7c14c04dc14b4c67b92d3ac452f75505",
                 "district": "西城区",
                 "location": "白纸坊桥东",
@@ -8540,16 +7120,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "辅路",
                 "coordinate": "116.183536,39.876972",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "b9254bdb94e44938bea7c2ab05105e24",
-                "district": "平谷区",
-                "location": "平瑞街与鲁韩路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.059768,40.166527",
                 "zone": ""
             },
             {
@@ -8600,16 +7170,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.356429,39.914226",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a0acad0071434376af5eb0f3a4bdc987",
-                "district": "大兴区",
-                "location": "赵安路与西韩路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.246823,39.592159",
                 "zone": ""
             },
             {
@@ -8744,16 +7304,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "cc183477967a468194b6fd30792a3710",
-                "district": "平谷区",
-                "location": "夏贤路与马魏路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.170848,40.139858",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "7e3e304ef7b94407864c0d1202790a0b",
                 "district": "丰台区",
                 "location": "万华街与丰帆东路交口",
@@ -8790,16 +7340,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.492527,39.761651",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "a614ccc4204e4909817b2a3e76aaa4b2",
-                "district": "房山区",
-                "location": "京周路与顾八路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.015553,39.705090",
                 "zone": ""
             },
             {
@@ -8884,26 +7424,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "ecdb36132c964ef1bb064315357161d5",
-                "district": "房山区",
-                "location": "房易路与瓦井村路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.927254,39.641001",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "d410956698cc41959bd473b8b4134f6f",
-                "district": "怀柔区",
-                "location": "杨雁东一路与京密北三街交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.689190,40.336156",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "88615fcc0f7f4a068fb7c3334595da18",
                 "district": "",
                 "location": "首都机场机场西路迎宾北桥卡口",
@@ -8944,16 +7464,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "24b188326abc4affb6d253cb98b68184",
-                "district": "房山区",
-                "location": "城洪路西环路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.969493,39.714508",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "98c379a226e14b7783e9beebe7a99e6b",
                 "district": "海淀区",
                 "location": "五环主路杏石口桥外环/外环",
@@ -8980,26 +7490,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "出京",
                 "coordinate": "116.468672,39.971542",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "0c1af5f8f7a943559c2adc862c59cff3",
-                "district": "怀柔区",
-                "location": "怀长路与局里路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.423132,40.352990",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "86ac09d2af2d46fabda123c897f84572",
-                "district": "平谷区",
-                "location": "密三路与鲁韩路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.018807,40.167133",
                 "zone": ""
             },
             {
@@ -9114,16 +7604,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "99ccb78d83204f28b3009d660ab7cbd4",
-                "district": "顺义城区",
-                "location": "裕龙一街与顺和路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.669213,40.123163",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b3ff84b9a6eb439f8c2066749662589a",
                 "district": "朝阳区",
                 "location": "工人体育场南路和工人体育场东路交口",
@@ -9204,32 +7684,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3772a209423f4c3c90ee7b40136cb359",
-                "district": "延庆区",
-                "location": "康庄路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.910238,40.369801",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "71a57072ae2c4cd591697a263da082d8",
                 "district": "海淀区",
                 "location": "杏石口桥",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.213870,39.956117",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7f83780ba896457f8b083461c2277b4f",
-                "district": "昌平区",
-                "location": "京银路与水库西路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.217034,40.271341",
                 "zone": ""
             },
             {
@@ -9320,16 +7780,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "双向均能拍到",
                 "coordinate": "116.540924,39.733942",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "89b4271510f044cda03f9831e5939b68",
-                "district": "昌平区",
-                "location": "南百路钟家营南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.316279,40.183620",
                 "zone": ""
             },
             {
@@ -9444,72 +7894,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "017b61aec90043119d5b2355284853ca",
-                "district": "顺义城区",
-                "location": "白马路卷村南侧路段",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.615233,40.170875",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "178934b743ca4b1f9425b5e73752b290",
-                "district": "顺义城区",
-                "location": "裕龙一街与顺和路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.669036,40.123417",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3651de2e4b094d25896807bc5508162a",
-                "district": "顺义城区",
-                "location": "外环路（西环）与顺平路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.629294,40.118016",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "67c7876a3c9d4d86877801154632c088",
-                "district": "顺义区",
-                "location": "府前街与右堤路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.669467,40.129319",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "b26b4713b5ce44a097c9ea9e627ee6bf",
                 "district": "通州区",
                 "location": "兴光五街恩斯厂门口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.567680,39.813120",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "3507297fe3374becac8236247026fb08",
-                "district": "昌平区",
-                "location": "京青线与德胜口中心路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.209457,40.286774",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "f0e806eca4fc44299cc55891460ad5c9",
-                "district": "顺义区",
-                "location": "通顺路与华中路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.657261,40.151751",
                 "zone": ""
             },
             {
@@ -9534,52 +7924,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "e3b41b366d20489b9a3cca9747d41453",
-                "district": "顺义区",
-                "location": "拥军路西口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.657243,40.122835",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "7984cd19e2fc4b6cbb54325e5faa6924",
                 "district": "开发区",
                 "location": "宝善街与四合路交口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.491915,39.761676",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4c761a776b154393b166aabf59e715ed",
-                "district": "顺义区",
-                "location": "右堤路行政中心路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.664050,40.147658",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "ca72e572be1e44a2ae58691644d42030",
-                "district": "顺义城区",
-                "location": "东海洪南口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.617318,40.140483",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "304bd719f1de46798591f454cbfec045",
-                "district": "顺义城区",
-                "location": "东海洪南口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.616943,40.140839",
                 "zone": ""
             },
             {
@@ -9624,32 +7974,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "fd51987e804d49ceb7f41c1ba5e8e22e",
-                "district": "顺义区",
-                "location": "木燕路田家营村路段",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.809627,40.106683",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "3fb604c96fda4c6a81fc106842ad9854",
                 "district": "顺义区",
                 "location": "高白路古城村西侧路段",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.491975,40.095510",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "49d24f972c5f463dbf8cd2aca556ddd6",
-                "district": "顺义城区",
-                "location": "通顺路与外环路（北环）交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.656461,40.149009",
                 "zone": ""
             },
             {
@@ -9674,16 +8004,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "ceb4f0b1f9e2481dac46f6d988bcdec7",
-                "district": "顺义城区",
-                "location": "顺白路庄头村路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.637347,40.144608",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "8628d10483b842ef9279d229fd8e7a81",
                 "district": "开发区",
                 "location": "兴业街与同济南路交口",
@@ -9700,16 +8020,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.505220,39.777718",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "88739469cc76401e902a7512dd060481",
-                "district": "顺义城区",
-                "location": "右堤路华中园路段",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.665597,40.151855",
                 "zone": ""
             },
             {
@@ -9784,16 +8094,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "4b4c7ded4adf418780d1d829dd9b22df",
-                "district": "昌平区",
-                "location": "水库东路与蟒山路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.275912,40.255234",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "c1804791bc3f404e8048942ed38ea8c0",
                 "district": "朝阳区",
                 "location": "五环路西直河桥主路",
@@ -9830,26 +8130,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.333584,39.976894",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "2b730514b343488e97136dca83f2bfc6",
-                "district": "怀柔区",
-                "location": "西三村路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.595881,40.363543",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "7fc4e97249394f6293b9ef5adfec2fb3",
-                "district": "顺义区",
-                "location": "南陈路与毛洼路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.614239,40.186891",
                 "zone": ""
             },
             {
@@ -9900,16 +8180,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.713448,39.923467",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "6c361692eba946f79516beaf40983342",
-                "district": "平谷区",
-                "location": "鲁各庄南一路西口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.071430,40.142299",
                 "zone": ""
             },
             {
@@ -10054,16 +8324,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "c564a0b67a13435c8905586d05d3750e",
-                "district": "延庆区",
-                "location": "瑞通十处路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.021638,40.440945",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "04bc69412ab046b199022eba2c9fc707",
                 "district": "昌平区",
                 "location": "育知东路与黄土村路交口",
@@ -10160,26 +8420,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.486160,39.756181",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "d9fed740cde9497db5c696194285e4c3",
-                "district": "顺义区",
-                "location": "通顺路与天缘酒店路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.667113,40.049714",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "0ecf55e0b9344110825f6c4d811dc2ea",
-                "district": "大兴区",
-                "location": "青礼路与前佟路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.477539,39.600242",
                 "zone": ""
             },
             {
@@ -10294,16 +8534,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "f7ccacd522364c96a13ec9c4252a4907",
-                "district": "平谷区",
-                "location": "胡陡路与靠郭路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.327440,40.202538",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
                 "avoid_id": "fc4e360a8a2f4b4ba6a4c04b64a384b9",
                 "district": "石景山区",
                 "location": "亚疗桥路口0米",
@@ -10320,16 +8550,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.364949,39.833160",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:30",
-                "avoid_id": "1627e0b72f3844ce9ba4ad452a17d9c4",
-                "district": "房山区",
-                "location": "房易路与阎周路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.938726,39.660188",
                 "zone": ""
             },
             {
@@ -10354,16 +8574,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e46188e9058042b0ba0d08f32b1410f8",
-                "district": "房山区",
-                "location": "阎周路与提香草堂北口路口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.080333,39.685079",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "2f5850bf2fac487f9f4150ca4e3fb3cd",
                 "district": "朝阳区",
                 "location": "东坝南四街与驹子房路交口",
@@ -10380,16 +8590,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.507392,39.761825",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "44e17cabea984bb5bb31dcc609ed43cc",
-                "district": "平谷区",
-                "location": "密三路与峪胡路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.021340,40.220467",
                 "zone": ""
             },
             {
@@ -10424,16 +8624,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6cb76310c4c1411d86a73321c32301e7",
-                "district": "怀柔区",
-                "location": "乐园南一街与雁栖西一路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.679215,40.345088",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a65d9c92acc740f18c16c85b2f484868",
                 "district": "西城区",
                 "location": "金融大街广宁伯街口南",
@@ -10450,16 +8640,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.580944,39.786222",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "27201067a8844901932bbe09d705c3d5",
-                "district": "房山区",
-                "location": "北大街北大寺路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.984835,39.704934",
                 "zone": ""
             },
             {
@@ -10494,16 +8674,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bead1dd9ddea47499e88ee02cdbf05ca",
-                "district": "顺义区",
-                "location": "杨镇东大街与中干渠路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.838589,40.158143",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d8b2f5105cf94c978e1c9d8d4c950b1b",
                 "district": "开发区",
                 "location": "凉水河二街与博兴六路交口",
@@ -10520,16 +8690,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.507756,39.762080",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "eebc844f025e4defbef2c637b8bc4104",
-                "district": "平谷区",
-                "location": "兴谷西路南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.127136,40.158387",
                 "zone": ""
             },
             {
@@ -10684,16 +8844,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "def908d48e134ef5b5dccc8de1f65384",
-                "district": "昌平区",
-                "location": "昌赤路北新村路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.242033,40.283550",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "216346260cfa43e393a55756e3e86825",
                 "district": "开发区",
                 "location": "兴业街与永昌南路交口",
@@ -10834,42 +8984,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "39657a7e195545e8ae7dffb9361cea15",
-                "district": "昌平区",
-                "location": "水南路与南雁路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.090360,40.196584",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bf4222366b0f489abc9a835a133e70a8",
-                "district": "大兴区",
-                "location": "南中轴路海鑫路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.408643,39.710315",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "dfbc3fff8c344d9baa33e9e7d05e284d",
                 "district": "朝阳区",
                 "location": "四环主路外环肖村桥东入口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.452374,39.832310",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a2f6bcc119ff49ae9a6cb1a608b93bc6",
-                "district": "丰台区",
-                "location": "泉湖西路燕西华府路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.109116,39.793273",
                 "zone": ""
             },
             {
@@ -10914,16 +9034,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b1b2a8d9d5ba4906806919048a9bf405",
-                "district": "顺义区",
-                "location": "石园大街与顺泰路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.679792,40.108580",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8e9fb58bf5f4450caede289e2f65ffe1",
                 "district": "昌平区",
                 "location": "回南北路与行知路路口",
@@ -10950,26 +9060,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.572361,39.773313",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0ed1692f5854438685e23206dea7af74",
-                "district": "顺义区",
-                "location": "早鲍路与早立庄路交口东南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.963719,40.053315",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fbad51c0f41d400f8e9c8db294628d4b",
-                "district": "昌平区",
-                "location": "东环路与府学路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.239867,40.220537",
                 "zone": ""
             },
             {
@@ -11010,16 +9100,6 @@ export default class _Avoid {
                 "direction": "",
                 "note": "",
                 "coordinate": "116.616182,40.040710",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0462a1a80e0c470ca286e5e165fc07dc",
-                "district": "丰台区",
-                "location": "大件路与大窦路支路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.060457,39.722492",
                 "zone": ""
             },
             {
@@ -11134,16 +9214,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "83804f58bb7e40798cb3b2b5f14b9181",
-                "district": "昌平区",
-                "location": "东环路与府学路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.239473,40.220750",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "6c0d8b798fb8431cb71e1e599bbad478",
                 "district": "朝阳区",
                 "location": "南三里屯路口",
@@ -11170,26 +9240,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.310051,40.025973",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "04feb01bebdc44438bb68b1392500ca4",
-                "district": "昌平区",
-                "location": "怀昌路与大辛峰村桥西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.346057,40.207531",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "325aae742992472d958762dc469527d7",
-                "district": "延庆区",
-                "location": "大榆树路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.021987,40.441097",
                 "zone": ""
             },
             {
@@ -11264,62 +9314,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "762b0915974d4cc980e339a58a32e71a",
-                "district": "顺义城区",
-                "location": "财政局西侧路与站前西街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.648608,40.125617",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c3faba5ae8d84cf88f3dcdc209d6a90b",
                 "district": "海淀区",
                 "location": "万泉河桥",
                 "direction": "东向西",
                 "note": "（四环主路）",
                 "coordinate": "116.300296,39.985055",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "313abe7969bd4ce992e7d04a8cf91025",
-                "district": "顺义区",
-                "location": "龙塘路与右堤路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.737988,40.064062",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1ea62afeac444fb49ee5a99116a2d8cb",
-                "district": "房山区",
-                "location": "阎中路与八号路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.072904,39.731986",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "524f46da3b2c4bc38a2f1856e63c3358",
-                "district": "房山区",
-                "location": "紫码路与百合路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.082247,39.713976",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d8433f7a881441ee8a9af320c81df89a",
-                "district": "房山区",
-                "location": "京深路与良常路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.146167,39.673409",
                 "zone": ""
             },
             {
@@ -11444,26 +9444,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "69d74d2be064455794d8cda90e0ba761",
-                "district": "平谷区",
-                "location": "平谷南街西口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.111281,40.153472",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ef97ab903f1c48f196288ae0f8582f45",
-                "district": "房山区",
-                "location": "刘夏路与石夏路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.032742,39.653733",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b7ab7d7fc7074244b5207e4533fa8eb1",
                 "district": "丰台区",
                 "location": "石榴庄路石榴庄北里南侧路行人东",
@@ -11504,36 +9484,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4325cd88159f4fa1a91bde12b927b45d",
-                "district": "怀柔区",
-                "location": "杨雁东二路与中高路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.693590,40.347605",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ec6306a61eed4557a46d49bf281fa431",
-                "district": "昌平区",
-                "location": "南雁路与李流路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.100732,40.213112",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "88a5c43455904c37b8abd20f5ac2b611",
-                "district": "顺义区",
-                "location": "通顺路与石园大街交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.659215,40.112139",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "38c18cd1fa4640588fe16bf3308ef8b2",
                 "district": "海淀区",
                 "location": "文慧路与文慧园西路南",
@@ -11554,16 +9504,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8e5bd723baa24584a80549db1723eea9",
-                "district": "延庆区",
-                "location": "团结路与110国道交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.989114,40.490305",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "20b3ad01f31a4b2b96c0b3637cd109d1",
                 "district": "朝阳区",
                 "location": "东风桥南过街天桥",
@@ -11580,16 +9520,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.566341,39.772905",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c03b99fc27c44435aa78b80d430daf5d",
-                "district": "昌平区",
-                "location": "崔北路与内环东路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.288063,40.227494",
                 "zone": ""
             },
             {
@@ -11624,32 +9554,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "981dcadbffdd431faff0c46213377395",
-                "district": "昌平区",
-                "location": "崔北路与何营路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.293860,40.226192",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "fa0b0a4df9f244b4ad739668df886655",
                 "district": "开发区",
                 "location": "宏福西路与宜家北门交口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.323891,39.791019",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d3a12ba9e3754578ba4f8aafe55b7380",
-                "district": "延庆区",
-                "location": "",
-                "direction": "东北向西南",
-                "note": "",
-                "coordinate": "116.169133,40.533146",
                 "zone": ""
             },
             {
@@ -11670,16 +9580,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.586009,39.781218",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9ef41f2cf3db4f819436d9e50646dec6",
-                "district": "顺义区",
-                "location": "顺康路与民富街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.674323,40.113519",
                 "zone": ""
             },
             {
@@ -11724,16 +9624,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "045a15918a4a443993316d55f4c4bd66",
-                "district": "密云区",
-                "location": "石佛路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.876106,40.601301",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4f13a4a4407249778ed39934466629fa",
                 "district": "朝阳区",
                 "location": "五环路外环广顺桥东出口",
@@ -11760,36 +9650,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "辅路",
                 "coordinate": "116.486948,39.861832",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1195ba0227e644958cb9ffea549d2903",
-                "district": "平谷区",
-                "location": "东樊各庄小学路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.978199,40.190704",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a63e97f88f3542d1bb9acf75e69b1ab6",
-                "district": "平谷区",
-                "location": "樊各庄路与杨杏路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.985751,40.189295",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5436493258ab4397b52578faf1fd0d50",
-                "district": "昌平区",
-                "location": "龙水路与振兴路交汇处西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.258130,40.207533",
                 "zone": ""
             },
             {
@@ -11864,16 +9724,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6b0ffa5bddc8476d96f0f46bf7e57400",
-                "district": "平谷区",
-                "location": "密三路与大杨路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.021753,40.149709",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "31721538b256457f8cbc5fe4599b496c",
                 "district": "昌平区",
                 "location": "高教园南三街与北沙河中路路口",
@@ -11884,42 +9734,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "732626b8621648c885399466b48aab0e",
-                "district": "门头沟区",
-                "location": "高家园路桃园路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.106159,39.928131",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "57cbb909ed694b8cb86a40b44a96004d",
                 "district": "朝阳区",
                 "location": "东三环辅路与霄云路交口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.460158,39.954325",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "40e61d276a0d4818936a4b692e428530",
-                "district": "昌平区",
-                "location": "水南路与宏奤路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.202506,40.200831",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "eddd080d13144e48bbb3481ecd32fa6f",
-                "district": "昌平区",
-                "location": "昌金路与板西路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.518129,40.210247",
                 "zone": ""
             },
             {
@@ -11974,16 +9794,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c6dd2f7f8c804e86bf89b542c522c35b",
-                "district": "密云区",
-                "location": "顺朝街圣水泉路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.847554,40.348937",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "fa95c6b54b74422cb0b5ef28516661bb",
                 "district": "昌平区",
                 "location": "上庄路与娄土路口东",
@@ -12014,46 +9824,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "23d5a2bc40ba4bb1a857c79197ff47c2",
-                "district": "顺义区",
-                "location": "顺义地税局路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.651016,40.117918",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "31164a4408be468bb22ad8a86483650c",
-                "district": "顺义区",
-                "location": "顺义地税局路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.651131,40.116745",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1dfd5d8f5bc64b0cba3d3c71e6a1dec1",
-                "district": "顺义区",
-                "location": "顺平路与顺康路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.673680,40.115649",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "02f6953621004ff8a9020017b0064c9b",
-                "district": "昌平区",
-                "location": "安四路与顺沙路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.407470,40.176633",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "adb07fb508694159b4b0295be7e4cb1a",
                 "district": "通州区",
                 "location": "宏安街与清风路交口",
@@ -12070,16 +9840,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.356222,39.918955",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cae7a225cb37478f94198fe2aa22a74c",
-                "district": "门头沟",
-                "location": "石园中路东口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.106946,39.887138",
                 "zone": ""
             },
             {
@@ -12184,32 +9944,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ff1382acf7c94850b739dde904d7daee",
-                "district": "昌平区",
-                "location": "崔阿路与棉辛路路口南150米",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.351401,40.199825",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0db68391776248aeba69b5d914ea2ae6",
                 "district": "大兴区",
                 "location": "旧宫东西大街与云龙家园西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.436117,39.804504",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9e0cc4d099ba4226a27c815532c4499e",
-                "district": "昌平区",
-                "location": "四场路与秦上路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.388087,40.161009",
                 "zone": ""
             },
             {
@@ -12534,36 +10274,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1c4e620fc89543288ce0cf6947d71c7e",
-                "district": "平谷区",
-                "location": "平程路与东寺岭路交叉口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.137840,40.321551",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "72a810a7e3544140b19ce7fb96c88669",
-                "district": "平谷区",
-                "location": "平瑞街与平谷湿地公园路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.111520,40.166292",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a21e64d761554d56bb315e27520fca69",
-                "district": "平谷区",
-                "location": "园田街与旧城东街交叉口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.132212,40.136306",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ccfd0b868a9f4164a09fa015772f186f",
                 "district": "朝阳区",
                 "location": "四环主路小武基桥",
@@ -12694,16 +10404,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7a4a1f51b9814caa9b78bd2d1d5adb98",
-                "district": "丰台区",
-                "location": "泉湖西路与山湖路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.099274,39.793141",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "bdf22164ddb64e1b8ca2474199347198",
                 "district": "开发区",
                 "location": "科谷一街与经惠东路交口",
@@ -12764,16 +10464,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c399786a524b4e42800de547c9fafb73",
-                "district": "昌平区",
-                "location": "水南路与温南路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.119261,40.197285",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8a4a5f7e6b3540d68e36ae36fd4f19f3",
                 "district": "大兴区",
                 "location": "五环路上南五环旧忠桥西出口",
@@ -12810,16 +10500,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.486547,39.861611",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f7ebdedc3c2b45a8b95e2bf572ecc01f",
-                "district": "顺义区",
-                "location": "龙湖香醍中路与牛栏山第三小学路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.666843,40.205032",
                 "zone": ""
             },
             {
@@ -12930,26 +10610,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.515075,39.771534",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ce4d19caa9c642959931054320af764f",
-                "district": "昌平区",
-                "location": "水南路与上旧路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.192864,40.201001",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2ab0a04b4745484d84750e9173f63ff6",
-                "district": "顺义区",
-                "location": "龙湖香醍中路与牛栏山第三小学路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.665773,40.205014",
                 "zone": ""
             },
             {
@@ -13260,16 +10920,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.580891,39.786659",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9637833d138c4dd9abad223c145f5479",
-                "district": "延庆区",
-                "location": "刁千营路口",
-                "direction": "西南向东北",
-                "note": "",
-                "coordinate": "115.903445,40.385110",
                 "zone": ""
             },
             {
@@ -13624,16 +11274,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4424c8f750a8440a838eb6c02122862f",
-                "district": "房山区",
-                "location": "阎河路巡线路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.045977,39.753222",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f3452e1cbfcc4a4ca223dbf217a8d459",
                 "district": "通州区",
                 "location": "新华东街与南大街交口",
@@ -13660,16 +11300,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "四环辅路",
                 "coordinate": "116.325118,39.830862",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5a18ea754af74de5a85c233c78949e84",
-                "district": "怀柔区",
-                "location": "怀耿路与苗圃路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.713120,40.287642",
                 "zone": ""
             },
             {
@@ -13724,42 +11354,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3eabaa7884b341a7a273e24a54505c4e",
-                "district": "顺义区",
-                "location": "中干渠路与高荆路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.849626,40.092137",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "288a52838c2b443eab448b36cd34c906",
                 "district": "昌平区",
                 "location": "回南北路与育知东路路口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.332323,40.088556",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bf1f4cd3f51a4912adab4d559be50d40",
-                "district": "顺义城区",
-                "location": "府前街交通局路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.649373,40.130031",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cbea0d1fec684103854c6ff417a66cd9",
-                "district": "延庆区",
-                "location": "京藏高速59.24（59.4）公里进京",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.977617,40.363095",
                 "zone": ""
             },
             {
@@ -13780,26 +11380,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.417272,39.804946",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b49ad90aa6c840f9b154be1667b0981c",
-                "district": "平谷区",
-                "location": "盘峰宾馆路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.130185,40.139619",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "850aa63b6486450cbde6d04e8d6b240e",
-                "district": "顺义城区",
-                "location": "光明南街与府前中街交口南侧路段",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.656766,40.129061",
                 "zone": ""
             },
             {
@@ -13854,16 +11434,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4d98e60aeb114dc1ba9a8f0343fa2698",
-                "district": "平谷区",
-                "location": "杨杏路与峪蔡路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.019325,40.184282",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "33dfeee0ef374517981322635126668f",
                 "district": "朝阳区",
                 "location": "望和桥西过街天桥",
@@ -13910,16 +11480,6 @@ export default class _Avoid {
                 "direction": "",
                 "note": "",
                 "coordinate": "116.422975,40.102221",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ac11ea0f2d3e448c84256ab344bc5e59",
-                "district": "房山区",
-                "location": "长沟坟庄路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.884370,39.567666",
                 "zone": ""
             },
             {
@@ -14004,52 +11564,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f3da6c6e8d27416f84bec2b77b7a1264",
-                "district": "昌平区",
-                "location": "四场路与秦上路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.388850,40.161205",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d384e441fbd64e438b16ae708781d50d",
-                "district": "昌平区",
-                "location": "水南路与亭阳路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.153407,40.198390",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1bd5e15347e54e57b62731adb5b47734",
-                "district": "昌平区",
-                "location": "神牛路与昌流路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.169278,40.181814",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "fe931494ddf740a0a5647f06e21700db",
                 "district": "昌平区",
                 "location": "七星路与回南路交口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.434827,40.088569",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e21b8eb312784e8eadbaeadacf35a0cd",
-                "district": "昌平区",
-                "location": "水南路与上奤路交口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.184226,40.200465",
                 "zone": ""
             },
             {
@@ -14080,26 +11600,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "四环辅路",
                 "coordinate": "116.336156,39.830399",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a5892b65c5a74168bdd489fa46b1b266",
-                "district": "昌平区",
-                "location": "顺沙路与小汤山双兴苑小区路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.384315,40.175932",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "38679530ee4b4a8b82c7f4cfba0e3711",
-                "district": "顺义区",
-                "location": "昌金路与腾仁路路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.634646,40.211467",
                 "zone": ""
             },
             {
@@ -14170,16 +11670,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.662545,39.900161",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a9fe7d6765b54d3c88d3161c6a8d5392",
-                "district": "通州区",
-                "location": "六环路马驹桥三号桥",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.559114,39.746946",
                 "zone": ""
             },
             {
@@ -14274,46 +11764,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a5ac80d7274f4aee8bf6d069ced845fb",
-                "district": "房山区",
-                "location": "房易路与府前街交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.717014,39.569662",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8184c59266a34ddd8b45574a4c3c4edb",
-                "district": "怀柔区",
-                "location": "口头村北口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.576196,40.363241",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "179db85255b141748ae519ec1c4a0507",
-                "district": "昌平区",
-                "location": "",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.241414,40.283411",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c9427050e9a949699457117dd691bedb",
-                "district": "房山区",
-                "location": "龙下路驾校口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.874454,39.615760",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "86e6f707abd049779a2e247999bc6e1e",
                 "district": "石景山区",
                 "location": "雕塑园中街南口",
@@ -14354,32 +11804,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cecb9b68ede644ccb754e9276eaf60e2",
-                "district": "顺义区",
-                "location": "通顺路与石园大街交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.658698,40.112535",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "69010560dc4e499e97fa439f06687367",
                 "district": "开发区",
                 "location": "科创十七街与经惠西路",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.586923,39.776327",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c28ec25c547f43a589eb2cb1ee739cae",
-                "district": "",
-                "location": "通顺路李家桥村路口东/南/北",
-                "direction": "南北双向",
-                "note": "（推测只有南北）",
-                "coordinate": "116.667113,40.042491",
                 "zone": ""
             },
             {
@@ -14414,56 +11844,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a5d12f51749342e690deb498f50125d5",
-                "district": "平谷区",
-                "location": "夏贤路与马魏路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.170742,40.140296",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d669f4dbacde493491fb5f425cb1a171",
-                "district": "平谷区",
-                "location": "金海西路与胡靠路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.265912,40.180575",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c85d30c38d2b4bd5ac2176b4d659d75b",
-                "district": "顺义区",
-                "location": "顺沙路与前景路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.635034,40.138447",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "86710fbcbc554636a0f7313c78beb3a4",
-                "district": "密云区",
-                "location": "顺密路与兴盛南路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.832779,40.337667",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b242797e85d5468683611e516f6fd64b",
-                "district": "顺义区",
-                "location": "顺密路与左堤路路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.832481,40.346971",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3ba4727dd73249bf8c6921e75be476e4",
                 "district": "朝阳区",
                 "location": "安翔北路西口至安翔北路东口段0米",
@@ -14484,42 +11864,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2b217db4ac874f0cadaec8289842c3a4",
-                "district": "密云区",
-                "location": "",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.823167,40.339820",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "498c68a141034187bc5d5236edeb1508",
                 "district": "昌平区",
                 "location": "定泗路与惠泽东路相交路口西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.407165,40.115873",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "181eb2b5098d4129bfce52b53a1e3f62",
-                "district": "房山区",
-                "location": "瓦梨路坨头村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.995463,39.654521",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fff22bf987af4070acd054c66a919ea9",
-                "district": "顺义区",
-                "location": "五中路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.658955,40.111970",
                 "zone": ""
             },
             {
@@ -14554,36 +11904,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2516f9a9dfea4b26bf6f396d06f232e9",
-                "district": "顺义区",
-                "location": "右堤路与河南村闸桥路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.697076,40.114085",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "55cb8d0cc38b4aeea2956b8f23cb2bf1",
-                "district": "顺义区",
-                "location": "顺密路与后鲁各庄路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.724361,40.190530",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "476d42524271441a9c87cba913e3ca81",
-                "district": "顺义区",
-                "location": "李魏路与宣庄户北路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.756385,40.125418",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "672f04510d584d709a8ab9f86b68babf",
                 "district": "朝阳区",
                 "location": "朝内小街口东",
@@ -14614,16 +11934,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8f6ce23336ba42e3888633f0f4ab1742",
-                "district": "通州区",
-                "location": "通燕高速白庙进京/通燕高速30.9公里（30.2km）",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.785381,39.941205",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "9bf904ff1f394b75ad84dcd2b12a58eb",
                 "district": "海淀区",
                 "location": "蓝靛厂北路火器营桥南",
@@ -14640,26 +11950,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.229080,39.904271",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9975001730124792ae7c853d28c6acae",
-                "district": "房山区",
-                "location": "燕山公园西门南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.953802,39.727555",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "06516dcc77b246a1809642d683344e26",
-                "district": "昌平区",
-                "location": "南环南路与兴昌路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.303526,40.206831",
                 "zone": ""
             },
             {
@@ -14720,16 +12010,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.332923,39.884627",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5e831ad050b440a38c201bfdd68fcfbb",
-                "district": "延庆区",
-                "location": "滦赤路与刘千路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.250620,40.660327",
                 "zone": ""
             },
             {
@@ -14994,16 +12274,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "02544116155a4d39b8be4a83607d59ba",
-                "district": "顺义区",
-                "location": "京承高速36.7公里出京主路",
-                "direction": "双向",
-                "note": "",
-                "coordinate": "116.594328,40.264657",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e653594d330f4e8cb9ea3d2d6d6d6944",
                 "district": "昌平区",
                 "location": "高教园南三街与北沙河西三路路口东",
@@ -15034,16 +12304,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b45cb6c8f3144c4db8b172b00923e28c",
-                "district": "大兴区",
-                "location": "海鑫路南中轴路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.409597,39.709854",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "062ca341d6f447dd891f5793c3c9a4a7",
                 "district": "昌平区",
                 "location": "北航南2门路口东",
@@ -15070,26 +12330,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.266588,40.148497",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cab71b1a3f3842a18ea7e9759006f4e5",
-                "district": "昌平区",
-                "location": "",
-                "direction": "南向北",
-                "note": "出京",
-                "coordinate": "116.221366,40.215360",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5390c576639d4faab83e5b50f430b19c",
-                "district": "顺义城区",
-                "location": "通顺路与复兴东街交口北侧路段",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.656912,40.150075",
                 "zone": ""
             },
             {
@@ -15134,52 +12374,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ff73f8e997654d69b656b8a8a4c95ee4",
-                "district": "密云区",
-                "location": "京承高速69.8公里",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.910314,40.392603",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4e26837bd2614e4c9ef1129e93a01ec4",
-                "district": "昌平区",
-                "location": "",
-                "direction": "双向",
-                "note": "",
-                "coordinate": "116.083130,40.281379",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f1cf8a06f02d41d189ac4d51fde7f0e9",
                 "district": "朝阳区",
                 "location": "小红门桥东过街桥",
                 "direction": "西向东",
                 "note": "辅路",
                 "coordinate": "116.462921,39.833547",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5728933e44dd44c08189310fc4bb8410",
-                "district": "顺义城区",
-                "location": "府前街与东安路交口东侧路",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.659970,40.129900",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2cb26786ed6c44319648a8e3e5d1f0d2",
-                "district": "顺义区",
-                "location": "昌金路与水色时光西交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.723415,40.212914",
                 "zone": ""
             },
             {
@@ -15244,16 +12444,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "58e3fd7fe7f44bbdb3ba3ecf5ebb9d35",
-                "district": "昌平区",
-                "location": "顺沙路与汤尚路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.387734,40.175889",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "2e3acffc37e640e6b71c04ee1482a17a",
                 "district": "东城区",
                 "location": "",
@@ -15270,36 +12460,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.154881,39.914998",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "687db068737a4cd0b697dd09ab06f8fc",
-                "district": "大兴区",
-                "location": "东大路与兴东路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.382915,39.666022",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1ec17ab934784b73a01e7888ba6db514",
-                "district": "平谷区",
-                "location": "",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.120787,40.282055",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3069a83057f14134b0f6b14341acc675",
-                "district": "昌平区",
-                "location": "水南路与规划一路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.061998,40.197305",
                 "zone": ""
             },
             {
@@ -15340,16 +12500,6 @@ export default class _Avoid {
                 "direction": "",
                 "note": "",
                 "coordinate": "116.502817,39.750720",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7437fc19352842e2a75cf5f224b64cef",
-                "district": "昌平区",
-                "location": "京藏高速55.8公里进京",
-                "direction": "",
-                "note": "进京",
-                "coordinate": "116.014561,40.320847",
                 "zone": ""
             },
             {
@@ -15410,26 +12560,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "（四环辅路）",
                 "coordinate": "116.352280,39.830842",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "eea8df873e0b4241a71c53cf97bb2633",
-                "district": "延庆区",
-                "location": "G6辅路与古长城西口交口西",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.970705,40.356037",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b193300930e148758751a46d68b7ecd7",
-                "district": "顺义区",
-                "location": "顺康路与顺平路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.674308,40.115286",
                 "zone": ""
             },
             {
@@ -15524,16 +12654,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9f2dd21d377741778e6160eb8ffe5ebd",
-                "district": "大兴区",
-                "location": "海鑫北路与阜顺南路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.420590,39.717313",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b9c9fe97c9934d02b8ab346f7d3ed7ab",
                 "district": "朝阳区",
                 "location": "小红门桥东过街桥",
@@ -15570,16 +12690,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.485998,39.800639",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d88e2b08814e4ec4888eb0157a44b346",
-                "district": "顺义区",
-                "location": "顺康路与石园大街交口卡口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.674290,40.111641",
                 "zone": ""
             },
             {
@@ -15674,62 +12784,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1a192b8895b941bebc9b34d4b54d452d",
-                "district": "延庆区",
-                "location": "小庄科路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.099381,40.494555",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d0068f5326334c549a57cbf3b44de9fe",
                 "district": "朝阳区",
                 "location": "亮马桥麦子店街北口西",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.466541,39.950855",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e30aecfe6541403b9be88a3107a71deb",
-                "district": "延庆区",
-                "location": "康农路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.910635,40.384768",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "233e642ecbd54e6ebe0c1b56ff7228af",
-                "district": "大兴区",
-                "location": "永兴河北路与G106国道交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.325926,39.530716",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f1f41bd563944cfbbc0a333a1fe7b3fe",
-                "district": "房山区",
-                "location": "顺八路与京周路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.015182,39.704163",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "493904d7c8824f1aab426f9abb3e6bf3",
-                "district": "",
-                "location": "怀耿路与苗圃路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.712136,40.287591",
                 "zone": ""
             },
             {
@@ -15750,26 +12810,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.410103,40.026930",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "53e097d2d3cd4a528843233da3fa64ff",
-                "district": "怀柔区",
-                "location": "杨雁东一路与京密北三街交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.689172,40.335426",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3726cbbe55354fa8963e8345eae87dc0",
-                "district": "房山区",
-                "location": "百合路与绿园路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.077281,39.713088",
                 "zone": ""
             },
             {
@@ -15800,16 +12840,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.337218,40.088674",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2ccd40d51d9446a7b6f0ad146525e1e1",
-                "district": "平谷区",
-                "location": "陆港大街与陆港路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.017218,40.086241",
                 "zone": ""
             },
             {
@@ -15884,16 +12914,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5eed963688204cbbab613128aaba0de5",
-                "district": "房山区",
-                "location": "八十亩地路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.013773,39.757732",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "bd857f052f95425a8f2f614d7d20d2e7",
                 "district": "海淀区",
                 "location": "永泰庄北路东口",
@@ -15920,16 +12940,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.293618,40.024047",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "204bcd2a50a144ac80871cded0732b7d",
-                "district": "顺义城区",
-                "location": "便民街西口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.651329,40.134045",
                 "zone": ""
             },
             {
@@ -16060,16 +13070,6 @@ export default class _Avoid {
                 "direction": "",
                 "note": "",
                 "coordinate": "116.521446,39.783671",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c4c621b80f7d458f8eb2467780f743a1",
-                "district": "顺义区",
-                "location": "通顺路与张辛村西街交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.677734,40.017431",
                 "zone": ""
             },
             {
@@ -16224,42 +13224,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4c15c4b626be4979ad1ea3b533367b58",
-                "district": "平谷区",
-                "location": "陆港北三街与陆港东二路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.027614,40.091805",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "617e4385014b43269aeb8c8904ba639e",
                 "district": "房山区",
                 "location": "京周路与良坨路交口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.136422,39.739558",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e68bc0dc0b1a4cb3bebb00e179c7a593",
-                "district": "延庆区",
-                "location": "昌赤路与香刘路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.147367,40.570671",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0327a00aab6142ad9a8c6d86acad91a6",
-                "district": "延庆区",
-                "location": "煤气站路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.002705,40.449138",
                 "zone": ""
             },
             {
@@ -16314,16 +13284,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "df755e1fdaeb4bf492168dbaa1e0e8dc",
-                "district": "顺义区",
-                "location": "顺沙路与北高路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.502125,40.169669",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c7b1bdf9b1ff4e6eb9995f9c99adf87e",
                 "district": "西城区",
                 "location": "手帕口北街南口西",
@@ -16350,16 +13310,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.417886,39.836578",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "42dddffed2c24c8ab315de0fc494451b",
-                "district": "昌平区",
-                "location": "京藏高速34.13（34.2）公里",
-                "direction": "进出京双向",
-                "note": "",
-                "coordinate": "116.191861,40.226032",
                 "zone": ""
             },
             {
@@ -16424,46 +13374,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6100103022b74ee2bfd14062f92a8a21",
-                "district": "昌平区",
-                "location": "顺沙路与银街南路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.391923,40.176161",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bb0020a78bd342f8b8e2a20af1efd220",
-                "district": "延庆区",
-                "location": "滦赤路与千小路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.458585,40.682851",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "09bed8aa26ba4a7c99bdcddb713279ef",
-                "district": "平谷区",
-                "location": "东夏路与安固东路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.170861,40.125307",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4644d9b411c64e57a2cfe573cf6b403e",
-                "district": "昌平区",
-                "location": "顺沙路与汤尚路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.387362,40.176094",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "872310f68c5a413a9ad95ea4d7a14ae5",
                 "district": "朝阳区",
                 "location": "茂兴西路与百子湾南二路交口东侧右",
@@ -16490,16 +13400,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.546443,39.797512",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "448a575fb9b548899778112b8f3e0d32",
-                "district": "平谷区",
-                "location": "密三路与果各庄路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.013984,40.098678",
                 "zone": ""
             },
             {
@@ -16560,16 +13460,6 @@ export default class _Avoid {
                 "direction": "南北双向",
                 "note": "",
                 "coordinate": "116.570311,40.035208",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9b05cfa43cca42369d1da13f455478a1",
-                "district": "密云区",
-                "location": "城后街与育才路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.855440,40.383687",
                 "zone": ""
             },
             {
@@ -16714,52 +13604,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7f776d0a38324dd38dbf7055514aa4ac",
-                "district": "延庆区",
-                "location": "榆林堡南口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.879536,40.364980",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bc8b1760fefe438d84cb205c9f16b754",
-                "district": "顺义区",
-                "location": "京沈路与良白路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.637137,40.165450",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4a2e9f3e994941de81f7c0bbcce51ce9",
                 "district": "开发区",
                 "location": "泰河二街与博兴七路交口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.501188,39.756971",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7220db7fd6414ef994d73e5e64160b90",
-                "district": "房山区",
-                "location": "紫码路与百合路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.082380,39.713436",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "074185e06ae846cbb32e2fcacbab8b34",
-                "district": "密云区",
-                "location": "京密路松树峪村口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.151580,40.565957",
                 "zone": ""
             },
             {
@@ -16820,16 +13670,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.350378,39.887773",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ad1a421979bc4a118dced633d3a823cf",
-                "district": "房山区",
-                "location": "房易路巡线路路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.836332,39.555098",
                 "zone": ""
             },
             {
@@ -16914,16 +13754,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41b147558f24430184a09c5905812576",
-                "district": "顺义区",
-                "location": "石园小区北路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.669767,40.116159",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "133052cdaf0146e1837f8eaa8d9073ab",
                 "district": "东城区",
                 "location": "沙子口北",
@@ -16970,16 +13800,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.151685,39.919721",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41949ff021ce4dbc8a066fb1d0d22340",
-                "district": "顺义区",
-                "location": "顺沙路与高白路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.501220,40.169883",
                 "zone": ""
             },
             {
@@ -17094,16 +13914,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9b7c310dc7a24c29baa8d4909a57e423",
-                "district": "平谷区",
-                "location": "新平北路与北斜街交口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "117.126445,40.145730",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "7999c04532c449ccac8912025f7696bc",
                 "district": "朝阳区",
                 "location": "黑庄户与双桥西路交口",
@@ -17120,36 +13930,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.402445,40.114691",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2ec2e7d99ada450f8bab6d6008cd2185",
-                "district": "房山区",
-                "location": "大件路京昆桥下东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.029794,39.721772",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1133b8fc9deb43aa88bb6dfbb54c4a3b",
-                "district": "昌平区",
-                "location": "京密北路与华昌路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.306937,40.202036",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e866dcc5a4884f2c854569a096f2ddef",
-                "district": "顺义区",
-                "location": "石园小区北路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.669240,40.115805",
                 "zone": ""
             },
             {
@@ -17180,16 +13960,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "辅路",
                 "coordinate": "116.281326,39.835644",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bad568a5954a49778bf55c965238b84b",
-                "district": "顺义区",
-                "location": "杨镇东大街与中干渠路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.838416,40.158759",
                 "zone": ""
             },
             {
@@ -17250,26 +14020,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.726921,39.987819",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1abb709e974a4cafbc9540e2514717d8",
-                "district": "顺义城区",
-                "location": "右堤路华中园路段",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.670288,40.160437",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41bd106e2a054ce99f2bf4a1e8150e43",
-                "district": "顺义区",
-                "location": "李魏路与太平路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.757154,40.086592",
                 "zone": ""
             },
             {
@@ -17370,26 +14120,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.676071,39.998891",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3842dd1ade7c4e95807c49c90e05fd45",
-                "district": "大兴区",
-                "location": "海鑫路南中轴路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.407880,39.709739",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "08e1f7533fc64a019edba01e0394f5f7",
-                "district": "顺义城区",
-                "location": "顺于路与前景街交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.635941,40.129349",
                 "zone": ""
             },
             {
@@ -17544,16 +14274,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f1a6122c677641629bb451dc855ae3d4",
-                "district": "门头沟区",
-                "location": "108辅线与石门营路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.096086,39.885870",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "43293b1991964c7498b1cee3e9bbf59f",
                 "district": "开发区",
                 "location": "泰河一街与博兴七路交口",
@@ -17634,16 +14354,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ff4d3e0575294c4b8ebb9b9704203df3",
-                "district": "平谷区",
-                "location": "平谷北街东口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.145967,40.162592",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3ad3064b6a7245a1aae44c1992a11442",
                 "district": "通州区",
                 "location": "嘉创一路兴光四街北",
@@ -17704,16 +14414,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c9095a49c278447fa24d44a1755f0043",
-                "district": "密云区",
-                "location": "兴云路与西门外大街东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.821690,40.380356",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e3a8a0f122df4d8c8448a86ae0fadc70",
                 "district": "开发区",
                 "location": "泰河二街与博兴六路",
@@ -17730,16 +14430,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.407771,39.996261",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0b791909a56a4392bb52cfed6a66e2d8",
-                "district": "怀柔区",
-                "location": "通怀路与永乐大街交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.716382,40.370759",
                 "zone": ""
             },
             {
@@ -18044,42 +14734,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "176b918b93544884a08b3459e246d771",
-                "district": "延庆区",
-                "location": "西白庙路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.924849,40.448153",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "301d12341b9e436799f52b6772c4200b",
-                "district": "怀柔区",
-                "location": "京密北三街与杨雁路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.683642,40.335851",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e2662e8b37374bc387750a2be0d6c466",
                 "district": "朝阳区",
                 "location": "南湖园二条中口西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.460072,39.989209",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "07509d7031674610902c502648d44729",
-                "district": "房山区",
-                "location": "炒十路肖庄路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.136935,39.697542",
                 "zone": ""
             },
             {
@@ -18204,16 +14864,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9dc7089a41984a0cb35d2ed40812b7d4",
-                "district": "房山区",
-                "location": "大窦路开古庄南口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.064171,39.697369",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c289b7a948434cbf9ba38a3fefae5f00",
                 "district": "西城区",
                 "location": "阜成门桥东",
@@ -18334,16 +14984,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e948a1e312e3404cbd114f3db1a4e296",
-                "district": "顺义区",
-                "location": "京沈路与前晏子路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.642006,40.200852",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "db406404aa224a45811dab30899274bd",
                 "district": "房山区",
                 "location": "政通路与拱辰大街路口",
@@ -18460,16 +15100,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "辅路",
                 "coordinate": "116.211034,39.940495",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a2670ac77bd64755b7e9562029c5270b",
-                "district": "顺义区",
-                "location": "龙塘路与右堤路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.738752,40.064231",
                 "zone": ""
             },
             {
@@ -18604,26 +15234,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "44080a6fecda4f0d93607c974e52080a",
-                "district": "顺义区",
-                "location": "顺平南线滨河森林公园东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.719183,40.102561",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1fa18604bba946499ddff3fbf856a4e6",
-                "district": "延庆区",
-                "location": "京礼高速39.13公里",
-                "direction": "",
-                "note": "进京方向",
-                "coordinate": "115.951701,40.374055",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "64f23bc8cf6f40b5a1539ccd2ebd0ae8",
                 "district": "石景山区",
                 "location": "实兴大街北口0米",
@@ -18694,16 +15304,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a9a97c979994464984eba97a6e9a867c",
-                "district": "顺义区",
-                "location": "龙塘路与道口路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.819800,40.069625",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e9d1c918d31a4890a233e2071430c9dd",
                 "district": "石景山区",
                 "location": "石景山路新首钢大桥东北主路",
@@ -18720,26 +15320,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.171853,39.907949",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "232c72db34064e01884455314b5f2cc2",
-                "district": "",
-                "location": "门头沟北路与龙门西街交口东北",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.080795,39.940754",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "865d1e909c464a98a788990ed267d3a1",
-                "district": "顺义区",
-                "location": "左堤路与李赵路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.772971,40.043060",
                 "zone": ""
             },
             {
@@ -18770,16 +15350,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.326027,39.847474",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e3f94d3c481b441aaf914467889ec02b",
-                "district": "顺义区",
-                "location": "高张路和天北路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.524871,40.160885",
                 "zone": ""
             },
             {
@@ -18824,16 +15394,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "07049fc7cc6d474899b856deb1ff1bc5",
-                "district": "房山区",
-                "location": "大窦路昊腾家园南门西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.059227,39.704063",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8b282331e1694762a97180ae10086f89",
                 "district": "通州区",
                 "location": "漷兴北一街与南漷路交口西",
@@ -18860,16 +15420,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "（北六环转京承进京方向）",
                 "coordinate": "116.483811,40.150849",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3847056f3dea4b9d91a9ff31bd8b3de6",
-                "district": "密云区",
-                "location": "顺密路与阳光街路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.836357,40.361992",
                 "zone": ""
             },
             {
@@ -18984,42 +15534,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d1b1ce1c4029412e8c1b49891f68f7cd",
-                "district": "顺义区",
-                "location": "六环路龙苏路桥南加油站",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.654774,40.052933",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "56a0ca4a5fd44037bfd6d45d74f4974c",
                 "district": "朝阳区",
                 "location": "太阳宫中���望京桥南",
                 "direction": "北向南",
                 "note": "辅路",
                 "coordinate": "116.454118,39.980081",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6afb0b5377d64ad0a64a243894aa15f0",
-                "district": "顺义城区",
-                "location": "裕龙四区西口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.669202,40.120477",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "93ffdbf411364a78918e55e8b0a3448a",
-                "district": "顺义城区",
-                "location": "裕龙四区南门东口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.674502,40.120279",
                 "zone": ""
             },
             {
@@ -19060,26 +15580,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.190678,39.934547",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a118ff13160a40a997606390dcd37757",
-                "district": "顺义城区",
-                "location": "石马路与西环路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.629059,40.124613",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f590849a83604da09c2d9e0e050a8763",
-                "district": "顺义城区",
-                "location": "石马路与西环路路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.629369,40.123919",
                 "zone": ""
             },
             {
@@ -19130,16 +15630,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.198735,39.914068",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "71d0f2a3dbcb4d9baa9529179608c6a5",
-                "district": "顺义区",
-                "location": "顺沙路与高唐路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.508756,40.167508",
                 "zone": ""
             },
             {
@@ -19284,16 +15774,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5decf45d602b49f09dd6e192cdded411",
-                "district": "顺义城区",
-                "location": "站前西街与财政局西侧路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.648875,40.125828",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "2ae9203d2ecd47e19e628dd8ecc3d25b",
                 "district": "丰台区",
                 "location": "马家堡西路名流未来大厦西北角（马家堡西路南口东侧）",
@@ -19320,36 +15800,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.325783,39.828721",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6c9b2666d5244dfc99383ed57f3ec4a8",
-                "district": "大兴区",
-                "location": "京福路与劳保厂路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.488650,39.698400",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "aa5ba1e2666d4023a73371049ab34533",
-                "district": "怀柔区",
-                "location": "京加路与龙泉峪路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.660868,40.607700",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "193980f6bb7a47e18ab000a625eced35",
-                "district": "昌平区",
-                "location": "顺沙路与汤尚路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.387184,40.175815",
                 "zone": ""
             },
             {
@@ -19410,16 +15860,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.529945,39.852994",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d210e2f50f43459a91f0c9f787266dbf",
-                "district": "",
-                "location": "六环路老庙桥南天桥",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.107102,40.021366",
                 "zone": ""
             },
             {
@@ -19814,26 +16254,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "78a46eef91234e668da4b46c961ff6e0",
-                "district": "昌平区",
-                "location": "南雁路与海军路路口",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.070385,40.176706",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b49d265328f242f0ab9c502b50707888",
-                "district": "房山区",
-                "location": "羊头岗路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.014101,39.723562",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "9276077d80d243e0a143e15188789d60",
                 "district": "石景山区",
                 "location": "石景山路新首钢大桥东人行",
@@ -19890,16 +16310,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.529740,39.747518",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "91c5f5f439de4bcabd63a1aa3baf13cf",
-                "district": "房山区",
-                "location": "大窦路京周路辅路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.054437,39.713077",
                 "zone": ""
             },
             {
@@ -19974,26 +16384,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3b600b3ed43f40de8c8ad209024d9a21",
-                "district": "延庆区",
-                "location": "北张庄路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.081882,40.584537",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2fb79563326b49b1b9d3003deb307968",
-                "district": "昌平区",
-                "location": "水南路与上旧路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.192148,40.200909",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8407b100b0d546518d7a40925702ffb1",
                 "district": "房山区",
                 "location": "良乡东路与阳光大街路口",
@@ -20030,16 +16420,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.305705,39.847877",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "24ddde1ad82546f6a89d86b55e4ec166",
-                "district": "怀柔区",
-                "location": "雁栖西二路与中高路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.677231,40.347521",
                 "zone": ""
             },
             {
@@ -20244,16 +16624,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d48c609ac10d4771a15f3461f7d0b819",
-                "district": "昌平区",
-                "location": "顺沙路与银街南路路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.392409,40.175815",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "21d5d9d45639473f8e048fda31bf2cca",
                 "district": "开发区",
                 "location": "科创十二街与经海路交口",
@@ -20280,16 +16650,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.313863,40.085682",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "08f90d7ba2844748a101be430a9d53e9",
-                "district": "",
-                "location": "六环路马驹桥东",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.575556,39.754188",
                 "zone": ""
             },
             {
@@ -20404,16 +16764,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "22c0e75b40a241679e1984878d81dd24",
-                "district": "顺义城区",
-                "location": "站前西街与财政局西侧路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.648327,40.125751",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "79484193f49146a09589514bb842f38f",
                 "district": "海淀区",
                 "location": "中关村大街与海淀南路交口",
@@ -20460,16 +16810,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.524139,39.800357",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a0e0efdcd80d4673a0a1d3e29492c9bd",
-                "district": "密云区",
-                "location": "果园西路与城后街交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.826132,40.384032",
                 "zone": ""
             },
             {
@@ -20884,16 +17224,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "be1ffb8f2b6443caa734b383acce6489",
-                "district": "密云区",
-                "location": "新东路老城墙路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.858866,40.377890",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8d29166ac166408b9725306ba1db3323",
                 "district": "丰台区",
                 "location": "海户东路丰海北街口西",
@@ -20924,42 +17254,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ccb40974ff494228b65cafbefbf76c0b",
-                "district": "平谷区",
-                "location": "四小门口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.122986,40.148211",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c27a2902b56f4ce4b5bc0246aea31c0f",
-                "district": "平谷区",
-                "location": "平谷六小北口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.104679,40.150074",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "34ef5885364149bbab95058d6bfb0ee7",
                 "district": "海淀区",
                 "location": "羊坊店西路北口",
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.316964,39.907495",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "aa17087a16fd4e77810fc1b1f4849f4b",
-                "district": "昌平区",
-                "location": "顺沙路与银街南路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.391725,40.175746",
                 "zone": ""
             },
             {
@@ -21014,16 +17314,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e720a1e41e8a4743aef6f765973a06f5",
-                "district": "顺义城区",
-                "location": "站前南街与建新西街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.645293,40.121421",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "afcbbf3094ca4c7ab8c2ae50f4e91a78",
                 "district": "通州区",
                 "location": "运河西大街与玉桥西路交口",
@@ -21050,26 +17340,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "辅路",
                 "coordinate": "116.545235,39.746875",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6da645a108c9460988e99e947ae977e1",
-                "district": "房山区",
-                "location": "房易路与岳下路交口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "115.916636,39.623651",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3121f2ec096742189b0f9344b1293677",
-                "district": "顺义城区",
-                "location": "东安路与绿港家园小区路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.662570,40.135405",
                 "zone": ""
             },
             {
@@ -21324,16 +17594,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e6e356ea218b4ea2998b95654f546806",
-                "district": "密云区",
-                "location": "新东路老城墙路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.858765,40.378279",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "85b219663494459e9bd3ac2c200cb5ff",
                 "district": "西城区",
                 "location": "白广路北口南",
@@ -21350,16 +17610,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "主路",
                 "coordinate": "116.450934,39.908533",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3628e7eb258d4b7ab8e93fc9b99f49ff",
-                "district": "昌平区",
-                "location": "南环南路与华昌路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.306648,40.206991",
                 "zone": ""
             },
             {
@@ -21414,52 +17664,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "860f9d3c6b97486b9acb917c1604f08c",
-                "district": "顺义城区",
-                "location": "外环路（北环）与顺白路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.636796,40.150200",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "037ee6e23a214eaa82f95271d007142c",
-                "district": "顺义城区",
-                "location": "顺于路与前景街交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.635093,40.129177",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d9b4192933e24ac4a9e11a0457da6bf9",
-                "district": "顺义城区",
-                "location": "顺沙路与绿港家园小区路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.659743,40.137047",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "900ffcba17344587bdd309e68f5f50bb",
                 "district": "丰台区",
                 "location": "青塔西路与水衙沟路交口",
                 "direction": "北向南",
                 "note": "主路",
                 "coordinate": "116.264488,39.885631",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "02d162e6225a4b6a8808588abf828c56",
-                "district": "平谷区",
-                "location": "新山路东口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.156964,40.174330",
                 "zone": ""
             },
             {
@@ -21554,16 +17764,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "da02523b3d5f44279900b911598d4dc8",
-                "district": "房山区",
-                "location": "房易路与岳琉路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.907835,39.608870",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3a0bf5f4c6a74025acd5b44374b6120e",
                 "district": "丰台区",
                 "location": "方庄南路与东铁营大街交口",
@@ -21624,16 +17824,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "49040d68ed88442ab8efe82caf2db11c",
-                "district": "房山区",
-                "location": "阎河路108国道匝道东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.958989,39.824474",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ebb4ffd119094ec7bb7ada16155b22ef",
                 "district": "房山区",
                 "location": "京深路与黄（兴）良路路口",
@@ -21650,16 +17840,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "辅路",
                 "coordinate": "116.150008,39.710151",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "282f5ad3fb3243028a6c19ee6d136048",
-                "district": "顺义城区",
-                "location": "顺沙路与西环路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.629487,40.139276",
                 "zone": ""
             },
             {
@@ -21684,36 +17864,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "763b818964984f328cd1b144f1254b6e",
-                "district": "顺义城区",
-                "location": "便民街东口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.657080,40.134344",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8d1e20f5c43342c38b31d062c8d53166",
-                "district": "顺义城区",
-                "location": "顺白路与外环路（北环）交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.637265,40.149899",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "80fd054c49d44799a6abe5904c125ffb",
-                "district": "顺义城区",
-                "location": "府前街与顺白路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.642635,40.129857",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "00ac2cb319994bc0b11685f8118c2339",
                 "district": "海淀区",
                 "location": "五棵松桥西",
@@ -21730,16 +17880,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.677416,39.892298",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "26355de70b6b4878ab75c9d908543c10",
-                "district": "昌平区",
-                "location": "水南路与规划一路交口2西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.061301,40.197232",
                 "zone": ""
             },
             {
@@ -21764,32 +17904,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1a478f28716d4d2d9a98375c253bb410",
-                "district": "顺义城区",
-                "location": "站前西街与站前南街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.646053,40.125589",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8e6c1c5a336c47109ef8d5923e4febb3",
                 "district": "开发区",
                 "location": "康定街与同济南路交口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.540322,39.773474",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d20072b8c9b04d22adc3a011913a51f8",
-                "district": "房山区",
-                "location": "京周路与大于路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.030594,39.707105",
                 "zone": ""
             },
             {
@@ -21890,16 +18010,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "辅路",
                 "coordinate": "116.540573,39.847656",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a36da0886ac343ad9d9b480daeb86c61",
-                "district": "怀柔区",
-                "location": "111外移线K52-50米北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.653829,40.329247",
                 "zone": ""
             },
             {
@@ -22010,16 +18120,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.509273,39.805528",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f9a7b38d51c64101a1a2bd054cbc26ba",
-                "district": "大兴区",
-                "location": "海鑫路与盛祥街路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.416624,39.709740",
                 "zone": ""
             },
             {
@@ -22154,16 +18254,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cb90ac36d1004aa39a3aa49081938cfd",
-                "district": "顺义区",
-                "location": "京沈路荆卷村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.641491,40.183102",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ac133636ae094599be94442fffb74b24",
                 "district": "房山区",
                 "location": "政通路与拱辰北大街交口",
@@ -22190,36 +18280,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.166866,39.710090",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7864cb982d4c43239e7edf70f7fd0bfa",
-                "district": "房山区",
-                "location": "顾郑路长琉路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.961250,39.575806",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e7afd3541e004aeea04c68dea5ceb8cc",
-                "district": "顺义区",
-                "location": "木燕路于地村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.805664,40.055544",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bcb7d780c4134b2992f6553a16badf3b",
-                "district": "大兴区",
-                "location": "安采路再城营村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.615506,39.637702",
                 "zone": ""
             },
             {
@@ -22330,16 +18390,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.727509,39.814171",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d58819546c90420eb51dea0a960f0bc4",
-                "district": "密云区",
-                "location": "鼓楼东大街与新中街路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.850836,40.376037",
                 "zone": ""
             },
             {
@@ -22684,26 +18734,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "441d680bf6ab4d70b6a759aafa208ded",
-                "district": "房山区",
-                "location": "南辛庄南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.803651,39.546786",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9476f6d3c7bd4892b93581a76892a667",
-                "district": "房山区",
-                "location": "磁家务路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.988264,39.797518",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b27ded067e3547edabf96208a152a19c",
                 "district": "西城区",
                 "location": "西海南沿德胜门内大街过街南",
@@ -22800,26 +18830,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.349744,39.932438",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a2461c77a19349cdb7e4b8ca32584786",
-                "district": "房山区",
-                "location": "顾郑路与瓦梨路十字路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.966269,39.639891",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fc274e79a0fe4aa8971e6ac2585a8332",
-                "district": "顺义区",
-                "location": "京沈路蓝家营路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.641734,40.195408",
                 "zone": ""
             },
             {
@@ -23004,16 +19014,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4ebb20d4fa0948e29b52be9ba7481beb",
-                "district": "顺义区",
-                "location": "龙塘路与道口路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.818852,40.069437",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d5f6a337d985443694fcc4cb36b17061",
                 "district": "朝阳区",
                 "location": "北土城东路小关路口西(北土城东路安贞路北口东)",
@@ -23030,16 +19030,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.530017,39.780298",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d21d232f474043df9210b3d13d010b96",
-                "district": "顺义区",
-                "location": "龙塘路郭家务口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.862831,40.074458",
                 "zone": ""
             },
             {
@@ -23084,32 +19074,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "908839cc939c4a1d9a2bbcf593f5c26f",
-                "district": "顺义区",
-                "location": "中干渠与杨镇工业区交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.840128,40.152757",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8ce6e898eee8449e913289bf56a2391c",
                 "district": "东城区",
                 "location": "沙子口东",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.400181,39.865435",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d63e34496b8f4cb1b4650371b8f28b0a",
-                "district": "房山区",
-                "location": "阎河路巡线路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.045445,39.753075",
                 "zone": ""
             },
             {
@@ -23394,62 +19364,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4228550dbb944396bb1ebfc9c9bde0aa",
-                "district": "大兴区",
-                "location": "崔曹路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.351932,39.476741",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9ce58c45abc34867835e5c589384a3ca",
-                "district": "房山区",
-                "location": "大窦路文化宫东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.068590,39.643887",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "07a74587edb7459e91862ddd919a0ccc",
-                "district": "顺义区",
-                "location": "顺平路沙岭小学西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.879547,40.152946",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2507255103b649fdb9cffc24e9e894af",
-                "district": "房山区",
-                "location": "顾郑路长琉路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.961551,39.575988",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a8d44936a001418387abca47f6588174",
                 "district": "朝阳区",
                 "location": "来广营东路与京顺东街交口东侧",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.527474,40.025088",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ddede42768d04601b12d17c27ee7d144",
-                "district": "房山区",
-                "location": "房琉路吉羊村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.986337,39.620313",
                 "zone": ""
             },
             {
@@ -23494,16 +19414,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7fd64f2bff4a455295acde7007381ae9",
-                "district": "房山区",
-                "location": "阎周路与苏万路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.056228,39.684051",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "68dd79bac9714bd498c5affed5d1ff0b",
                 "district": "通州区",
                 "location": "漷城西三路南口东",
@@ -23534,32 +19444,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "19fef2009a1346ae8d5a840f32de0c08",
-                "district": "怀柔区",
-                "location": "中高路牤牛河西路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.690931,40.347648",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "476f8824317140c7a0050f93a4f90ee5",
                 "district": "西城区",
                 "location": "造币公司",
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.333141,39.938219",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "057e2b9475ec4d0f899bdbc71dd3cdc5",
-                "district": "大兴区",
-                "location": "赵安路与张北路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.342568,39.591944",
                 "zone": ""
             },
             {
@@ -23574,46 +19464,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c81f4fc523904657b656d007bbf02ed9",
-                "district": "大兴区",
-                "location": "通武线与丰顺街交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.353481,39.670503",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0c2fe17533c14706a76368c6b49c5f77",
-                "district": "延庆区",
-                "location": "G6辅路与延康路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.894237,40.375033",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a081fe453d1844ab96f08bb9f48b176b",
-                "district": "密云区",
-                "location": "行宫街与东门大街北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.862495,40.378239",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "babbed34e0fd489e940d91ec1dd3e158",
-                "district": "密云区",
-                "location": "城后街与行宫街路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.862507,40.383515",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "52f4067c040e4289b8bc569c64c0f30a",
                 "district": "丰台区",
                 "location": "左安路与方庄东路东",
@@ -23624,32 +19474,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "79fbe96d223b4da294fc0297d4e701c5",
-                "district": "房山区",
-                "location": "京深路与良常路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.146922,39.672677",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "227626682f594d7a91bccf928faa3eb2",
                 "district": "开发区",
                 "location": "荣昌西街与地泽路交口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.517966,39.777484",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8638940d8493462fb888fec3c9b10ff1",
-                "district": "平谷区",
-                "location": "小果各庄南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.013328,40.095160",
                 "zone": ""
             },
             {
@@ -23674,102 +19504,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5b62eca6bf594924ab17a2a8bfaddc79",
-                "district": "延庆区",
-                "location": "101国道与古崖居路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.801718,40.449303",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "89251aedcd06427cabfe0f3e8e02f901",
-                "district": "密云区",
-                "location": "密西路于家台路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.776348,40.387798",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3706d4262a6f4ed1bd38320ebd78864e",
-                "district": "房山区",
-                "location": "阎吕路与巡线路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.090249,39.759465",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "538882b4c4e343b897cd0cd1662fbf54",
-                "district": "房山区",
-                "location": "阎吕路南上岗路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.093368,39.739043",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d12c1c12c384469ba1ffb4b91fa8a629",
-                "district": "房山区",
-                "location": "阎吕路南上岗路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.093337,39.739427",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "6f87fe7b9c4a44939301b78b6894bdb9",
                 "district": "通州区",
                 "location": "唐通线大灰店村口南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.906675,39.804832",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ce9bee97f737450aad9be6c21f0065d0",
-                "district": "密云区",
-                "location": "密三路与宁蔡路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.900666,40.379364",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "28d1fbbcee59429e81d6e38f62594752",
-                "district": "密云区",
-                "location": "顺密路与水源路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.833464,40.356914",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bbdae2e44a5d4077aaf88289dd08083b",
-                "district": "怀柔区",
-                "location": "水泥厂路口南",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.675199,40.426410",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1349b9a49e5542bbb7290033a00c590b",
-                "district": "顺义区",
-                "location": "环镇南路与环镇东路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.833712,40.150733",
                 "zone": ""
             },
             {
@@ -23824,62 +19564,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d3b05ff61dfa47ca84113f5440fa2705",
-                "district": "房山区",
-                "location": "京周路加油站东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.956446,39.678034",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e2b8efdce7684c33976c1c401bac7ff1",
-                "district": "房山区",
-                "location": "新泗路与巡线路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.924496,39.655536",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e1310b0b69bc416ab9af7874ed8253f0",
-                "district": "房山区",
-                "location": "大窦路昊腾家园南门东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.059591,39.703806",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "738a26dd09a4414f84c2bc4bf64a59f4",
                 "district": "西城区",
                 "location": "二环内环复兴门桥南出口正向",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.356740,39.903884",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e4c81c4329fe4ad2a281602495eb5853",
-                "district": "昌平区",
-                "location": "水库西路与朝凤北路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.266765,40.240803",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "13fd0baa178b43f5aff05ba890499014",
-                "district": "房山区",
-                "location": "房东路与石花洞路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.980927,39.805410",
                 "zone": ""
             },
             {
@@ -23910,16 +19600,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.547925,39.802021",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8609a836fb69485ba2f0c5b28fc9a1fe",
-                "district": "昌平区",
-                "location": "水库西路与朝凤北路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.266608,40.241169",
                 "zone": ""
             },
             {
@@ -24024,16 +19704,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f8ca276ee368422eb25c5488b6cad67b",
-                "district": "密云区",
-                "location": "果园路南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.831347,40.368281",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "55bb421f9a5747d3a1fe845e164453ee",
                 "district": "石景山区",
                 "location": "田村路西黄村地铁站东",
@@ -24060,26 +19730,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.447069,39.841188",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d9606339386f43808f821646f6f6c0e5",
-                "district": "昌平区",
-                "location": "南环南路与京密北路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.313141,40.205116",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "992aa6dd301c4ee8885b56ac61ee1d50",
-                "district": "房山区",
-                "location": "岳圣路与巡线路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.906542,39.624630",
                 "zone": ""
             },
             {
@@ -24114,16 +19764,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "040237bf43d849e0a349128f5e9ee947",
-                "district": "延庆区",
-                "location": "小庄科路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.099699,40.495039",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0da14aa64cb74f8b93bb463f7d984766",
                 "district": "丰台区",
                 "location": "银地东路天伦锦城小区东门路口北",
@@ -24150,16 +19790,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.253142,40.050068",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "27c08f42b0b44c64b4fefc3efd807a1b",
-                "district": "房山区",
-                "location": "京深路*****口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.079515,39.659046",
                 "zone": ""
             },
             {
@@ -24234,42 +19864,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bf2b9f70e012466eab38a9e081f64b04",
-                "district": "昌平区",
-                "location": "中山口路与水库路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.241846,40.255688",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a739219adff546bf859fc5e7dc3ebb2d",
                 "district": "开发区",
                 "location": "科创七街与经海路交口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.547687,39.802649",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6b5885dcb4464ce1b1825881faee63ff",
-                "district": "房山区",
-                "location": "京深路于庄路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.096263,39.670902",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e7801b1346834f35804090ba83e07a31",
-                "district": "大兴区",
-                "location": "海鑫北路与阜顺南路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.420992,39.717159",
                 "zone": ""
             },
             {
@@ -24290,16 +19890,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.500102,39.751333",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "48ee2a894e4b4a36bf467d541ebd121b",
-                "district": "密云区",
-                "location": "新中街与东鱼市胡同花园小区西口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.851106,40.373976",
                 "zone": ""
             },
             {
@@ -24544,62 +20134,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fb5fd7dec79745e7b82fa0908d7de815",
-                "district": "密云区",
-                "location": "密关路新北路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.848779,40.389288",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dd46aea3c5a24ae385c9b21ecd5b9973",
-                "district": "房山区",
-                "location": "京周路医院口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.989973,39.696642",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "42eb4170324a4ca09ed844ed241e1516",
-                "district": "大兴区",
-                "location": "物顺路与盛豫街路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.413670,39.714857",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "10251a3c6e58477bb45875391c62e2ea",
-                "district": "顺义区",
-                "location": "顺平南线沟北村口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.765693,40.100383",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "6776c4577d534bc885a115dc3ace95c8",
                 "district": "西城区",
                 "location": "手帕口北街北口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.342273,39.898202",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "40ef556a49f944d29facf7a593602a2c",
-                "district": "房山区",
-                "location": "焦庄村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.054061,39.722564",
                 "zone": ""
             },
             {
@@ -24664,16 +20204,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "126b00e8706743c8ba66af8b086e42b4",
-                "district": "密云区",
-                "location": "密三路与左堤路十字路口东北",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.896894,40.381131",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4a7a9d3f0bf643dc98bf5a20c7c4311a",
                 "district": "朝阳区",
                 "location": "东三环辅路百子湾路口北",
@@ -24694,72 +20224,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c1ea6af319714ad1a258a377d9c0164b",
-                "district": "密云区",
-                "location": "东邵渠路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.979675,40.294858",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "46b89f8d2b674ddb9b3d16674b2f1eb3",
                 "district": "海淀区",
                 "location": "后屯路与后屯中街交口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.352107,40.045766",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0a185c32fc434f0fba143a132a475ed7",
-                "district": "怀柔区",
-                "location": "乐红园路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.634996,40.341744",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5d5aeff3a7e047c3ad78622ad24392f1",
-                "district": "房山区",
-                "location": "良常路与小营路口西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.148159,39.695684",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "14e382a3fcb64034acfa3491eb9a907b",
-                "district": "房山区",
-                "location": "岳琉路东南章村口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "115.936574,39.604945",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "de32d5ece0b14a97864ff9d67bccbe10",
-                "district": "房山区",
-                "location": "房易路瓦井村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.927147,39.640677",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0c0f0d14f6fa4151801762abc66338df",
-                "district": "房山区",
-                "location": "房琉路与顾郑路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.983255,39.682150",
                 "zone": ""
             },
             {
@@ -24784,62 +20254,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "762164c604fd46918bfd46031403b449",
-                "district": "房山区",
-                "location": "南大街保健路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.984313,39.696588",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cd789679ac3b461a8fc03cc4dcf32e86",
-                "district": "房山区",
-                "location": "阎吕路西庄户东口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.088542,39.748934",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a13f494baa064e28ba0312ebb1d3cdfe",
-                "district": "房山区",
-                "location": "窦庄路与立西路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.084165,39.623775",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e64d701d9030475f9fdd0630224a68ff",
                 "district": "西城区",
                 "location": "燕京饭店口",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.343440,39.907193",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0a5394ae425e43e38802192b8a492ab9",
-                "district": "房山区",
-                "location": "阎中路与八号路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.072448,39.731844",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "83825b362b434801b24572291ec7d099",
-                "district": "顺义区",
-                "location": "木燕辅路龙塘路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.791641,40.065869",
                 "zone": ""
             },
             {
@@ -24884,16 +20304,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a776447bc76d4cbbac57f934408248c1",
-                "district": "密云区",
-                "location": "左堤路与单平路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.747689,40.292012",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c5e7b94b6e724a41afc9eb8147a5eca6",
                 "district": "西城区",
                 "location": "官园桥北龙门东辅路",
@@ -24914,52 +20324,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f2b62af0c7c74af78e1118cbaa40216c",
-                "district": "顺义区",
-                "location": "铁东路和仓上街北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.647079,40.112032",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3de947a185e24c81bf3bc6d4f5576069",
-                "district": "房山区",
-                "location": "大窦路京周辅路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.054445,39.712455",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d338598c95864f18a781cea469f7efdf",
-                "district": "房山区",
-                "location": "沙窝村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.042098,39.758148",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b2f76cfb5cb94242840a415e6f900f37",
                 "district": "丰台区",
                 "location": "玉蜓桥（二环主路）",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.421763,39.871231",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "83ed4168825549ccb578e81184fe3902",
-                "district": "延庆区",
-                "location": "110国道与西卓家营路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.858689,40.478891",
                 "zone": ""
             },
             {
@@ -24984,36 +20354,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cf2e20e46e934d13b6beaf8a6ab14511",
-                "district": "密云区",
-                "location": "京密路古北口镇政府路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.163057,40.691640",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ec1dbdd94a274a96abe7ec990e5c283a",
-                "district": "昌平区",
-                "location": "秦北路与上西路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.459445,40.200203",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "df1b3fb0255449e492a3fd67711015f9",
-                "district": "密云区",
-                "location": "顺密路与水源路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.834446,40.356672",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0ac5732c8ee44393b156801a194c248c",
                 "district": "西城区",
                 "location": "四环胡同东口过街北",
@@ -25024,42 +20364,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "654205e5929e42278dae0ee9b116dcae",
-                "district": "平谷区",
-                "location": "密三路与环马北街交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.008864,40.064830",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a0a8bbe352e14cfba5411bff2fc4bbcf",
                 "district": "石景山区",
                 "location": "鲁谷南路与半月西街交口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.218715,39.900472",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9170b9d27c31436eb6cdb04a946ca0cd",
-                "district": "密云区",
-                "location": "京密路与穆九路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.939003,40.411028",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "176e76edeb8b4a2bb68885eda7f1e9fe",
-                "district": "密云区",
-                "location": "统军庄路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.750151,40.333443",
                 "zone": ""
             },
             {
@@ -25094,42 +20404,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2e160abca84f4389a15742a24f0b67c4",
-                "district": "延庆区",
-                "location": "知夏街中口东",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.999052,40.436997",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e19c959e001541f5acefdf8252e4e4a6",
                 "district": "西城区",
                 "location": "广安门北街5号院门前行人南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.350264,39.892108",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1c396cab896246ebbef7907bc8fe11bf",
-                "district": "顺义区",
-                "location": "龙塘路与顾南路交口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.941249,40.081147",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "168382aa13884d9ca39398bea0d97639",
-                "district": "房山区",
-                "location": "良坨路与紫十路相交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.080184,39.765396",
                 "zone": ""
             },
             {
@@ -25164,42 +20444,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3c719cfdd5124277ac73ce9676bcb063",
-                "district": "密云区",
-                "location": "兴云路与西门外大街西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.821139,40.380523",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "20a4635197c74a25afe8a1702edd1cf6",
-                "district": "房山区",
-                "location": "云居寺路巡线路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.867247,39.588850",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "6f5a5b94681e44a68e5c8c62b517a63e",
                 "district": "西城区",
                 "location": "南礼士路南口",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.352245,39.907304",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "aec7477bf6084426b07fcc3e1707c8ac",
-                "district": "昌平区",
-                "location": "昌赤路北新村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.241711,40.283589",
                 "zone": ""
             },
             {
@@ -25234,16 +20484,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1cc29fbc52d84381881bf3aa0e2641d2",
-                "district": "平谷区",
-                "location": "平谷五小路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.092376,40.136612",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f8a4a26631b8428e826bcfe8c0e686c9",
                 "district": "通州区",
                 "location": "潞苑北大街疃里桥西",
@@ -25254,52 +20494,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4439115ad9554438822319001fe7d330",
-                "district": "顺义区",
-                "location": "李魏路李遂小学路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.757469,40.089573",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ef2d03d3fb88400db784727f028b6260",
                 "district": "西城区",
                 "location": "二环辅路开阳路路口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.374801,39.871002",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b60cb7e72abd46c6974261e580301743",
-                "district": "顺义区",
-                "location": "李魏路李遂小学路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.756861,40.089609",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9b50227e1b2544c4b7493917fdd75aee",
-                "district": "房山区",
-                "location": "房窑路大陶村西口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.175925,39.611885",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7df711f5c2184e9094900bd9643dbb5c",
-                "district": "房山区",
-                "location": "房窑路大陶村西口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.175923,39.612382",
                 "zone": ""
             },
             {
@@ -25464,42 +20664,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6c1a615ac3f34b9798fe2168b4a0828e",
-                "district": "密云区",
-                "location": "西门外大街果园新里北口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.831895,40.377803",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ff0745f3cfaf4bb1a90f1a42aba67430",
-                "district": "昌平区",
-                "location": "昌金路与上东路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.455437,40.208044",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f5b55a7aa957438090f34a3133de4451",
                 "district": "丰台区",
                 "location": "方庄路方庄桥下",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.438621,39.859434",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "940219fe9ac949efb6017c667622123b",
-                "district": "丰台区",
-                "location": "泉湖西路燕西华府路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.109822,39.793420",
                 "zone": ""
             },
             {
@@ -25530,56 +20700,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.163880,39.766861",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f450de8e98d841c0977a07dd01d5f31e",
-                "district": "密云区",
-                "location": "巨各庄中学口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.945053,40.377548",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d13be51886de45748ac6adfa083b7268",
-                "district": "房山区",
-                "location": "京周路顾册村过街东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.973696,39.680709",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4e01b7fed6c04cc5bb1d9256ec62920b",
-                "district": "房山区",
-                "location": "房东路石花洞路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.981144,39.805648",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d4f08f38bcca4a40ab825a5c858690aa",
-                "district": "房山区",
-                "location": "良常路张谢南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.145191,39.652360",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4d8426ae6bec4b699764bd37806f884b",
-                "district": "密云区",
-                "location": "密关路与白云街路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.848742,40.395988",
                 "zone": ""
             },
             {
@@ -25664,42 +20784,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cee42e379ed24d6a8736a2b172f3be71",
-                "district": "房山区",
-                "location": "顾郑路与瓦梨路十字路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.965800,39.639824",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "162306dc6a414dc6bcc5a64ee06c384f",
-                "district": "昌平区",
-                "location": "南百路钟家营南口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.315999,40.183342",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ed2e634febaf481aa7c72ad1183b8796",
                 "district": "通州区",
                 "location": "大姚辛庄村南口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.635301,39.757009",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f10052a8fae04c09b35ca3b85ce270f7",
-                "district": "房山区",
-                "location": "房易路龙宝峪路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.931233,39.648925",
                 "zone": ""
             },
             {
@@ -25720,56 +20810,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.348951,39.877807",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "26840adaffad4dd48490d9bba06a991b",
-                "district": "房山区",
-                "location": "房易路金元大街口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.877141,39.566486",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e09a00d2a7b84131a481f77657b188b6",
-                "district": "延庆区",
-                "location": "马营路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.881650,40.411920",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "917f904aad5440fc9da10c18d7c38f78",
-                "district": "平谷区",
-                "location": "青羊屯第二路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.072423,40.100879",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "59008cf9ad974a7e98cda827be3a21b2",
-                "district": "平谷区",
-                "location": "管庄子南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.058852,40.134719",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8b0e3c26af2342e3a81acf359442e20b",
-                "district": "顺义区",
-                "location": "通顺路张辛庄村村口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.677499,40.017952",
                 "zone": ""
             },
             {
@@ -25844,26 +20884,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "becca36b021148ea9186d94028f362cb",
-                "district": "顺义区",
-                "location": "顺兴路与时俊街南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.634823,40.089844",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "72b2acc22d21466c9e5ff18263906ac8",
-                "district": "昌平区",
-                "location": "顺沙路崔阿路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.347956,40.170812",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e696f6aefb314fc088723223662a73d3",
                 "district": "丰台区",
                 "location": "马家堡路南华小区东侧路行人南",
@@ -25880,16 +20900,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.362517,39.845937",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "50a9baae156749f0af944a10bb8ca5be",
-                "district": "密云区",
-                "location": "双燕街与兴云路南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.821473,40.367854",
                 "zone": ""
             },
             {
@@ -25964,16 +20974,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "90f1b13e44174739a7bbf518b589da39",
-                "district": "平谷区",
-                "location": "将军关路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.321720,40.263548",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c7be52af3ab34cd7b72fbe90cf81cf2b",
                 "district": "西城区",
                 "location": "鼓楼西大街西口",
@@ -26000,26 +21000,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.335393,40.009565",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "79e3aece9d7642f1a62c84cfc86aa129",
-                "district": "怀柔区",
-                "location": "怀昌路与庙桥路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.587446,40.288762",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "364b216c261944c691c42943e43eca0a",
-                "district": "房山区",
-                "location": "磁家务路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.988638,39.797327",
                 "zone": ""
             },
             {
@@ -26180,16 +21160,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.507902,40.015209",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "777e4e4c4b884c8dad6993a909e67da3",
-                "district": "顺义区",
-                "location": "顺沙路前进花园路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.634112,40.138478",
                 "zone": ""
             },
             {
@@ -26364,36 +21334,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6744edf932bb4314aaed0d6cefef40fd",
-                "district": "房山区",
-                "location": "紫码路刘平庄路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.112559,39.626648",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "05ca6bd8b9b8402ea0a353405e722dff",
-                "district": "房山区",
-                "location": "京深路小十三里路口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.102367,39.678486",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "21e7220ccb19451aa5759113ced23a27",
-                "district": "顺义区",
-                "location": "北木路862乡道东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.586671,40.239372",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4980d8bdc2c548bb92be039c39730fbc",
                 "district": "西城",
                 "location": "月坛北桥下",
@@ -26474,26 +21414,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6af12157493e4b4da8f536e1bb44a72d",
-                "district": "房山区",
-                "location": "府前街张坊镇政府以南西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.717768,39.576073",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "188f2e7e3c9741a79147dbf71bc0c27e",
-                "district": "密云区",
-                "location": "首创澜茵山小区路口北（密关路与东智东路交口北）",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.847686,40.408918",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d72f5185a68d40e1a5ae9107154ffab6",
                 "district": "西城区",
                 "location": "柳巷西口北",
@@ -26554,46 +21474,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0a8fb2759e17439fb193d280a7bcf381",
-                "district": "大兴区",
-                "location": "庞魏路与四李路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.360415,39.637394",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "078cf27915554a189e638725de5be65c",
-                "district": "房山区",
-                "location": "岳圣路口（原乐圣路口）南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.864791,39.637951",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b8a2d894461d4885b4940e9cf8d73273",
-                "district": "房山区",
-                "location": "西大街西沙河路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.979310,39.702848",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a4bf6eeb63044546a2f233ed23cb2083",
-                "district": "密云区",
-                "location": "京密路古北口镇政府路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.163162,40.691296",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f235a3a7bf7e4a65953ceabbb22a3397",
                 "district": "西城区",
                 "location": "槐柏树街西口东",
@@ -26644,16 +21524,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b2673765db21477f91f461c996ffbe36",
-                "district": "房山区",
-                "location": "大窦路京周辅路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.054880,39.712862",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3b065c7a6a7747088e0d4c262fe26248",
                 "district": "京港澳高速大瓦窑桥",
                 "location": "主路",
@@ -26690,16 +21560,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.267127,40.017895",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b167b698de594a5b90bea95a56eb06fa",
-                "district": "顺义区",
-                "location": "李木路与魏辛庄桥北路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.774810,40.117800",
                 "zone": ""
             },
             {
@@ -26804,16 +21664,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "666b4397d3c84ee79eda6220ca89640b",
-                "district": "房山区",
-                "location": "琉陶路小陶村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.171940,39.605775",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "78de88dc4e3a4a59ac519c46c77d318c",
                 "district": "房山区",
                 "location": "良三路黄辛庄路口北",
@@ -26844,16 +21694,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6747ee2067a747e7a39f818007e91c96",
-                "district": "房山区",
-                "location": "窦店环城西路南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.056610,39.656889",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f0aaa4f81a184aac8a5d77ac0070acec",
                 "district": "通州区",
                 "location": "西马各庄小学南",
@@ -26880,16 +21720,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.458683,39.820574",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7ee6f98533904ecd9877fc5c7c6ca9b8",
-                "district": "房山区",
-                "location": "阎河路108国道匝道西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.958277,39.824410",
                 "zone": ""
             },
             {
@@ -26954,36 +21784,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4a0883c927e84e30877b43e23e4dfe4d",
-                "district": "房山区",
-                "location": "大韩继路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.958067,39.664937",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ebf033b2bb184d45afb2a81120a1830f",
-                "district": "昌平区",
-                "location": "立汤路与四场路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.408217,40.163706",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5949ba3d43d54912a1433a9d47817135",
-                "district": "昌平区",
-                "location": "温北路后白虎涧村口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.135152,40.129638",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "cbbdda2243d44a82a657f8eaf28fdf42",
                 "district": "通州区",
                 "location": "西马坊路与张采路交口北",
@@ -27020,26 +21820,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.581304,39.993629",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5d7534c4e12e48b0a9364c830d47d87c",
-                "district": "顺义区",
-                "location": "左堤路易郡山庄路口东南",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.744806,40.090615",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2bec274a31e249f0a40f8211a33a8295",
-                "district": "门头沟区",
-                "location": "龙山街与耿王路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.082653,39.944210",
                 "zone": ""
             },
             {
@@ -27180,16 +21960,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.460553,39.989306",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "11762654474c4471850dd57f541a9404",
-                "district": "顺义区",
-                "location": "北小营北街与北韩路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.731766,40.208277",
                 "zone": ""
             },
             {
@@ -27374,16 +22144,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "37081ea15f144d04a95aad8df0f7b790",
-                "district": "房山区",
-                "location": "公韩路陶营路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.197709,39.589527",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "59c0ea8e33bf45a39501e5ae16a577b8",
                 "district": "通州区",
                 "location": "南丁庄路口南",
@@ -27454,16 +22214,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41a211960c08487183436e5e258c40f0",
-                "district": "房山区",
-                "location": "良常路小营路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.148442,39.694870",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "664413e631da4a8892ffc1ca19086bb3",
                 "district": "丰台区",
                 "location": "张仪村路南口北人行灯岗",
@@ -27510,16 +22260,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.378733,39.839369",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "167e3fa01dc748b08868d9f4214d1094",
-                "district": "门头沟区",
-                "location": "九龙路北口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.098675,39.952087",
                 "zone": ""
             },
             {
@@ -27604,16 +22344,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "71e137dbde4a4f229cf757117e8866a1",
-                "district": "平谷区",
-                "location": "金海东路与平蓟路交口（教工南口）西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.295381,40.184478",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "988432cce3e34e3ab2873604a124b495",
                 "district": "开发区",
                 "location": "地泽南街与地泽路交口2",
@@ -27640,16 +22370,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.106292,39.727507",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "193097d69ac24770bb555d8ce02b40c1",
-                "district": "大兴区",
-                "location": "魏永路与周梨路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.285494,39.664239",
                 "zone": ""
             },
             {
@@ -27854,16 +22574,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bcb6ab1ea9904cd29e99a10dbd54cf1f",
-                "district": "密云区",
-                "location": "密关路与新南路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.837801,40.368294",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "2be5bb43a4d84b86b82f982f23870906",
                 "district": "朝阳区",
                 "location": "肖村桥南行人过街北",
@@ -28064,26 +22774,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c2be5147fa0a4e3499d5762484460bcd",
-                "district": "顺义区",
-                "location": "右堤路河南村橡皮坝西口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.697692,40.113855",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b6dedec898b54e17a40af9eb316f6272",
-                "district": "房山区",
-                "location": "夏村路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.032208,39.666704",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "9c2da34ace14417b93e3edf73141a666",
                 "district": "通州区",
                 "location": "六环路六合北桥",
@@ -28164,36 +22854,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "07892bb5546d44688a1963fbfa66a124",
-                "district": "昌平区",
-                "location": "南环南路与兴昌路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.302960,40.207004",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c40b3cd5400248a8b7d7139a086b5244",
-                "district": "平谷区",
-                "location": "打铁庄路北口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.010525,40.065687",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dcabbf5becec4f0a90d0e020ac3146c4",
-                "district": "平谷区",
-                "location": "东交民巷小学马坊分校北口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.013363,40.064430",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "23ae06f191ec4d219b90704b5f4c9cb6",
                 "district": "西城区",
                 "location": "核桃园西街东口西",
@@ -28224,42 +22884,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3197df4df8cb43238da60ebdcbe22087",
-                "district": "昌平区",
-                "location": "京密北路与兴昌路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.303048,40.200833",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d52730b8b7694254a11d6dbcae68411b",
-                "district": "门头沟区",
-                "location": "108辅线与石门营路交口北2",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.096500,39.886195",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e49105cf1579474c954b10476a94ee0c",
                 "district": "朝阳区",
                 "location": "安立路安慧桥北",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.407709,39.993238",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "15876a0c22a54761a76afc566d5eab32",
-                "district": "房山区",
-                "location": "房易路南尚乐村口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.781292,39.541251",
                 "zone": ""
             },
             {
@@ -28294,72 +22924,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b3fea4e542d746deb6b1a703ab5d6ef3",
-                "district": "怀柔区",
-                "location": "张自口村南口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.685672,40.297888",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dadbcc818f8f42c0a04148b1559d322b",
-                "district": "顺义区",
-                "location": "",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.844765,40.152190",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b979e9ae36ed48198cd64314327c1090",
                 "district": "通州区",
                 "location": "环景西一路与景盛南一街交口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.541552,39.736060",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3a10d8151fd340d58d4bd9a1113e4882",
-                "district": "平谷区",
-                "location": "平谷大街路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.076962,40.158166",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "05f50f6238344a18be5f9a92acb82513",
-                "district": "平谷区",
-                "location": "南营村西口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.017271,40.175843",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a511565655064060a07eb41890442fa7",
-                "district": "平谷区",
-                "location": "密三路与蔡中路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.017817,40.173501",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "595ddbb388284ba79cde36e6ee9351cb",
-                "district": "大兴区",
-                "location": "采万路铜佛寺村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.623970,39.626062",
                 "zone": ""
             },
             {
@@ -28394,16 +22964,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2cd305aee12249598e9673f06ee5d32f",
-                "district": "顺义区",
-                "location": "顺仁路与外环线交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.665130,40.081887",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d261a642af04466a9fd01433a0016f65",
                 "district": "丰台区",
                 "location": "南苑路和义路口",
@@ -28424,72 +22984,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0e8b0686d9994715960a106cd5e73fc6",
-                "district": "房山区",
-                "location": "瓦窑头村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.069197,39.665070",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dc88ed2ae03e40b5bf064f8f38368d2f",
-                "district": "大兴区",
-                "location": "安采路与前安定南路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.510609,39.635701",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e5e6d14f0594442fb1a614bf573ac585",
-                "district": "房山区",
-                "location": "京周路制桶厂路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.976781,39.682857",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f384f3190fbe4b32b4473b02ef1fcfa6",
                 "district": "丰台区",
                 "location": "京周路长辛店医院西侧行人南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.208475,39.820208",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a85416c1d40c4bd08401211cfe03d5bd",
-                "district": "房山区",
-                "location": "顾郑路长琉路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.960862,39.575977",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c36513f20ee64526b94c559a4bbc3e94",
-                "district": "房山区",
-                "location": "阎吕路与巡线路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.090267,39.759757",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "76e4c5b5776d41408850bb39693ea197",
-                "district": "房山区",
-                "location": "阎吕路与巡线路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.089845,39.759984",
                 "zone": ""
             },
             {
@@ -28514,26 +23014,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "311a9e4f46df4bd5ad52f93b1f812d75",
-                "district": "顺义区",
-                "location": "六环路仁和桥",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.623704,40.113553",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "deb16704460d4bb1b13b0036309e7e19",
-                "district": "延庆区",
-                "location": "昌赤路与永偏路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.171721,40.525648",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "94fe46e21345475aa8cb805f18401a5a",
                 "district": "东城区",
                 "location": "东花市大街口南",
@@ -28554,16 +23034,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6dd63bf356954dcb8c51ef5f44fa4dee",
-                "district": "顺义区",
-                "location": "通顺路与天缘酒店路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.667009,40.050229",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "1374dc1073fd4c66915710afcfbe56fe",
                 "district": "朝阳区",
                 "location": "辛庄二街苇子坑路口东",
@@ -28580,26 +23050,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.422172,39.851251",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dc0b46a767c14cb1a1f054304dc937c7",
-                "district": "海淀区",
-                "location": "聂各庄东路采摘园口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.130992,40.100091",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ce8fd998a1cc401892a34f854200726c",
-                "district": "延庆区",
-                "location": "西二道河北口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.075590,40.420740",
                 "zone": ""
             },
             {
@@ -28684,16 +23134,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1f9b24a2176f4c5bb814850af9607979",
-                "district": "延庆区",
-                "location": "盛世营路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.162331,40.520198",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "bb100acd978247fc95969c4e93c4a229",
                 "district": "西城区",
                 "location": "中大安胡同东口南",
@@ -28714,36 +23154,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2062d79f556246b1966c283b9a73e40d",
-                "district": "怀柔区",
-                "location": "琉璃庙三角地南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.652626,40.626393",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fcf9a56ff84a4f5998197b3f35fcd7d1",
-                "district": "延庆区",
-                "location": "��桑园路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.980699,40.418520",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "89d11aa9294849c4b1c314d6ad62d50f",
-                "district": "顺义区",
-                "location": "铁东路和仓上街南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.647179,40.111667",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "9b76bdb2d9504a5ab4e242365ec0b0e9",
                 "district": "房山区",
                 "location": "长虹路北京经贸职业学院口南",
@@ -28760,16 +23170,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.136171,39.720919",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "eee99b75875d45d89f41095c4f1d7425",
-                "district": "门头沟区",
-                "location": "斋堂镇西侧路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.689771,39.965747",
                 "zone": ""
             },
             {
@@ -28824,26 +23224,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0e2c337931604f6bbdc20c9b0184e047",
-                "district": "怀柔区",
-                "location": "怀昌路与庙桥路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.586596,40.288078",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "52bf37c4b5764d23998c01b648121c97",
-                "district": "房山区",
-                "location": "107国道刘丈村东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.125104,39.680824",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4525221dc5b94cfc9c2bb09cd7e11c22",
                 "district": "东城区",
                 "location": "吉市口东路路东侧",
@@ -28884,46 +23264,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f287aef81dfe4e90a4020bc6d5a965ca",
-                "district": "大兴区",
-                "location": "魏石路与苗加路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.389870,39.582836",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fa284ee6cfea453b881a285551521979",
-                "district": "大兴区",
-                "location": "魏石路与后顺路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.402421,39.653024",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3b31f576d0164d6b8b58562923ff64bf",
-                "district": "密云区",
-                "location": "左堤路与兴盛南路路口南/西",
-                "direction": "南向北/西向东",
-                "note": "",
-                "coordinate": "116.815972,40.346620",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "386ba7fbbf144b338b98c42d4fb8cada",
-                "district": "门头沟区",
-                "location": "大峪中学口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.095548,39.934356",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b4fb4f2c03b744d2a83068faccc5f187",
                 "district": "海淀区",
                 "location": "西北旺北路二街北口南",
@@ -28950,16 +23290,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.267148,40.050807",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1f155243b8c149d28e383f41c75070e9",
-                "district": "门头沟区",
-                "location": "杨坨路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.106042,40.005260",
                 "zone": ""
             },
             {
@@ -29124,16 +23454,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b019a9fd5e1745c286bc48c61518b00a",
-                "district": "延庆区",
-                "location": "刘斌堡三岔口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.236375,40.570367",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "68e3402c965f48dbbe83009061664901",
                 "district": "西城区",
                 "location": "后广平胡同西口北",
@@ -29204,52 +23524,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5763e8421f5640c79d35a24238c8b417",
-                "district": "顺义区",
-                "location": "左堤路易郡山㽵路口西北",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.744287,40.090827",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "da5d79bfc9fd4e13b83778f6c671bd44",
                 "district": "丰台区",
                 "location": "鑫博路园博大道口西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.168288,39.871254",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fea3039a6f364e289de826f0030c60b3",
-                "district": "顺义区",
-                "location": "顺平路沙岭小学东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.880096,40.152972",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b6f7e558286245b79a34f4cb8986d531",
-                "district": "大兴区",
-                "location": "庞安路孙场村西口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.371350,39.619178",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bd3499ffe8764b0abbf9cef6b95ae453",
-                "district": "大兴区",
-                "location": "东赵路北曹各庄村口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.260817,39.591946",
                 "zone": ""
             },
             {
@@ -29264,32 +23544,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1fc3dd2e87c64f12940ea89388bcc567",
-                "district": "密云区",
-                "location": "巨各庄中学口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.944724,40.377881",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "22011c72a3084a95ab6d04152e1804e4",
                 "district": "石景山区",
                 "location": "上庄大街石景山路交口北一灯",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.234828,39.909845",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "27cd0531bba04257b8377dfa3093d9d8",
-                "district": "房山区",
-                "location": "京深路与良常路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.147863,39.673103",
                 "zone": ""
             },
             {
@@ -29324,56 +23584,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cffc71852fdc4a3eae5e9e946a840ad0",
-                "district": "延庆区",
-                "location": "110国道与下付路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.899107,40.503377",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7ddee71f184842acab10152c85e106ff",
-                "district": "延庆区",
-                "location": "玉皇庙路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.902513,40.514062",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fc462828d9c949d99e2ffd37afef3e86",
-                "district": "大兴区",
-                "location": "广佛寺村南口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.635269,39.619834",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41d4d859d0e4483b92c93298c148767a",
-                "district": "大兴区",
-                "location": "长西路正耀路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.627462,39.686596",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3e3959bd17804e918776657ae8aa3c25",
-                "district": "大兴区",
-                "location": "青魏路新大街路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.427864,39.667987",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "211fbb4016db49229cf45b8620349592",
                 "district": "朝阳区",
                 "location": "京承高速湖光桥",
@@ -29404,26 +23614,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a77a31d13b5b4f6286e1cfb7dc23bf3a",
-                "district": "房山区",
-                "location": "顾郑路赵各庄村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.964435,39.616265",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "22dae6369b2a4e21bd2a46a9b3ac3666",
-                "district": "延庆区",
-                "location": "玉皇庙路口东北",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.902747,40.514025",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "50831cc886dc4c74b9228e66ef339c29",
                 "district": "西城区",
                 "location": "阜成门外大街甘家口路口东",
@@ -29440,16 +23630,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.515913,40.081189",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2e3b1651ef014588afb58838c1dee2cd",
-                "district": "房山区",
-                "location": "房琉路石楼华冠口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.980066,39.648667",
                 "zone": ""
             },
             {
@@ -29474,62 +23654,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "842e22c13aaa4c5380a4c80b25067a95",
-                "district": "门头沟区",
-                "location": "高家园路桃园路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.105691,39.928086",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c152acea2ca84b21857f65fbb84db027",
-                "district": "昌平城区",
-                "location": "北京风景西门北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.287958,40.215393",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3fd9403df86142ff90a3355be90b94d0",
                 "district": "",
                 "location": "机场南路与首都机场辅路交口南-2",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.593709,40.057245",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d3d62c88f1db431cb60ac3cd2d314b86",
-                "district": "平谷区",
-                "location": "平关路后北宫小学东口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.056447,40.255433",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6ff075a332e04368a6dabeef3d1c78f8",
-                "district": "平谷区",
-                "location": "新平西路南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.100088,40.133895",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4b81c49691574102958f233af4430c1d",
-                "district": "门头沟区",
-                "location": "杨坨路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.105842,40.004882",
                 "zone": ""
             },
             {
@@ -29560,46 +23690,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.498651,39.937572",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "492701dcab1e4abd99a65d5a9420d227",
-                "district": "房山区",
-                "location": "",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.065773,39.642111",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "12c6b2beda524dda967963cd0e601b8c",
-                "district": "门头沟区",
-                "location": "三家店新河路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.105072,39.959782",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b35f03d679894020a6c612f3f0742865",
-                "district": "门头沟区",
-                "location": "石担路与龙泉雾村路交口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.088108,39.983833",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6495475b9ad84697b9c4b54ba450d57d",
-                "district": "房山区",
-                "location": "阎周路水墨林夕南门路口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.063539,39.684233",
                 "zone": ""
             },
             {
@@ -29714,26 +23804,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1b709ec7703c48f098d44e5b33d3e99c",
-                "district": "延庆区",
-                "location": "团结路与110国道交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.988776,40.489934",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "69e20368a01e46d6a1d750b84e240bff",
-                "district": "大兴区",
-                "location": "赵安路与梨东路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.363689,39.592104",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b1335bc8511946d7a4e51d495c8e9759",
                 "district": "昌平区",
                 "location": "回南路水源九厂路口北",
@@ -29824,42 +23894,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bb9a5cb2ac304e7f8e96ac81d613a995",
-                "district": "延庆区",
-                "location": "北张王路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.069607,40.421243",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "13697a7b3c664a52b766fd469c9d94f6",
-                "district": "密云区",
-                "location": "",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.975283,40.409016",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "91ec958f23d04ec9bf2d2fd250ab5a9c",
                 "district": "通州区",
                 "location": "漷兴西三街西口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.758664,39.768208",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e5759a8cf3914a3fa4bd0a11515ed45a",
-                "district": "房山区",
-                "location": "房易路北正村村口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.869691,39.565187",
                 "zone": ""
             },
             {
@@ -29880,46 +23920,6 @@ export default class _Avoid {
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.457252,39.904119",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a840efc6888f4a0bac74e2241fa4e092",
-                "district": "大兴区",
-                "location": "",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.352945,39.670327",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2cb5a798d1574186b3f26bd9923b1ecf",
-                "district": "密云区",
-                "location": "太师屯马场口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.265513,40.622482",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "db9d16c5a97d409cbb75d864fc0b7517",
-                "district": "密云区",
-                "location": "西门外大街果园新里北口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.831890,40.377790",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "22120ab89cff4837894518d803531ac4",
-                "district": "门头沟区",
-                "location": "三家店新河路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.105024,39.960087",
                 "zone": ""
             },
             {
@@ -29950,36 +23950,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.818805,39.774931",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d5ab2363885b45d7a1f36c564666e3b3",
-                "district": "密云区",
-                "location": "白云街与李各庄路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.843647,40.396566",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e9c9b9d4d645469bbcaae6f1c298045c",
-                "district": "昌平区",
-                "location": "昌赤路北新村路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.241653,40.283154",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bfc41070d6164932946ed0309bcd321f",
-                "district": "顺义区",
-                "location": "顺平路与龙凤路北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.965253,40.149989",
                 "zone": ""
             },
             {
@@ -30094,76 +24064,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "94dd381133bd4c6792285ae68ce83a96",
-                "district": "密云区",
-                "location": "果园西路密云二小（滨河校区）西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.826528,40.389358",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "446afecd757b4d25ba7a50e50248fff8",
-                "district": "密云区",
-                "location": "七中学校门口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.835868,40.393763",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fc4b938fc21c41c9971d640bc7e6b531",
-                "district": "房山区",
-                "location": "西环路靶场路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.978862,39.694241",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fe7a586a7f084eb0b6b5a279781a01be",
-                "district": "密云区",
-                "location": "水源路与远光街路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.818184,40.357068",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "664c28300436405ab46f4f17447f06e7",
-                "district": "密云区",
-                "location": "密关路金叵罗村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.838097,40.460837",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d99c3ae068ec4e6786c6226c2f083c47",
-                "district": "密云区",
-                "location": "果园西路与果园南街口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.826451,40.371336",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "75820ca83a2e484893937cb6835cb137",
-                "district": "密云区",
-                "location": "河南寨中学口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.823261,40.327422",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ff0a3c0cb243434db2eab663a099c2cd",
                 "district": "通州区",
                 "location": "耿庄桥",
@@ -30180,36 +24080,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.658260,39.842839",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3ee8d0adebe3457fa380d8c9cb1c9e0e",
-                "district": "平谷区",
-                "location": "平谷六小北口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.105054,40.150074",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "280cc8f2edd740a98b0d69eb9c39c6b2",
-                "district": "平谷区",
-                "location": "中行路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.105647,40.142077",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d4de4260d9ee45dfb031a22c65b8b32d",
-                "district": "延庆区",
-                "location": "百康路小丰营路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.925545,40.428520",
                 "zone": ""
             },
             {
@@ -30234,72 +24104,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "53c9e6feef47492bb929e033b7b9d985",
-                "district": "密云区",
-                "location": "城后街与檀西路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.865752,40.383868",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7477e827b6a145229dad65491f248243",
-                "district": "密云区",
-                "location": "长安小区西口与滨河路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.840106,40.375816",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9aed876b15014e95898389140c2869bf",
-                "district": "房山区",
-                "location": "羊耳峪西区路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.966507,39.760829",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a2d651cbe2a444bda0b0653560200b77",
-                "district": "房山区",
-                "location": "房易路辛庄村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.807421,39.547965",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "31fca20f2ec548179c1998f6bfb6673d",
                 "district": "丰台区",
                 "location": "四环路公益西桥",
                 "direction": "东向西",
                 "note": "辅路",
                 "coordinate": "116.370579,39.831518",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0178e80e11024e17a8662ac10cc4471f",
-                "district": "延庆区",
-                "location": "昌赤路与大西路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.230299,40.436827",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5c3aeca4afc040c1ae112635de01c62e",
-                "district": "平谷区",
-                "location": "夏鱼路与马魏路交口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "117.186162,40.138650",
                 "zone": ""
             },
             {
@@ -30414,42 +24224,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "380f00d55d724b34a7dcaab911beff23",
-                "district": "怀柔区",
-                "location": "龙各庄神山路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.705892,40.411474",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a228a6b366b64b6b8fd59ecc59472284",
                 "district": "丰台区",
                 "location": "草桥西路与角门路口西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.349427,39.839557",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fdb37e4aad534f1c8548e019dc4ddc6f",
-                "district": "房山区",
-                "location": "房琉路与顾郑路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.983334,39.681752",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2d4e79a208d148938a1c11270beb32d1",
-                "district": "延庆区",
-                "location": "新城街北口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.982352,40.476916",
                 "zone": ""
             },
             {
@@ -30494,36 +24274,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e85074cf692b4ff68850d92ef0463ce1",
-                "district": "平谷区",
-                "location": "平夏路张各庄南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.155733,40.127886",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "50768f0eef2c49ca9e011a5e8baf42fb",
-                "district": "平谷区",
-                "location": "兴谷西路南口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.126578,40.158291",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5a089a08c03a4b189bbf784ac3827720",
-                "district": "平谷区",
-                "location": "",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "117.133694,40.136325",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c2c7d7f1ba814bbb82189e4b64d67053",
                 "district": "东城区",
                 "location": "东直门外大街春秀路口东",
@@ -30534,32 +24284,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1c6aa158a966478d9173c2f338aa7fa8",
-                "district": "怀柔区",
-                "location": "一渡河路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.507779,40.336050",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b2451ffa269c4da2acbc98fdf8a18947",
                 "district": "房山区",
                 "location": "阎安东路炒十路口西",
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.103805,39.713217",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "add902eb0d474167bd25cdaf74af6432",
-                "district": "大兴区",
-                "location": "薛赵路张公垡村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.302121,39.605271",
                 "zone": ""
             },
             {
@@ -30604,26 +24334,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3ac23ec61ab54559bb8a3b3a4fee2772",
-                "district": "怀柔区",
-                "location": "杨雁东二路与乐园东大街交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.694020,40.347645",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5c914012871346df95459612e58cda4d",
-                "district": "密云区",
-                "location": "新南路海怡庄园小区路口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.812345,40.362731",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "712d53d910894a498aaba276d16a9a87",
                 "district": "丰台区",
                 "location": "枫竹苑北路中口西",
@@ -30644,36 +24354,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c81bfdda2d374aaab5020eeed117f677",
-                "district": "延庆区",
-                "location": "下水磨东口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.964837,40.466508",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1fb5dde0e0944a6a86f53564eddd430b",
-                "district": "房山区",
-                "location": "房琉路京昆高速桥下南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.983383,39.626606",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "04a3ac9456384f21ab62605f7dfbac26",
-                "district": "房山区",
-                "location": "羊耳峪西区路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.966503,39.760705",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d5777c6dfa2b424985d3599874188732",
                 "district": "通州区",
                 "location": "张采路与小耕垡路交口南（小耕垡村口南）",
@@ -30684,72 +24364,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "983cee44d4204f2b99b344d1469f58ab",
-                "district": "延庆区",
-                "location": "河东路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.294186,40.662760",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "95573cb3f095463aa6ecc950d1c4e3dd",
-                "district": "怀柔区",
-                "location": "东宫路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.355589,40.402918",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "56e049e62b3b4eda9e9771ee10bf9f4c",
                 "district": "通州区",
                 "location": "黄厂铺口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.790559,39.726202",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4cd233a68b2046f8af7203bd469590d2",
-                "district": "延庆区",
-                "location": "四海路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.410125,40.530654",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e20faa5e5b5f4e75b908cdc880f495a9",
-                "district": "怀柔区",
-                "location": "四渡河村北路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.483029,40.350123",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2a0de9ce1d65486ebfee103f0342f927",
-                "district": "房山区",
-                "location": "房易路龙厢苑口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "115.947044,39.675280",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "daa9e1e27b8145cebb3d5bf01f79245e",
-                "district": "房山区",
-                "location": "塔照村西口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.763071,39.544672",
                 "zone": ""
             },
             {
@@ -30774,112 +24394,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7787144836504cbc9fdeaa492ea4e01d",
-                "district": "怀柔区",
-                "location": "靶场西路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.600976,40.360625",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "95fb30ee88984388964613433a873e4b",
-                "district": "昌平区",
-                "location": "立汤路与四场路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.408002,40.165044",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6cdf49d857284aada12ad3e210a39fba",
-                "district": "大兴区",
-                "location": "庞安路与庞青路交口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.478574,39.620555",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "8b3948749e5a447db0a15c4e9b528343",
                 "district": "丰台区",
                 "location": "益泽路丰益一小路口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.309636,39.860173",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7e0342d87b3c4834bcc63146bf4bba65",
-                "district": "顺义区",
-                "location": "王家场路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.706109,40.061722",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c4b05826d9604de3abe2ad8e47e5fe9b",
-                "district": "平谷区",
-                "location": "王各庄东口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.015572,40.110113",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c6a7af8c4a614662b5078b95af4a5940",
-                "district": "平谷区",
-                "location": "平程路与北山路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.111316,40.181701",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5065c709648d427f8a5d4e42f25d154d",
-                "district": "平谷区",
-                "location": "靠山集西口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "117.328232,40.207252",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7d813d66d0cc4e6f989c9ab1705f9722",
-                "district": "平谷区",
-                "location": "昌金路西樊各庄路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.950664,40.194565",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "75c4632ca7584699ae7500a8b2452684",
-                "district": "房山区",
-                "location": "新泗路周张路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.904332,39.663330",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6fe6cc0387c248ceb9cb0b19ac30b0c7",
-                "district": "房山区",
-                "location": "燕山公园西门北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.954036,39.727811",
                 "zone": ""
             },
             {
@@ -30914,42 +24434,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d5d79ac3a91b4e02b3015718d1348f23",
-                "district": "平谷区",
-                "location": "平瑞街兄弟制衣西侧路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "117.105676,40.165867",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0d6ab55b48f447ac9b924a58a76780d3",
-                "district": "房山区",
-                "location": "阎中路与八号路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.072809,39.732466",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ef9aeca2ada14c669bad4d40696f4a02",
                 "district": "房山区",
                 "location": "长韩路靠山居艺墅路口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.211434,39.806898",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f418cc40490946b5bc3771ffc14c5de4",
-                "district": "房山区",
-                "location": "京周路制桶厂路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.977070,39.683495",
                 "zone": ""
             },
             {
@@ -31034,16 +24524,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4de60cc33a20403d816d74876021c2b8",
-                "district": "大兴区",
-                "location": "海鑫路与盛祥街路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.417557,39.709831",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4009354035cc4c2a8786ad20fa8e005e",
                 "district": "大兴区",
                 "location": "槐房西路同兴园小区北",
@@ -31060,76 +24540,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.527271,39.772067",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "874f81ebbf9f40b492ced22154e016de",
-                "district": "房山区",
-                "location": "五中路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.060643,39.722895",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "212b6971a5be4c17ba62fc08838c1750",
-                "district": "房山区",
-                "location": "阎河路北坊村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.055568,39.737732",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2e2f483c3735452ba8bd6082045d2e9e",
-                "district": "房山区",
-                "location": "焦庄村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.053717,39.721885",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "07391617420847e5a67dd96598ef81ee",
-                "district": "房山区",
-                "location": "北大街北大寺路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.984557,39.704671",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e10774233e7642fc9ee3cede50d556c1",
-                "district": "房山区",
-                "location": "琉陶路西地路口（西口）西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.137494,39.606643",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "426419193e22428dab47aaaed29ad97f",
-                "district": "房山区",
-                "location": "燕房路体育场路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "115.992242,39.702051",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9775f1218dbb4999b3f1b40b80e17fa1",
-                "district": "房山区",
-                "location": "南大街保健路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.984312,39.696828",
                 "zone": ""
             },
             {
@@ -31170,56 +24580,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.144558,39.736008",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "62d35a695f7e45dfb4981f9c2bc2f9e0",
-                "district": "昌平区",
-                "location": "顺沙路崔阿路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.347742,40.171033",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5c6315a8c9ce49e091ed9fab3513efd4",
-                "district": "房山区",
-                "location": "阎吕路土洞路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.060857,39.792175",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0f4f160913df40f887c040379f6d23d9",
-                "district": "房山区",
-                "location": "房窑路田各庄村西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.011989,39.683461",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "58bf2901a6b144b29ee9cdcc6927706f",
-                "district": "房山区",
-                "location": "阎河路化工厂口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.034526,39.781254",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "814e7a6a4d2a4b2c861a93c42d21ffb8",
-                "district": "房山区",
-                "location": "良坨路西口（坨里加油站路口）南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.033537,39.777479",
                 "zone": ""
             },
             {
@@ -31364,16 +24724,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7002ec8b3a474bc9b7fcaab68c08bb6c",
-                "district": "大兴区",
-                "location": "东大路枣林村西口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.383000,39.665413",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0cbed6fb12074f61b0f53727cdb97a7c",
                 "district": "丰台区",
                 "location": "良三路与贺兴路交口西",
@@ -31390,26 +24740,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "（双向均能拍到）",
                 "coordinate": "116.252083,40.052505",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e2ea1c4d81ff4d39873a45859fb5e0c8",
-                "district": "延庆区",
-                "location": "榆林堡南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.880265,40.364938",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "02a23e8448294a89a4d5405eed960548",
-                "district": "房山区",
-                "location": "良常路张谢村口",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.145709,39.660584",
                 "zone": ""
             },
             {
@@ -31454,26 +24784,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1e431b9a449249b8abf6e13023582bed",
-                "district": "顺义区",
-                "location": "左堤路与陈各庄村路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.773862,40.043132",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f095bcd79ba1428bb1e00515ca74bd1c",
-                "district": "平谷区",
-                "location": "打铁庄路口1北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "117.009210,40.068789",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "65c2547d41c74ba896246b7545b284a1",
                 "district": "通州区",
                 "location": "兴马街马驹桥中心小学交口东",
@@ -31490,36 +24800,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.323848,39.889860",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "86b62eb82b3d444aa44b46b3a0670366",
-                "district": "顺义区",
-                "location": "顺平路曾庄路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.890827,40.153271",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "06935b72798a4468902b81504c98f92a",
-                "district": "昌平区",
-                "location": "温南路西马坊村口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.132773,40.162503",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b6f9da2483db465eb7683a92f55408d0",
-                "district": "昌平区",
-                "location": "温北路前白虎涧村口北/西",
-                "direction": "北向南/西向东",
-                "note": "",
-                "coordinate": "116.131844,40.120914",
                 "zone": ""
             },
             {
@@ -31574,26 +24854,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "559c021d92804c66a234b5222652081e",
-                "district": "延庆区",
-                "location": "新城街北口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.982948,40.477071",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "236f44d2483640d88b9ba251e1f7141f",
-                "district": "大兴区",
-                "location": "黄徐路与后查路交口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.369056,39.691541",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "26dc247f283b4a2daa42872cb1672719",
                 "district": "通州区",
                 "location": "漷柏路西马各庄南桥路口东",
@@ -31614,16 +24874,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "847147cfbb8d410e800344e1115f43c6",
-                "district": "顺义区",
-                "location": "顺白路与西马坡街北",
-                "direction": "北向北",
-                "note": "",
-                "coordinate": "116.640977,40.163562",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "740834cea5924319b31828dd9abfd9aa",
                 "district": "顺义区",
                 "location": "工业区连通路与金恒街交口",
@@ -31634,62 +24884,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d453f71373184ad9a32a7d8d9c9288bd",
-                "district": "房山区",
-                "location": "京深路与大窦路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.065152,39.633589",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "38d2fb16a0ba43d08304a54985792265",
                 "district": "大兴区",
                 "location": "兴丰大街四环超市口北（兴丰大街与利民西巷北）",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.339392,39.735320",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c829f085378b4f89adb3ea991e28869b",
-                "district": "延庆区",
-                "location": "榆林堡南口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.879896,40.365365",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9ae2425baeb94e219826c0888968d140",
-                "district": "昌平区",
-                "location": "南雁路与李流路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.100206,40.212813",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b5b054595259438eb49483a07a109a21",
-                "district": "昌平区",
-                "location": "京银路康陵园村口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.217761,40.262730",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f4d10d4c29984e85bb0d08943bc40f50",
-                "district": "大兴区",
-                "location": "通武线利康医院门口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.328274,39.667257",
                 "zone": ""
             },
             {
@@ -31760,56 +24960,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.143739,39.807881",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4728b1f234744de686b7e26084d7054b",
-                "district": "延庆区",
-                "location": "康农路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.910515,40.385198",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9f1efac75c0948e0b991dc92ea3d8f22",
-                "district": "顺义区",
-                "location": "顺兴路与时骏北街东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.635086,40.094789",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d96558ca61e44830891a5eee7b853791",
-                "district": "大兴区",
-                "location": "青礼路与佟青路口西南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.468156,39.591042",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0f1f6488ecb840a583d70aff5e485e25",
-                "district": "",
-                "location": "物顺路与盛吉街交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.420971,39.714886",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1da5bccb778d4de7a302b7cea7587a3c",
-                "district": "大兴区",
-                "location": "安采路与前安定南路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.510061,39.635978",
                 "zone": ""
             },
             {
@@ -31914,82 +25064,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cde8a3bf71d548f6bc692a83c453851b",
-                "district": "顺义区",
-                "location": "昌金路陈家坨村路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.833827,40.203020",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a901fa747a7645b88b0a70b947d3511c",
-                "district": "昌平区",
-                "location": "水南路与马百路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.208292,40.200471",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4a63398bb0f749c3ba1a07dd1974b93b",
-                "district": "昌平区",
-                "location": "温南路与G6辅路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.138207,40.243941",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1858358ed7ac49bb860f8f17bad94b4c",
-                "district": "昌平区",
-                "location": "立汤路与四场路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.407655,40.163927",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "589dbd6dda6c465abbbe68723e37e271",
                 "district": "开发区",
                 "location": "经海八路与科创十街交口东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.570273,39.796492",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "84eb6fd9b020483b91f9d105c36cbdc8",
-                "district": "大兴区",
-                "location": "庞魏路民生新村北路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.333722,39.634309",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "09bf4c40f81f4266a2335d76484de2b8",
-                "district": "大兴区",
-                "location": "魏石路与西刘路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.402449,39.647213",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "05391d7ca087413399f4bdf1649c39e3",
-                "district": "大兴区",
-                "location": "崔曹路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.352750,39.476672",
                 "zone": ""
             },
             {
@@ -32124,76 +25204,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "12169b49562046419d8b8c9aabb014b1",
-                "district": "怀柔区",
-                "location": "张各长路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.654805,40.314656",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "37124c63b8514ac283204c8b5133072b",
-                "district": "延庆区",
-                "location": "香村营路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.093356,40.500883",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "33b62b6cf5e64e2d9cd7644dd4f7a996",
-                "district": "延庆区",
-                "location": "煤气站路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.002946,40.449312",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b566ac86b3e34657a276d58453b9c972",
-                "district": "顺义区",
-                "location": "中干渠与杨镇工业区交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.840530,40.151595",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d280ae8445c945cea85370e72e927bea",
-                "district": "",
-                "location": "顺平南线滨河森林公园西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.718481,40.102292",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "04ab574e8ccd48358083e4f4bda1fb7d",
-                "district": "顺义区",
-                "location": "龙塘路与李魏路支线西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.768141,40.067479",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5f6750f9657d4e9fb3a155e4b904fb68",
-                "district": "顺义区",
-                "location": "白马路桥头村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.736611,40.170393",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a751ea1651cd4ba787cbb2ab4ce70785",
                 "district": "通州区",
                 "location": "大务路口东",
@@ -32274,32 +25284,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "10ad81b8eef74996acbe5826418a21ee",
-                "district": "大兴区",
-                "location": "海鑫北路与阜顺南路交口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.421336,39.717354",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "857b3ef0fb394e48a45e55b29b9a78b5",
                 "district": "大兴区",
                 "location": "芦宋路党校路口南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.291312,39.729236",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ce5c34c5ad374ae5959f9ce6176970ee",
-                "district": "延庆区",
-                "location": "马营路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.891766,40.413477",
                 "zone": ""
             },
             {
@@ -32340,16 +25330,6 @@ export default class _Avoid {
                 "direction": "南北双向",
                 "note": "主路+辅路",
                 "coordinate": "116.489896,39.930191",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "03ba80822ace46edbf6aa3d75f648fe3",
-                "district": "大兴区",
-                "location": "104国道西大屯口路口（京福路与劳保厂路交口）北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.488464,39.698573",
                 "zone": ""
             },
             {
@@ -32480,26 +25460,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.175984,40.045557",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1a64b0970c1c471daec5f8c1b2d34b83",
-                "district": "怀柔区",
-                "location": "王化酒厂路口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.663967,40.323266",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fec37743f54045fc878f2038d865c2db",
-                "district": "顺义区",
-                "location": "昌金路与水色时光西侧路东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.724195,40.212904",
                 "zone": ""
             },
             {
@@ -32684,36 +25644,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f6198eeb3a004edbbc02f148b3aa7f24",
-                "district": "延庆区",
-                "location": "荷亭街北口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.957369,40.464527",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "57bf9eebb445490e8581871ed9dae3eb",
-                "district": "延庆区",
-                "location": "G6辅路与古长城西口交口东",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.971757,40.355860",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "360d222fea4a4c74b139ffeee4d055a6",
-                "district": "顺义区",
-                "location": "顺平路与龙凤路东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.965800,40.149447",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "266374e27b434d08af46cf707b2bb4a5",
                 "district": "",
                 "location": "高家堡村东路南郊钢材市场",
@@ -32790,56 +25720,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.307482,40.033754",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "03c1f0e07b0f4fd39b4bee54531a0c3f",
-                "district": "顺义区",
-                "location": "南陈路毛家营路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.614196,40.186637",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c0455a5e3908487da0ae8651e5e45a3d",
-                "district": "昌平区",
-                "location": "京银路与水库西路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.217219,40.271129",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "103c9d8d711d471da57b132f99c48c4e",
-                "district": "密云区",
-                "location": "密关路与水库宾馆路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.839401,40.475446",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "56f6f8707150431392c520fe7784143e",
-                "district": "怀柔区",
-                "location": "雁栖东二路与雁栖北三街交口南",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.690351,40.369466",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a1907f0d4aa549ea81d188aedbacb051",
-                "district": "怀柔区",
-                "location": "雁栖东二路与雁栖北二街交口北",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.690696,40.366985",
                 "zone": ""
             },
             {
@@ -33084,36 +25964,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bb623f82c9a44795b628e188a29d5ae4",
-                "district": "延庆区",
-                "location": "外炮村北口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "115.931313,40.362876",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a150a80bb67d40e6b7a57f0a4ecb1e3d",
-                "district": "怀柔区",
-                "location": "乐园庄大街与乐园庄东路交路口/雁栖西二路与中高路交口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.677496,40.347512",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d0723a79f5ea4044a3e65e8384fdd422",
-                "district": "怀柔区",
-                "location": "西台下村北口东",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.610075,40.298167",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "1174740450604e6bae2ac578e4fd509b",
                 "district": "通州区",
                 "location": "兴光四街与嘉创三路东/西",
@@ -33204,26 +26054,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b89cf8e598e24153a62a4b5c14c1a663",
-                "district": "顺义区",
-                "location": "顺兴路与时骏南街西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.634204,40.088093",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a497cded9da846e68aaaaa41adf81863",
-                "district": "顺义区",
-                "location": "木燕路南辛庄村东口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.804646,40.060907",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "61e85433273a457da938020e468347bb",
                 "district": "通州区",
                 "location": "大羊路口南",
@@ -33284,26 +26114,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4f15473c31e94b3eb839b6cf58451fa8",
-                "district": "延庆区",
-                "location": "簸箕营路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.969927,40.408917",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8da2e4f822e546bfb756a4d61175f3ef",
-                "district": "顺义区",
-                "location": "顺密路北彩汽车站路口南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.713725,40.153876",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0e2b54550fea4916b300dd831e7bf775",
                 "district": "通州区",
                 "location": "漷兴西二街西口北/南",
@@ -33330,16 +26140,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.394583,39.808209",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "32aa18347c3f486ea1f6632448d4c560",
-                "district": "顺义区",
-                "location": "昌金路悦树汇小区路口（昌金路与板西路交口）东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.517785,40.210205",
                 "zone": ""
             },
             {
@@ -33414,26 +26214,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a5686b706690407988260c6da3e9aa6c",
-                "district": "顺义区",
-                "location": "右堤路沮沟村南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.758974,40.034074",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "17d88fac8e8544db98d3a23a1367d85c",
-                "district": "平谷区",
-                "location": "马坊镇政府西口西",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.010410,40.059870",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b24c3f0972ee450a8acece76d5618c29",
                 "district": "通州区",
                 "location": "通武线与草北路交口西（周起营口西）",
@@ -33484,32 +26264,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cb3b55cce18e46d1bf111420a32ce4aa",
-                "district": "房山区",
-                "location": "京深路与大窦路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.064816,39.633309",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "1f76e863075a48a0913c36956d3f7c4a",
                 "district": "石景山区",
                 "location": "衙门口桥西",
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.199905,39.889123",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "72df89f60c1647b49243e972fca9022f",
-                "district": "",
-                "location": "安四路与昌金路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.402490,40.206848",
                 "zone": ""
             },
             {
@@ -33574,62 +26334,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7ec28e1d4efe4a0c827152cb679a2eab",
-                "district": "顺义区",
-                "location": "外环路与铁东路路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.661466,40.082183",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c73cb6bc0ef045449eef481ed830402e",
                 "district": "延庆区",
                 "location": "新城街北口南",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "115.982822,40.476713",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c4b423691d874633bbf9f28be12d16a6",
-                "district": "延庆区",
-                "location": "八里店路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.018448,40.477437",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "02823740ad1b44c8b8203685a043a557",
-                "district": "延庆区",
-                "location": "八峪路与米香路交口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.049690,40.496218",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5416d31a175a4956b0de1daf01968674",
-                "district": "延庆区",
-                "location": "八峪路与沈韩路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.045657,40.490954",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c9ce36653e6643959ec2349353e3d35b",
-                "district": "延庆区",
-                "location": "永四路北口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.174254,40.516180",
                 "zone": ""
             },
             {
@@ -33874,36 +26584,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "845b3ef6fff344bfbc5cb4b129440ef2",
-                "district": "",
-                "location": "西羊坊路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.912688,40.511355",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2fb14ef45a2845f0a074ebc31ba7673e",
-                "district": "",
-                "location": "G6辅路与延康路交口东",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.895330,40.374956",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7bfc4e4dcdb9477fb2187ca5913c82e2",
-                "district": "",
-                "location": "京密饮水李史山水闸路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.573575,40.265178",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f357a03c18834f758e975ec299203879",
                 "district": "",
                 "location": "春泽路与大李窑街口西",
@@ -34030,26 +26710,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.786812,39.753410",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "aa4e122fcf87434ab1c5ebfb50eb9a7a",
-                "district": "",
-                "location": "双杏路路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.993207,40.433903",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "450c7f39774246ce93abebab77c7745c",
-                "district": "",
-                "location": "龙湖香醍中路与牛栏山第三小学路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.666544,40.205322",
                 "zone": ""
             },
             {
@@ -34624,26 +27284,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "69ada92ac5e5453a84e2cc76aae82728",
-                "district": "",
-                "location": "通顺路张辛村村口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.677418,40.018855",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9b9230b4a3e846ca90b740a3b9c8bb29",
-                "district": "",
-                "location": "木北路沙子营村东路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.827989,40.124568",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4e582f7f74b04724be35158267c6e481",
                 "district": "",
                 "location": "上庄大街水厂南路路口南",
@@ -34660,36 +27300,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.444533,39.941786",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8af4593a8a554599aca6cbb7548c3cb2",
-                "district": "",
-                "location": "峪蔡路西口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.986558,40.182316",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8209b3eadc8c46e8a04cdf0c695a07df",
-                "district": "",
-                "location": "顺平南线沟北村口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.766459,40.100294",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "930e9a7f581945448ba7098824379208",
-                "district": "密云区",
-                "location": "水源路与远光街路口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.817247,40.356915",
                 "zone": ""
             },
             {
@@ -34720,56 +27330,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.309806,40.038354",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "23af66aef40f49eebe8d6f3eafb972be",
-                "district": "",
-                "location": "龙尹路与赵谢路交口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.884218,40.118495",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b97b20a6662246e3966a65ff62f94658",
-                "district": "",
-                "location": "顺平路东焦各庄东口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.868247,40.153211",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "14db9dc5f8c340d8af54bc13445bc098",
-                "district": "",
-                "location": "聚源中路与聚源北路东/西",
-                "direction": "",
-                "note": "双向",
-                "coordinate": "116.629911,40.174790",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b17b634de1ab4a4680022eeb38ee54ab",
-                "district": "",
-                "location": "雁栖西路与乐园南三街交口东",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.679864,40.339711",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b8d8fedbdba2479d9b3d38f671c9b6a9",
-                "district": "",
-                "location": "富乐大街5号楼南口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.637462,40.341730",
                 "zone": ""
             },
             {
@@ -34824,46 +27384,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "53e0f39c35c74456952cd3c51bca5e56",
-                "district": "顺义区",
-                "location": "顺平路与西庞村路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.876735,40.153205",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "185fb40651914e149d7258f4db8f2b63",
-                "district": "顺义区",
-                "location": "顺白路与泥河路南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.638934,40.155910",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1262eaa2439547c79ecdf74b1e961d97",
-                "district": "顺义区",
-                "location": "三干渠与顺沙路东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.512897,40.166108",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8b7c34072a434d64a276614d3ad2dafa",
-                "district": "",
-                "location": "京沈路秦武姚村路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.641472,40.178083",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e66e004c249f485093748cbe51d7469f",
                 "district": "",
                 "location": "永昌东四路与兴业街",
@@ -34884,162 +27404,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "57ef94ab3afb424da2e28e87e2cbe037",
-                "district": "",
-                "location": "站前北街和仓上街南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.647187,40.111681",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "56f04001a7d5492cb77368332279ab7b",
-                "district": "",
-                "location": "外环与顺西南路西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.639773,40.082243",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7b6fa9780d694bdaaa98e305f0ad1aa9",
-                "district": "",
-                "location": "顺沙路文化营路口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.578070,40.144863",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "09bbe3bd745447c59e903830cb14eac0",
-                "district": "",
-                "location": "七大路龙庭喉路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.928374,40.061392",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0dd46d37b3044d1ab29ca2370653bb7e",
-                "district": "",
-                "location": "龙塘路与庄子营南侧路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.657336,40.061145",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b17647f12d814ee887e26171ce51e0c2",
-                "district": "",
-                "location": "火寺路与何兰花路口北/南",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.553004,40.156769",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1edf1903a9494099ad92545375cb3ef1",
-                "district": "",
-                "location": "",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.877673,40.170751",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b7d13ce99ef347e6b59224206d0f2e8c",
                 "district": "",
                 "location": "黄康路黄港桥下",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.485208,40.058804",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "abe6eca4cf7042659ae2d616a238fd4e",
-                "district": "顺义区",
-                "location": "顺兴路与杜场南街东/南",
-                "direction": "东向西/南向北",
-                "note": "",
-                "coordinate": "116.634838,40.099781",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9f414f3ccc12430c80e0738ae7a29407",
-                "district": "",
-                "location": "顺平路汉石桥村口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.796390,40.147401",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d04451e46f7f4bd1962b0cdead4bd0d9",
-                "district": "顺义区",
-                "location": "顺密路与后鲁各庄路交口北/顺密路后鲁村口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.724330,40.190462",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3e781d2a5b224670a94e9e6968153f68",
-                "district": "",
-                "location": "顺和路与外环线交口西/东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.668968,40.081394",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "240a62b7a5a14b27a9fdbb06a9d2c280",
-                "district": "",
-                "location": "李魏路东西营路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.763336,40.074851",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "87f6b235abe7437a97f593af0fa3a865",
-                "district": "",
-                "location": "京沈路前晏子村路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.641875,40.201211",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "401d3c72edd941259f41d8cfb545e495",
-                "district": "",
-                "location": "昌金路与腾仁路路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.635515,40.211581",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "45ce1045e69d48868e1a803b44e02882",
-                "district": "",
-                "location": "白马路水上公园四号门路口东",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.692274,40.169882",
                 "zone": ""
             },
             {
@@ -35074,82 +27444,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a2b30cbea5334a04a6bdae7f0ff5d561",
-                "district": "",
-                "location": "顺义区高丽营镇顺沙路三毛路口东/西",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.508277,40.167671",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5e6b96ae8dae4c8b93efe930c0cc46bc",
-                "district": "",
-                "location": "顺兴路与军营南街交口西/北",
-                "direction": "西向东/北向南",
-                "note": "",
-                "coordinate": "116.634859,40.105305",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b3a546782e254ee694412d105bdee2f3",
-                "district": "顺义区",
-                "location": "龙塘路与王各庄中心路交口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.810722,40.068475",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "696cf31838f34554b97181d961322d04",
-                "district": "",
-                "location": "李魏路李遂小学北侧路口南",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.757166,40.089263",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8a06df999f1e4646ad2bf7845c5762ee",
-                "district": "",
-                "location": "806乡道和天北路交口（高张路与天北路交口）南/北",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.524789,40.160695",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "59273c8cd608499d9073ae55f3230c03",
-                "district": "",
-                "location": "京沈路衙门村路口（京沈路与安乐路交口）",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.613670,40.153219",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "bc544a8c0cc14e71b89beb79301a40a1",
                 "district": "",
                 "location": "欣宁街兴华桥北",
                 "direction": "南北双向",
                 "note": "",
                 "coordinate": "116.329575,39.781921",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "03e71714c8744144bb4a12df58ede165",
-                "district": "",
-                "location": "王各庄东口北",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.015671,40.110274",
                 "zone": ""
             },
             {
@@ -35164,32 +27464,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "41946158fe814c50aa8ee158f0d7ee50",
-                "district": "",
-                "location": "马坊环岛西1口东",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.007477,40.047273",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "72a921abe9284913bd5004cf33acc94d",
                 "district": "",
                 "location": "康营东路口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.550959,40.032827",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "51a3f63dd604412d85afed371169cd17",
-                "district": "",
-                "location": "平谷北街东口南",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.146020,40.161920",
                 "zone": ""
             },
             {
@@ -35250,16 +27530,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.432751,39.927503",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6a6141a1897d4e60aaa57f9f1a866166",
-                "district": "",
-                "location": "府前街与大东路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.665225,40.129790",
                 "zone": ""
             },
             {
@@ -35334,16 +27604,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a840967d08204457a0cbb12baad47715",
-                "district": "",
-                "location": "府前街与右堤路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.669675,40.129788",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e315c6299ff7438ea00baf9c4485a1b7",
                 "district": "",
                 "location": "大灰厂路与大富庄路交口",
@@ -35380,16 +27640,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.592345,40.055163",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d08d3c69ae2b4ee2b8fe072a6a0b3ba9",
-                "district": "",
-                "location": "",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.105876,39.683795",
                 "zone": ""
             },
             {
@@ -35574,36 +27824,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1dee8ab95bc244a5ba189c8a59222d4f",
-                "district": "",
-                "location": "【六环外】窦公路与良常路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.146467,39.669144",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "36092e69c00b48128f384b938eae8bcc",
-                "district": "顺义城区",
-                "location": "通顺路与建新街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.657419,40.121694",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8fd15ec873d24706a4472e8c868ad573",
-                "district": "",
-                "location": "",
-                "direction": "",
-                "note": "内环",
-                "coordinate": "116.163382,39.696954",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "e38504f71d664ddc8a36687894285c7e",
                 "district": "",
                 "location": "万寿路东街西口",
@@ -35634,16 +27854,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2f947a1294d44495b5e25a596e3f5029",
-                "district": "",
-                "location": "通顺路与龙苑路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.659566,40.160276",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "6d804480cfde4ee0ae2d7987180252e4",
                 "district": "",
                 "location": "四支路凉水河大桥桥西",
@@ -35670,16 +27880,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.127934,39.938916",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "bf42c30d944e4a28b57e43ab6f2ff5b6",
-                "district": "",
-                "location": "六环路下庄北桥",
-                "direction": "南向北",
-                "note": "内环",
-                "coordinate": "116.116567,39.826830",
                 "zone": ""
             },
             {
@@ -35774,16 +27974,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5854986d521c4675b790f2c945c4bd58",
-                "district": "",
-                "location": "顺沙路与南焦路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.608197,40.143607",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "16ed07ec92e24274a6a06560a800cf5f",
                 "district": "",
                 "location": "和平里西街和平里北街口北",
@@ -35800,16 +27990,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.180809,39.935886",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0c16f5f12247450bac5d3ab5b9d6f4ee",
-                "district": "",
-                "location": "京周路与紫码路交口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.081342,39.717218",
                 "zone": ""
             },
             {
@@ -35844,16 +28024,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f5499d51abd746b7b81ecb89024b87df",
-                "district": "",
-                "location": "安四路与昌金路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.403038,40.205136",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "3ec79ce5073a4537a2eefdc4f80732fb",
                 "district": "",
                 "location": "黄马路大兴桥",
@@ -35864,52 +28034,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "684b24de52bd4f80a877231f7d39c406",
-                "district": "",
-                "location": "顺白���与望泉北街交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.641158,40.123907",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "c3ac9fd76bab4e829746d828a6c4a5d7",
                 "district": "通州区",
                 "location": "三惠桥下",
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.707985,39.923574",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "894e8143b48e48609b6b1f26fd5a560e",
-                "district": "",
-                "location": "温阳路六环稻香湖桥口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.154193,40.098273",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "383b862c0dde4978af2d97ba79638792",
-                "district": "",
-                "location": "外环（北环）路与顺白路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.637295,40.150625",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ecc28b9da73e401daf221affc8a2daa1",
-                "district": "",
-                "location": "右堤路与复兴东街交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.664034,40.148641",
                 "zone": ""
             },
             {
@@ -36084,32 +28214,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "a32de6a96ed747128e441fac48d362be",
-                "district": "",
-                "location": "京深路与凯旋大街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.106173,39.683243",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a5c5fd883eae48199c776b62702dbbf6",
                 "district": "",
                 "location": "白杨西路与凯旋大街交口",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.126995,39.709630",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "830a8953fd894b52ae1c7e6817ae7738",
-                "district": "",
-                "location": "顺白路与望泉北街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.641282,40.123108",
                 "zone": ""
             },
             {
@@ -36130,16 +28240,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "（通燕高速方向）",
                 "coordinate": "116.632770,39.916678",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d9ed8ca940d04aac873cf44ae514fb2c",
-                "district": "",
-                "location": "右堤路滨河小区路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.681359,40.120870",
                 "zone": ""
             },
             {
@@ -36184,16 +28284,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d6005e192a6f430da7fdfd3c448c12d9",
-                "district": "",
-                "location": "京深路与岳琉路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.028380,39.601156",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "527608eb36324502b3e67a923389ff36",
                 "district": "",
                 "location": "北清路辛庄桥",
@@ -36220,16 +28310,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.174910,39.842486",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2eb0afdb85b349068b5a33401a151870",
-                "district": "",
-                "location": "京深路与岳琉路交口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.028445,39.601749",
                 "zone": ""
             },
             {
@@ -36330,16 +28410,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.517963,39.940512",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f20e62be91c7438ba53f6076f57e596e",
-                "district": "",
-                "location": "京深路与凯旋大街交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.107855,39.683599",
                 "zone": ""
             },
             {
@@ -36764,16 +28834,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "96d7900f6cea4297a55128e853691b15",
-                "district": "",
-                "location": "岳琉路与京深路交口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.028805,39.601480",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a94a6b28e9a34dedb8c22c23fc783161",
                 "district": "",
                 "location": "永昌中路与荣昌东街交口",
@@ -37044,16 +29104,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1fa621f2f7044317bcb3518425d9b9b5",
-                "district": "",
-                "location": "六环路孟祖桥",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.323670,40.173992",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "ee93f62695c6466d86f3277b9e60036e",
                 "district": "",
                 "location": "景恒街路口西",
@@ -37160,16 +29210,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.349368,40.084054",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "82550144e750433d88e4ac3b26e686ff",
-                "district": "",
-                "location": "炒十支路与凯旋大街交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.109412,39.691131",
                 "zone": ""
             },
             {
@@ -37334,26 +29374,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b21521e1f50a4a65bbe9ff5be1835ca6",
-                "district": "",
-                "location": "密云密兴路大城子检查站",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.123270,40.401961",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6c1b47e07a2c4481b5d71e881d08c4b5",
-                "district": "",
-                "location": "六环路阳坊镇桥",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.155394,40.131223",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "72eefe344d7146b7af3577a9c1ace1f5",
                 "district": "",
                 "location": "四环路大红门东桥",
@@ -37444,16 +29464,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b695112053be4f7f9a3afb91abe31abf",
-                "district": "",
-                "location": "大兴京台高速礼贤收费站外",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.491178,39.551077",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "757f4b60bf8f4cbf85270dc6f8ae0ea0",
                 "district": "大兴区",
                 "location": "京台高速青云店收费站南",
@@ -37484,26 +29494,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c21e9f29ae944573b8013c419be19a80",
-                "district": "",
-                "location": "平谷密三路检查站外",
-                "direction": "",
-                "note": "出京",
-                "coordinate": "117.010680,40.033317",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "11b9755836c74fb49e170b1fff7cc5dd",
-                "district": "房山区",
-                "location": "周张路917停车场",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.708794,39.578913",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "edd12d5d9230489ea27b88186d0d6f43",
                 "district": "南宫滨河路与新苑中街交口",
                 "location": "南北双向",
@@ -37520,36 +29510,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "辅路",
                 "coordinate": "116.332746,39.705034",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6c6954a98d964b218dd9f63007d4faad",
-                "district": "",
-                "location": "何各庄口西侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.111110,39.896891",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2bbd5ef2d8f6441e8d6305ae0bacfa0b",
-                "district": "",
-                "location": "京秦高速21.9km",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.764911,40.005199",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "eaa985f46499475aa7e16999adf0f9e3",
-                "district": "",
-                "location": "六环路北辛屯桥",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.475480,39.728198",
                 "zone": ""
             },
             {
@@ -37594,82 +29554,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fe4d76ab068d42bfbd8f2072b1fc797b",
-                "district": "",
-                "location": "大兴首环高速216km",
-                "direction": "东北向西南",
-                "note": "",
-                "coordinate": "116.633124,39.636496",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "f434853831a54aa6af2052ebd92ab689",
                 "district": "朝阳区",
                 "location": "焦沙路口",
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.625720,39.960509",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "15fe552076e2459c993ccd7065f1d057",
-                "district": "",
-                "location": "房山区房山房易路长沟镇中心小学",
-                "direction": "",
-                "note": "",
-                "coordinate": "115.898817,39.575773",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6282fe0db0e34ad985a7f12aeab8b7a0",
-                "district": "",
-                "location": "密云大广高速126.3km司马台一桥",
-                "direction": "南向北",
-                "note": "出京",
-                "coordinate": "117.260067,40.642859",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "aad57d3cdbee4d14b768469286f725c1",
-                "district": "",
-                "location": "房山京昆高速北拒马河桥",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.749202,39.544862",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f89cdb54064d4e7892bb9982a3d31e71",
-                "district": "",
-                "location": "顺义木北路北务检查站外20米",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.822764,40.046707",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cbcf3d49f389449ab04aa3d1b224c38c",
-                "district": "",
-                "location": "延庆G7京新高速90.5km下营检查站",
-                "direction": "",
-                "note": "出京",
-                "coordinate": "115.777007,40.446222",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c07c9b6306ce4c44a27c727ea58b6389",
-                "district": "",
-                "location": "延庆兴隆街南康检查站",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.903185,40.357279",
                 "zone": ""
             },
             {
@@ -37684,72 +29574,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "48fbcee2b48e4d56bd4430683f8a75b6",
-                "district": "",
-                "location": "六环路天贵桥",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.305279,39.693182",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d30c42ffb7994a49b9e60c2724026771",
                 "district": "",
                 "location": "北京南站南口北",
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.372316,39.857209",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1a10b4f143fd4fa0b030cba0158a570d",
-                "district": "",
-                "location": "大兴106国道榆垡检查站外岔口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.316837,39.477603",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b9a990201c8a4d72a7d30ab045e4856e",
-                "district": "",
-                "location": "房山107国道琉璃河检查站200米",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.016933,39.591765",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d64eeeaf8a4f4edca9f68ddb785d6149",
-                "district": "",
-                "location": "顺义七大路检查站南路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.929479,40.055822",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c69970d09cca4294927b8f0dd5196357",
-                "district": "",
-                "location": "顺义木燕辅路检查站北500米",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.791762,40.036904",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "281097a25061417790c9e77cedf5cda3",
-                "district": "",
-                "location": "京平高速海子南干渠桥（夏各庄检查站）",
-                "direction": "",
-                "note": "",
-                "coordinate": "117.205719,40.125040",
                 "zone": ""
             },
             {
@@ -37764,42 +29594,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "38a8e46e341b47a2a283ccb9df778671",
-                "district": "",
-                "location": "房山涞宝路张坊大桥",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "115.714243,39.565445",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "d8f2e4d5e0ff468ab6b6963e7efb4430",
                 "district": "",
                 "location": "和平里北街171中学北门东",
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.428930,39.959480",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4521f9f1fd754b4ab73869726c5eb082",
-                "district": "",
-                "location": "延庆101国道张山营检查站",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.787978,40.437630",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "4ee61c51fa564014b8dd316336191f47",
-                "district": "",
-                "location": "",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.691875,39.607779",
                 "zone": ""
             },
             {
@@ -37834,76 +29634,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b091f490f81746d0ab5078b64df56ed5",
-                "district": "",
-                "location": "六环路周家巷加油站",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.133486,40.059604",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cc57ead86a264bcfaf7307cfbe3fa53c",
-                "district": "",
-                "location": "六环路酸枣岭桥西",
-                "direction": "西向东",
-                "note": "内环",
-                "coordinate": "116.477196,40.156357",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "65a97dc0c5e24b70b6ce0e2b07db85df",
-                "district": "",
-                "location": "六环路四道北桥",
-                "direction": "",
-                "note": "内环",
-                "coordinate": "116.132527,39.921079",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "0b4c9aa54b544363976270107b3af3b2",
-                "district": "",
-                "location": "六环路双龙桥",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.352074,39.703932",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1622325f6e46453192f6788a1eeb0bb9",
-                "district": "",
-                "location": "",
-                "direction": "东西双向",
-                "note": "",
-                "coordinate": "116.543409,40.145741",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "96c7993c8ce04eaaa79f34ac5b297a7b",
-                "district": "",
-                "location": "六环路阎村桥北",
-                "direction": "双向",
-                "note": "",
-                "coordinate": "116.095825,39.726094",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1460fe2f54244c7096d0fd67e562b65c",
-                "district": "",
-                "location": "六环路卧龙岗隧道南",
-                "direction": "双向",
-                "note": "",
-                "coordinate": "116.147552,39.879195",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0c5c6ae6ea0d420484ea6766b1613516",
                 "district": "",
                 "location": "通州103国道觅子店检查站南",
@@ -37934,16 +29664,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "972bfabfebcb46a09712a6e6925f8fd9",
-                "district": "",
-                "location": "大兴大广高速1351.5km",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.292995,39.498026",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "2a3d945c0509432081c4f20a0a4f55de",
                 "district": "",
                 "location": "通燕高速三惠桥西",
@@ -37960,16 +29680,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.840971,39.857044",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "48ba68ae8a9f44b99d4df1d78c9c8880",
-                "district": "",
-                "location": "通州通清路加油站东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.883555,39.719148",
                 "zone": ""
             },
             {
@@ -38000,16 +29710,6 @@ export default class _Avoid {
                 "direction": "出京方向",
                 "note": "（六环主路）",
                 "coordinate": "116.304246,39.881992",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b61883cdb2cb4714ac6a90f298f8a99c",
-                "district": "",
-                "location": "六环路楼自庄桥",
-                "direction": "西向东",
-                "note": "（六环主路）",
-                "coordinate": "116.218262,40.168951",
                 "zone": ""
             },
             {
@@ -41354,16 +33054,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "208e27fb3eb841428b676852984679c1",
-                "district": "",
-                "location": "石龙西路西口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.097454,39.910265",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "921ad79ed1b44a128714259ee00e0a41",
                 "district": "",
                 "location": "机场高速四元桥北龙门",
@@ -41594,16 +33284,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "345bac268a314b178dd940b3192d540a",
-                "district": "",
-                "location": "石担路与雅安路交口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.110146,39.903763",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "262dc61836c74040a1b454b980687960",
                 "district": "",
                 "location": "五环路环铁北桥",
@@ -41694,16 +33374,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "cd2599bc2fac4b35878039e38ba462f1",
-                "district": "",
-                "location": "石担路与美安路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.111100,39.899184",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "4e69bf9832444f50924b471b90a624a4",
                 "district": "",
                 "location": "清华东路中国农业大学东校区南门",
@@ -41720,16 +33390,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.377958,39.721703",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e90a16bae10b4746addf30c004f86cc2",
-                "district": "",
-                "location": "石担路与承泽路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.114938,39.928466",
                 "zone": ""
             },
             {
@@ -41804,16 +33464,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "555da39a3a3b43a2b92103b1b482325b",
-                "district": "",
-                "location": "石担路与泰安路交口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.110514,39.901549",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "96dfb2db903e4678aa46c00769dbea21",
                 "district": "",
                 "location": "饮鹿池桥西路口",
@@ -41834,16 +33484,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "56433734a76c4ab8ba88035d540e6ecd",
-                "district": "",
-                "location": "何各庄口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.109985,39.897021",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "336f312c53624d6a87eaef06120dc422",
                 "district": "",
                 "location": "中关村南三街中关村三桥南",
@@ -41860,16 +33500,6 @@ export default class _Avoid {
                 "direction": "南北双向",
                 "note": "",
                 "coordinate": "116.417315,39.998385",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "957a1856ff90453d9c5b8af5f4bd1268",
-                "district": "",
-                "location": "冯园街北口南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.107472,39.910361",
                 "zone": ""
             },
             {
@@ -41900,86 +33530,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.319146,39.971929",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "b0e40b86185f4c439cda3af58980ad01",
-                "district": "",
-                "location": "卧龙岗立交路口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.134546,39.889353",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "dfefcece2e17451693110c9a90479bc7",
-                "district": "",
-                "location": "栗园庄路口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.123469,39.887248",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5a36a040f74a446aa6c5f570fade79a6",
-                "district": "",
-                "location": "永定镇东口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.111737,39.905930",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "fad9558fe4d245f5b0fde2959ee5fa56",
-                "district": "",
-                "location": "小园路口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.114471,39.890192",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8bc58d32fadc42ac92c1dce29c4fbad9",
-                "district": "",
-                "location": "小河滩西口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.113759,39.931664",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c9023dd7f02544ed868001d00802a118",
-                "district": "",
-                "location": "石担路与曹各庄北路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.113348,39.914278",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8f46e057a1004e3e8db4186b36b26e76",
-                "district": "",
-                "location": "108辅线与上园路交口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.120663,39.887663",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "e543bfaa6bcc4813a8ecfadf7d7ab0d2",
-                "district": "",
-                "location": "葡萄嘴路口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.114805,39.920824",
                 "zone": ""
             },
             {
@@ -44990,16 +36540,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.542630,39.764667",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "da24b6179dd547e9addc319729f82c94",
-                "district": "",
-                "location": "北环路与西环路路口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.228680,40.229372",
                 "zone": ""
             },
             {
@@ -48444,16 +39984,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ecdd3258368749f1b38a3dc874e2e6cb",
-                "district": "",
-                "location": "昌盛路北口至亢山路北口段",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.250718,40.213205",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0c69507287a243ce855af826b269d30e",
                 "district": "",
                 "location": "医孟路南口至医孟路格兰二期路口",
@@ -49654,26 +41184,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "26ce0970217c46e9b91540a6112063c6",
-                "district": "",
-                "location": "北环路与东环路路口南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.239457,40.228834",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "348eec5708144cc3957cf4ebaf69b47d",
-                "district": "昌平区",
-                "location": "西环路与政府街路口北侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.227872,40.220266",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "b993adab599f4faeb58f010af96d8bfc",
                 "district": "",
                 "location": "三环莲花桥",
@@ -49854,26 +41364,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1267dc9a1bfe4d4cbe1490fe273a3cd3",
-                "district": "",
-                "location": "南环东路与龙水路路口西侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.257922,40.213445",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "9e1508cda77c4c67aee93517e8a80261",
-                "district": "",
-                "location": "南环路与东环路路口北",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.240522,40.213076",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0d63e598cc014c56ab41a88394db0c1e",
                 "district": "",
                 "location": "融商六路马驹桥东站西（六环出马驹桥出口处）",
@@ -50040,16 +41530,6 @@ export default class _Avoid {
                 "direction": "",
                 "note": "",
                 "coordinate": "115.969860,40.465584",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "47dc5970a65b4143863a4bd0a4c236ee",
-                "district": "",
-                "location": "西环路与鼓楼西街交叉口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.227137,40.224115",
                 "zone": ""
             },
             {
@@ -50334,16 +41814,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ec099a2200d44f84a363fa3876da5f1c",
-                "district": "",
-                "location": "北环路与鼓楼北街南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.233154,40.229322",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "cf13febfecff4f49b0172984e8fbf5df",
                 "district": "",
                 "location": "丰茂南路与丰葆路交叉口",
@@ -50424,126 +41894,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "7eda823ae8f140588146a7afb75d4fa5",
-                "district": "",
-                "location": "亢山前路与龙水路路口西",
-                "direction": "东西向",
-                "note": "",
-                "coordinate": "116.258748,40.217498",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "6c455293bcab4b638a56cba6391c612e",
-                "district": "",
-                "location": "北环东路与松园路口南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.250313,40.227574",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "5cf84f1e3b364dd694e34f4df49dec63",
-                "district": "",
-                "location": "北环路与东环路路口西侧",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.239032,40.229603",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2da3e12a215e405f87c02bce91b1b855",
-                "district": "",
-                "location": "南环路与西环路路口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.228283,40.212540",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "d36c420db0ee4ce5a651c365423097b2",
-                "district": "",
-                "location": "南环东路与燕平街路口北",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.244689,40.213321",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "192b14c1c6c8444982d5d773f5442c84",
-                "district": "",
-                "location": "西环路与政府街路口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.226965,40.220617",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "c645af05cc5240a7ac887fe11fc15bc7",
-                "district": "",
-                "location": "永安公园路与西环路路口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.227091,40.214764",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "1588ff57aa5a43fbac1540eba49e454f",
-                "district": "",
-                "location": "南环路与鼓楼南街路口北",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.233747,40.213046",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "50d3f0637597432f8d7fc7b05ff93601",
-                "district": "",
-                "location": "南环东路与亢山路路口北侧",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.250739,40.213448",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "f95574dc608640c2a679452534df1856",
-                "district": "",
-                "location": "府学路与水库路路口西100米",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.260785,40.221718",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "96925141161f4d5aa6c811a5cdc5ffd4",
-                "district": "",
-                "location": "北环路与西环路路口南侧",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.226537,40.228622",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "85a38b0f216f40899177358435d97108",
-                "district": "",
-                "location": "怀柔南大街与龙山东路交汇",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.625883,40.310169",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "a28b20a049c249d7a40754d224623684",
                 "district": "",
                 "location": "京承高速鲁疃桥下",
@@ -50584,82 +41934,12 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8717c79a8a0a41d7992af2cae0719c37",
-                "district": "",
-                "location": "青春路大地休闲港湾路口南",
-                "direction": "北向",
-                "note": "",
-                "coordinate": "116.630477,40.333235",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ace7414e68c748aa94b10541248f4da2",
-                "district": "",
-                "location": "富乐大街与迎宾路东",
-                "direction": "西向",
-                "note": "",
-                "coordinate": "116.639987,40.341726",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "2e98d433a063448d9e23405bdc2750e6",
-                "district": "",
-                "location": "迎宾路与兴怀大街南",
-                "direction": "北向",
-                "note": "",
-                "coordinate": "116.637359,40.321187",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "81fdbe35ceb24f3596379920a38623c4",
-                "district": "",
-                "location": "迎宾路与府前街",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.637415,40.316280",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "3aa1edda08b84ec2949171fe75dd5046",
-                "district": "",
-                "location": "迎宾路与后横街路口南",
-                "direction": "北向",
-                "note": "",
-                "coordinate": "116.637148,40.319061",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "738359e541cc4046af126d66e8b4366c",
-                "district": "",
-                "location": "兴怀大街至开放路交叉路口南",
-                "direction": "北向",
-                "note": "",
-                "coordinate": "116.644945,40.321272",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "0a9e37b7294244928b29ec6d5f51afcb",
                 "district": "",
                 "location": "温北路高里掌桥南",
                 "direction": "东西双向",
                 "note": "",
                 "coordinate": "116.139829,40.064887",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "01ab30c414284dac92ceb4c83b96bc98",
-                "district": "",
-                "location": "南华大街地税前交叉路口",
-                "direction": "东西向",
-                "note": "",
-                "coordinate": "116.632362,40.308656",
                 "zone": ""
             },
             {
@@ -51110,16 +42390,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.289197,40.175085",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "26dba91fe8374cb5a99cb9d0fc15a7e0",
-                "district": "",
-                "location": "兴怀大街至开放路交叉路口",
-                "direction": "南北双向",
-                "note": "",
-                "coordinate": "116.644955,40.321285",
                 "zone": ""
             },
             {
@@ -52604,16 +43874,6 @@ export default class _Avoid {
             },
             {
                 "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "ec5c4059044046ee8eaadcb8f46b7aa4",
-                "district": "顺义区",
-                "location": "良白路与京沈路交口东侧",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.637851,40.165586",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
                 "avoid_id": "11ce7693be4a41c2bfc0a72edc17ac43",
                 "district": "丰台区",
                 "location": "草桥欣园小区口东",
@@ -52710,16 +43970,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.517161,39.926196",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-7-27 15:01:31",
-                "avoid_id": "8343c1cdf0a24599b58c2100bd5b516f",
-                "district": "密云区",
-                "location": "西统路与瞳里环路交口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.756113,40.394470",
                 "zone": ""
             },
             {
@@ -52843,16 +44093,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-7-29 23:05:50",
-                "avoid_id": "7addba3fe4d34685a81563c4726c8245",
-                "district": "门头沟区",
-                "location": "石龙路与西苑路交叉口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.133281,39.915997",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-7-29 23:08:16",
                 "avoid_id": "9035b941941e4009bc3ae586397109e5",
                 "district": "朝阳区",
@@ -52883,16 +44123,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-7-29 23:12:48",
-                "avoid_id": "587954a5a3b144ed8cc8356cde24ea72",
-                "district": "测试",
-                "location": "测试",
-                "direction": "测试",
-                "note": "测试",
-                "coordinate": "116.066949,40.042384",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-7-29 23:16:25",
                 "avoid_id": "249fd75208bf44f788dcaedbbf8e7aa0",
                 "district": "",
@@ -52900,26 +44130,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "辅路",
                 "coordinate": "116.246050,40.164621",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-8-1 12:58:20",
-                "avoid_id": "7fc68ddfe4864840a6eebbe6a2f5bd2d",
-                "district": "顺义区",
-                "location": "西环路二中路口",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.628788,40.133172",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-8-1 12:59:46",
-                "avoid_id": "052eb843c01f44b7b6e8a851a19c3e70",
-                "district": "大兴区",
-                "location": "融兴南二街与瑞合西二路交叉口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.501950,39.717917",
                 "zone": ""
             },
             {
@@ -53173,26 +44383,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-8-11 20:37:18",
-                "avoid_id": "97b176565ff640b497e5e5e476cfa43f",
-                "district": "密云区",
-                "location": "新东路与新北路交叉口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.858440,40.388701",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-8-11 20:05:14",
-                "avoid_id": "75fdfeaa7aa84360a9961b0fcf1a5d04",
-                "district": "顺义城区",
-                "location": "东杜兰庄南口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.608684,40.143561",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-8-11 20:06:39",
                 "avoid_id": "8f437da433d4434a88464da27b5655e6",
                 "district": "丰台区",
@@ -53210,16 +44400,6 @@ export default class _Avoid {
                 "direction": "东向西",
                 "note": "",
                 "coordinate": "116.598398,39.979625",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-8-15 09:45:42",
-                "avoid_id": "fdcd373eba2d4bd7aeed72c6435d0b99",
-                "district": "延庆区",
-                "location": "康庄路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.910948,40.369355",
                 "zone": ""
             },
             {
@@ -53400,16 +44580,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "辅路",
                 "coordinate": "116.165329,40.128644",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-8-29 22:21:13",
-                "avoid_id": "b5a004f205054eec89ec55a7ce95f885",
-                "district": "门头沟区",
-                "location": "京蔚高速灵山出入口与京拉线交叉口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "115.510266,39.937768",
                 "zone": ""
             },
             {
@@ -53633,16 +44803,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-9-12 23:40:50",
-                "avoid_id": "d2af97df217d4ad1b1981a8590fe7401",
-                "district": "房山区",
-                "location": "地质公园路口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "115.876583,39.585681",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-9-12 23:41:47",
                 "avoid_id": "2359a283f5504283b8ac11df4cdd4215",
                 "district": "朝阳区",
@@ -53700,16 +44860,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.652764,40.040146",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-9-12 23:46:00",
-                "avoid_id": "ba90ca0c805044b6a68abc0261588c47",
-                "district": "顺义区",
-                "location": "北务工业区内市京路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.823625,40.066521",
                 "zone": ""
             },
             {
@@ -53863,16 +45013,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-9-12 23:59:04",
-                "avoid_id": "d0fbb7f2576d4b749ee49bfece38ea9a",
-                "district": "门头沟区",
-                "location": "美安路与上园路交叉口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.120538,39.899607",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-9-13 00:00:05",
                 "avoid_id": "f3a2bb06052a4658bfbfc6bb86bf69d4",
                 "district": "延庆区",
@@ -53940,16 +45080,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.527269,40.080824",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-9-13 00:04:53",
-                "avoid_id": "ac1cd6d67ab44de9ae2a8b82f3f8df70",
-                "district": "昌平区",
-                "location": "京青线与涧头南小区路路口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.213480,40.234474",
                 "zone": ""
             },
             {
@@ -54203,16 +45333,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-9-25 23:20:48",
-                "avoid_id": "2315f6d95cae4df89c163929fb824328",
-                "district": "昌平区",
-                "location": "水库东路与环陵路路口南",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "116.244608,40.283041",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-9-25 23:21:46",
                 "avoid_id": "72a5c19f0cc149699a376c60edd81f15",
                 "district": "顺义区",
@@ -54280,16 +45400,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.215194,39.890956",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-9-28 23:23:33",
-                "avoid_id": "4fedce23b2164189ba6a58f3a37e04fb",
-                "district": "",
-                "location": "",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.402370,40.046200",
                 "zone": ""
             },
             {
@@ -54633,16 +45743,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-10-13 09:39:21",
-                "avoid_id": "72fea187e6554b7b871ea63693aee706",
-                "district": "开发区",
-                "location": "融兴北一街与瑞合西二路交叉口",
-                "direction": "",
-                "note": "",
-                "coordinate": "116.497934,39.723657",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-10-13 09:39:33",
                 "avoid_id": "b4dee0792ad14745a6c1b3ed823391cc",
                 "district": "通州区",
@@ -54670,16 +45770,6 @@ export default class _Avoid {
                 "direction": "北向南",
                 "note": "",
                 "coordinate": "116.500231,39.754699",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-10-13 09:40:29",
-                "avoid_id": "d22d3610f5c64de59d9ec260466ae8b6",
-                "district": "顺义区",
-                "location": "新顺南大街与站前街路口",
-                "direction": "东向西",
-                "note": "高峰期",
-                "coordinate": "116.651519,40.125867",
                 "zone": ""
             },
             {
@@ -54720,16 +45810,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.489154,39.899101",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-10-13 09:42:00",
-                "avoid_id": "b9bd8c129cbb4971a89bc82a7cbcd3f7",
-                "district": "房山区",
-                "location": "G108复线陈家台村",
-                "direction": "南向北",
-                "note": "",
-                "coordinate": "115.912971,39.820509",
                 "zone": ""
             },
             {
@@ -54840,16 +45920,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.190314,39.862790",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-10-26 20:59:53",
-                "avoid_id": "1aca2b741d2443fcafabcd6cdda6799e",
-                "district": "顺义区",
-                "location": "龙塘路与王各庄中心路交叉口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.811326,40.068537",
                 "zone": ""
             },
             {
@@ -55103,26 +46173,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-11-1 00:17:26",
-                "avoid_id": "48b631799edc4178aaf4789c69b905de",
-                "district": "通州区",
-                "location": "张台路与铺外路交叉口东",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.623067,39.829082",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-11-1 00:17:50",
-                "avoid_id": "212a8c34c01d4cbfb2f5d943a0bf263b",
-                "district": "通州区",
-                "location": "张台路与铺外路交叉口西",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.622353,39.829127",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-11-1 00:17:59",
                 "avoid_id": "e71f7e578e0149a284fc655a1b663feb",
                 "district": "海淀区",
@@ -55240,16 +46290,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.190555,39.862331",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-11-1 00:20:33",
-                "avoid_id": "7aa9130a0d9d4d7a91e587af35b373fb",
-                "district": "昌平区",
-                "location": "安四支线与昌崔路交叉口",
-                "direction": "北向南",
-                "note": "",
-                "coordinate": "116.401509,40.214555",
                 "zone": ""
             },
             {
@@ -55450,16 +46490,6 @@ export default class _Avoid {
                 "direction": "西向东",
                 "note": "",
                 "coordinate": "116.419039,40.110283",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-11-7 18:27:06",
-                "avoid_id": "8122b6f3d0494476966136baba8a9cad",
-                "district": "门头沟区",
-                "location": "紫金路与108辅线交叉口",
-                "direction": "西向东",
-                "note": "",
-                "coordinate": "116.112647,39.890247",
                 "zone": ""
             },
             {

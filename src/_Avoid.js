@@ -45853,16 +45853,6 @@ export default class _Avoid {
                 "zone": ""
             },
             {
-                "update_datetime": "2025-10-21 09:38:29",
-                "avoid_id": "0f34b4e7a10941a0805f381ce1bf0234",
-                "district": "顺义城区",
-                "location": "光明北街与府前东街路口",
-                "direction": "东向西",
-                "note": "",
-                "coordinate": "116.657585,40.129995",
-                "zone": ""
-            },
-            {
                 "update_datetime": "2025-10-21 09:38:56",
                 "avoid_id": "169d686d892840898f791e3d98bbbad6",
                 "district": "海淀区",
@@ -45870,16 +45860,6 @@ export default class _Avoid {
                 "direction": "南向北",
                 "note": "",
                 "coordinate": "116.275149,40.029629",
-                "zone": ""
-            },
-            {
-                "update_datetime": "2025-10-21 09:39:27",
-                "avoid_id": "e938d65362d94278b5062fc08b255065",
-                "district": "顺义城区",
-                "location": "右堤路与顺平辅线路口",
-                "direction": "东南向西北",
-                "note": "",
-                "coordinate": "116.671166,40.127626",
                 "zone": ""
             },
             {

@@ -8,4 +8,8 @@ export default class _Array {
         return arr.filter(item => item[key] !== keyValue);
     }
 
+    static findIndexByKey(arr, key, keyValue) {
+        return arr.findIndex(item => item[key] === keyValue);
+    }
+
 }

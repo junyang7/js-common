@@ -1,6 +1,6 @@
 {
     "name": "js-common",
-    "version": "0.0.1+202601041521",
+    "version": "0.0.1+202601182328",
     "main": "index.js",
     "type": "module",
     "dependencies": {

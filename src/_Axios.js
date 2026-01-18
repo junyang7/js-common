@@ -1,3 +1,4 @@
+import Vue from "vue";
 import axios from "axios";
 import qs from "qs";
 import _IndexedDB from "./_IndexedDB.js";
@@ -26,10 +27,14 @@ export default class _Axios {
             this.request(request).then(async res => {
                 await _IndexedDB.set("authorization", res.headers["authorization"] || "");
                 if (!res.hasOwnProperty("data")) {
+                    Vue.prototype?.$Message?.error("响应数据必须字段缺失：data");
+                    Vue.prototype?.$Loading?.hide();
                     reject(res);
                     return;
                 }
                 if (!res.data.hasOwnProperty("code")) {
+                    Vue.prototype?.$Message?.error("响应数据必须字段缺失：code");
+                    Vue.prototype?.$Loading?.hide();
                     reject(res);
                     return;
                 }
@@ -47,13 +52,18 @@ export default class _Axios {
                                 window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
                             }
                         }
+                        Vue.prototype?.$Loading?.hide();
                         reject(res);
                         return;
                     default:
+                        Vue.prototype?.$Message?.error(res.data.message + JSON.stringify(res.data.data));
+                        Vue.prototype?.$Loading?.hide();
                         reject(res);
                         return;
                 }
             }).catch(err => {
+                Vue.prototype?.$Message?.error("网络异常");
+                Vue.prototype?.$Loading?.hide();
                 reject(err);
             });
         });

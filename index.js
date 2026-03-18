@@ -5,6 +5,7 @@ import _Axios from "./src/_Axios.js";
 import _Base64Format from "./src/_Base64Format.js";
 import _Camera from "./src/_Camera.js";
 import _Coordinate from "./src/_Coordinate.js";
+import _Copy from "./src/_Copy.js";
 import _Date from "./src/_Date.js";
 import _Datetime from "./src/_Datetime.js";
 import _DatetimeMilli from "./src/_DatetimeMilli.js";
@@ -35,6 +36,7 @@ const jc = {
     _Base64Format,
     _Camera,
     _Coordinate,
+    _Copy,
     _Date,
     _Datetime,
     _DatetimeMilli,

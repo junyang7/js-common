@@ -43,11 +43,11 @@ export default class _Axios {
                         return;
                     case 1:
                         if (this.router) {
-                            const href = new URL(window.location.href);
+                            const url = new URL(window.location.href);
                             this.router.replace({
                                 path: "/login",
                                 query: {
-                                    redirect: href.pathname + href.search + href.hash,
+                                    redirect: url.pathname + url.search + url.hash,
                                 }
                             })
                         } else {

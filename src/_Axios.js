@@ -42,23 +42,32 @@ export default class _Axios {
                         resolve(res.data.data);
                         return;
                     case 1:
-                        if (this.router) {
-                            const href = new URL(window.location.href);
-                            this.router.replace({
-                                path: "/login",
-                                query: {
-                                    redirect: href.pathname + href.search + href.hash,
-                                }
-                            })
+                        // if (this.router) {
+                        //     const url = new URL(window.location.href);
+                        //     this.router.replace({
+                        //         path: "/login",
+                        //         query: {
+                        //             redirect: url.pathname + url.search + url.hash,
+                        //         }
+                        //     })
+                        // } else {
+                        //     if (window.location.hash) {
+                        //         if (!window.location.hash.startsWith("#/login?")) {
+                        //             window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
+                        //         }
+                        //     } else {
+                        //         if (!window.location.href.startsWith("/login?")) {
+                        //             window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                        //         }
+                        //     }
+                        // }
+                        if (window.location.hash) {
+                            if (!window.location.hash.startsWith("#/login?")) {
+                                window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
+                            }
                         } else {
-                            if (window.location.hash) {
-                                if (!window.location.hash.startsWith("#/login?")) {
-                                    window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
-                                }
-                            } else {
-                                if (!window.location.href.startsWith("/login?")) {
-                                    window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
-                                }
+                            if (!window.location.href.startsWith("/login?")) {
+                                window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
                             }
                         }
                         Vue.prototype?.$Loading?.hide();

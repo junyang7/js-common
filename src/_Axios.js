@@ -4,9 +4,8 @@ import qs from "qs";
 import _IndexedDB from "./_IndexedDB.js";
 
 axios.defaults.withCredentials = true;
-
 export default class _Axios {
-
+    static router = null;
     static METHOD = {GET: "GET", POST: "POST",}
     static CONTENT_TYPE = {
         X_WWW_FORM_URLENCODED: "application/x-www-form-urlencoded",
@@ -43,13 +42,23 @@ export default class _Axios {
                         resolve(res.data.data);
                         return;
                     case 1:
-                        if (window.location.hash) {
-                            if (!window.location.hash.startsWith("#/login?")) {
-                                window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
-                            }
+                        if (this.router) {
+                            const href = new URL(window.location.href);
+                            this.router.replace({
+                                path: "/login",
+                                query: {
+                                    redirect: href.pathname + href.search + href.hash,
+                                }
+                            })
                         } else {
-                            if (!window.location.href.startsWith("/login?")) {
-                                window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                            if (window.location.hash) {
+                                if (!window.location.hash.startsWith("#/login?")) {
+                                    window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                }
+                            } else {
+                                if (!window.location.href.startsWith("/login?")) {
+                                    window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                }
                             }
                         }
                         Vue.prototype?.$Loading?.hide();
@@ -110,5 +119,4 @@ export default class _Axios {
             data: data,
         })
     }
-
 }

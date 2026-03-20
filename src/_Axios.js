@@ -5,7 +5,7 @@ import _IndexedDB from "./_IndexedDB.js";
 
 axios.defaults.withCredentials = true;
 export default class _Axios {
-    static $router = null;
+    static #lock = false;
     static METHOD = {GET: "GET", POST: "POST",}
     static CONTENT_TYPE = {
         X_WWW_FORM_URLENCODED: "application/x-www-form-urlencoded",
@@ -42,34 +42,16 @@ export default class _Axios {
                         resolve(res.data.data);
                         return;
                     case 1:
-                        // if (this.$router) {
-                        //     if (this.$router.currentRoute.path !== "/login") {
-                        //         const url = new URL(window.location.href);
-                        //         this.$router.replace({
-                        //             path: "/login",
-                        //             query: {
-                        //                 redirect: url.pathname + url.search + url.hash,
-                        //             }
-                        //         })
-                        //     }
-                        // } else {
-                        //     if (window.location.hash) {
-                        //         if (!window.location.hash.startsWith("#/login?")) {
-                        //             window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
-                        //         }
-                        //     } else {
-                        //         if (!window.location.href.startsWith("/login?")) {
-                        //             window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
-                        //         }
-                        //     }
-                        // }
-                        if (window.location.hash) {
-                            if (!window.location.hash.startsWith("#/login?")) {
-                                window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
-                            }
-                        } else {
-                            if (!window.location.href.startsWith("/login?")) {
-                                window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                        if (!this.#lock) {
+                            this.#lock = true;
+                            if (window.location.hash) {
+                                if (!window.location.hash.startsWith("#/login?")) {
+                                    window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                }
+                            } else {
+                                if (!window.location.href.startsWith("/login?")) {
+                                    window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                }
                             }
                         }
                         Vue.prototype?.$Loading?.hide();

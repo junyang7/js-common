@@ -6,6 +6,7 @@ import _IndexedDB from "./_IndexedDB.js";
 axios.defaults.withCredentials = true;
 export default class _Axios {
     static #lock = false;
+    static $router = null;
     static METHOD = {GET: "GET", POST: "POST",}
     static CONTENT_TYPE = {
         X_WWW_FORM_URLENCODED: "application/x-www-form-urlencoded",
@@ -44,13 +45,24 @@ export default class _Axios {
                     case 1:
                         if (!this.#lock) {
                             this.#lock = true;
-                            if (window.location.hash) {
-                                if (!window.location.hash.startsWith("#/login?")) {
-                                    window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
-                                }
-                            } else {
-                                if (!window.location.href.startsWith("/login?")) {
-                                    window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                            if (this.$router) {
+                                if (this.$router.currentRoute.path !== "/login") {
+                                    this.$router.replace({
+                                        path: "/login",
+                                        query: {
+                                            redirect: window.location.href,
+                                        }
+                                    });
+                                } else {
+                                    if (window.location.hash) {
+                                        if (!window.location.hash.startsWith("#/login?")) {
+                                            window.location.replace(`/#/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                        }
+                                    } else {
+                                        if (!window.location.href.startsWith("/login?")) {
+                                            window.location.replace(`/login?redirect=${encodeURIComponent(window.location.href)}`)
+                                        }
+                                    }
                                 }
                             }
                         }

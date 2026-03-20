@@ -44,7 +44,7 @@ export default class _Axios {
                         return;
                     case 1:
                         if (this.router) {
-                            console.log(JSON.stringify(this.router, null, 4))
+                            console.log(this.router.currentRoute.path)
                             const url = new URL(window.location.href);
                             this.router.replace({
                                 path: "/login",

@@ -51,6 +51,8 @@ export default class _Axios {
                                     query: {
                                         redirect: url,
                                     }
+                                }).catch(err => {
+
                                 })
                             }
                         } else {

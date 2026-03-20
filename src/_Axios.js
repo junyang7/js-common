@@ -49,7 +49,7 @@ export default class _Axios {
                                 this.router.replace({
                                     path: "/login",
                                     query: {
-                                        redirect: url.pathname + url.search + url.hash,
+                                        redirect: url,
                                     }
                                 })
                             }

@@ -44,14 +44,15 @@ export default class _Axios {
                         return;
                     case 1:
                         if (this.router) {
-                            console.log(this.router.currentRoute.path)
-                            const url = new URL(window.location.href);
-                            this.router.replace({
-                                path: "/login",
-                                query: {
-                                    redirect: url.pathname + url.search + url.hash,
-                                }
-                            })
+                            if (this.router.currentRoute.path !== "/login") {
+                                const url = new URL(window.location.href);
+                                this.router.replace({
+                                    path: "/login",
+                                    query: {
+                                        redirect: url.pathname + url.search + url.hash,
+                                    }
+                                })
+                            }
                         } else {
                             if (window.location.hash) {
                                 if (!window.location.hash.startsWith("#/login?")) {

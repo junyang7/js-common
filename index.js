@@ -4,6 +4,7 @@ import _Avoid from "./src/_Avoid.js";
 import _Axios from "./src/_Axios.js";
 import _Base64Format from "./src/_Base64Format.js";
 import _Camera from "./src/_Camera.js";
+import _Color from "./src/_Color.js";
 import _Coordinate from "./src/_Coordinate.js";
 import _Copy from "./src/_Copy.js";
 import _Date from "./src/_Date.js";
@@ -35,6 +36,7 @@ const jc = {
     _Axios,
     _Base64Format,
     _Camera,
+    _Color,
     _Coordinate,
     _Copy,
     _Date,
